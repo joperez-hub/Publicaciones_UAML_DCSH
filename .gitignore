@@ -1,0 +1,26 @@
+# .gitignore
+# Archivos compilados
+*.pdf
+*.html
+*.epub
+output/
+_book/
+docs/
+
+# Archivos temporales de R
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+.Ruserdata
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Bibliografía generada
+*.bbl
+*.blg
