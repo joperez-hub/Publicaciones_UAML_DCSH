@@ -1,0 +1,13 @@
+---
+type: chapter
+---
+
+# Prólogo {.unnumbered}
+
+\addtocontents{toc}{\protect\hspace{1.5em}Nombre del Autor\par}
+
+Nombre del Autor askfjbvaldkfjb[^1]
+
+Contenido del Capítulo
+
+[^1]: Adscripción del autor; semblanza según sea el caso 

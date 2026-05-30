@@ -1,0 +1,47 @@
+project:
+  type: book
+
+book:
+  title: ""
+  subtitle: ""
+  editor: "Nombre del Editor"
+  publisher: "Universidad Autónoma Metropolitana, Unidad Lerma"
+  publisher-place: "Lerma de Villada, Estado de México"
+  date: ""
+  isbn: "978-xxx-xxx-xxx-x"  # ISBN del libro completo
+  chapters:
+    - index.qmd
+
+lang: es
+
+format:
+  pdf:
+    documentclass: scrbook
+    pdf-engine: xelatex
+    include-before-body: plantilla_portada.tex
+
+    # Configuración de TOC
+    toc: true
+    toc-depth: 2
+    toc-title: "Índice"
+    
+    # Renombrar secciones
+    number-sections: true
+    reference-section-title: "Referencias Bibliográficas"
+    lof-title: "Índice de Figuras"
+    lot-title: "Índice de Tablas"
+    
+    # Bibliografía y citas (COMÚN A TODOS LOS CAPÍTULOS)
+    csl: estilos/apa-6th-edition-es.csl
+    bibliography: plantilla_bibliografia.bib  # Archivo unificado en raíz
+    
+    # Configuración de citas
+    citation:
+      type: chapter
+      container-title: "Título del Libro"
+      editor: "Nombre del Coordinador"
+      publisher: "Universidad Autónoma Metropolitana"
+    
+    # Desactivar elementos no necesarios
+    lof: false
+    lot: false

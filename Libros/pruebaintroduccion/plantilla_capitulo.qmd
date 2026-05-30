@@ -1,0 +1,45 @@
+---
+# Metadatos ESENCIALES del capítulo (no repetitivos)
+title: "[Título del capítulo]"
+subtitle: "[Título en inglés]"
+
+author:
+  - name: "[Nombre del Autor]"
+    affiliation: "[Universidad]"
+    orcid: "0000-0000-0000-0000"  # Si el autor lo proporciona
+    email: "un.correo@direccion.com"  # Si el autor lo proporciona
+
+# Metadatos ESPECÍFICOS del capítulo (no centralizables)
+chapter-number: ""
+page-range: ""  # Ajustar según paginación final
+doi: ""  # DOI del capítulo (cuando se asigne)
+
+# Contenido del capítulo
+abstract: |
+  [Resumen del capítulo]
+
+keywords:
+  - "[palabra1]"
+  - "[palabra2]"
+
+# Tipo de documento
+type: chapter
+
+# Personalización específica (opcional, solo si varía por capítulo)
+footer-note: |
+  \newcommand{\articuloTitulo}{[Título abreviado]}
+
+# Campos OPCIONALES (dejar en blanco o eliminar si no aplican)
+acknowledgments: ""  # Agradecimientos específicos del capítulo
+funding: ""  # Financiamiento específico
+notes: ""  # Notas del autor
+---
+
+## Intro {.unnumbered .unlisted}
+
+\addtocontents{toc}{\protect\hspace{1.5em}Nombre del autor\par}
+
+Nombre del autor[^3]
+
+[^3]: Adscripción del autor, semblanza.
+

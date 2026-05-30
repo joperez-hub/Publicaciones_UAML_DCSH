@@ -1,0 +1,15 @@
+---
+type: chapter
+---
+
+# Introducción
+
+\addtocontents{toc}{\protect\hspace{1.5em}Nombre del autor\par}
+
+Nombre del autor[^2]
+
+Contenido del Capítulo
+
+[^2]: Adscripción del autor, semblanza.
+
+
