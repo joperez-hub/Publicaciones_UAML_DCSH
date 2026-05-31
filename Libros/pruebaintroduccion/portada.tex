@@ -1,0 +1,89 @@
+% ============================================
+% PÁGINA 1: PORTADA CON IMAGEN
+% ============================================
+\begin{titlepage}
+    \thispagestyle{empty}
+    \includegraphics[width=1.1\textwidth]{/Users/opb/Documents/Publicaciones_UAML_DCSH/Libros/pruebaintroduccion/assets/imagenes/portada.jpg}
+\end{titlepage}
+
+% ============================================
+% PÁGINA 2: EN BLANCO (verso de portada)
+% ============================================
+\clearpage
+\thispagestyle{empty}
+\null
+\clearpage
+
+% ============================================
+% PÁGINA 3: PORTADILLA (MEDIA PORTADA)
+% ============================================
+\clearpage
+\thispagestyle{empty}
+\pagestyle{empty}
+
+% INICIO DEL ALINEAMIENTO IZQUIERDO (solo para esta página)
+\begingroup  % ← Inicia grupo local
+\raggedright
+
+\vspace*{1.5cm}
+{\LARGE \textbf{Título del Libro}} \\
+\vspace{0.3cm}
+{\large Subtítulo del Libro} \\
+\vspace{1cm}
+{\LARGE Nombre del Coordinador} \\
+\vspace{0.3cm}
+{\large Coordinador}
+
+\vfill
+
+\begin{minipage}[t]{0.50\textwidth}
+    \includegraphics[width=1.2\textwidth]{/Users/opb/Documents/Publicaciones_UAML_DCSH/institucionales/assets/logos/logo_uam_l.png}
+\end{minipage}
+
+\endgroup  % ← TERMINA EL GRUPO: restaura justificación automática
+\clearpage
+
+
+% ============================================
+% PÁGINA 4: CRÉDITOS / DATOS LEGALES
+% ============================================
+\begin{titlepage}
+    \thispagestyle{empty}
+    \vspace*{2cm}
+    \begin{center}
+        \textbf{Título del Libro} \\
+        \textit{Subtítulo del Libro} \\
+        \vspace{0.5cm}
+        \small
+        Coordinador: Nombre del Coordinador \\
+        Universidad Autónoma Metropolitana \\
+        Unidad Lerma \\
+        
+        
+        \rule{0.6\textwidth}{0.4pt}
+        \vspace{0.5cm}
+        
+        \small
+        \textbf{Datos de catalogación} \\
+        \vspace{0.3cm}
+        Primera edición, 2026 \\
+        Lerma de Villada, Estado de México \\
+        \vspace{0.3cm}
+        ISBN: 978-xxx-xxx-xxx-x \\
+        D.R. © 2026, Universidad Autónoma Metropolitana \\
+        Unidad Lerma \\
+        Av. Hidalgo Poniente 46, Col. La Estación, \\
+        Lerma de Villada, Estado de México, C.P. 52006 \\
+        \vspace{0.3cm}
+        Impreso y hecho en México \\
+        \vspace{0.3cm}
+        Queda prohibida la reproducción total o parcial \\
+        sin autorización escrita del titular de los derechos
+    \end{center}
+\end{titlepage}
+
+% ============================================
+% REGRESO A ESTILO NORMAL
+% ============================================
+\clearpage
+\pagestyle{plain}  % No reinicie el contador aquí

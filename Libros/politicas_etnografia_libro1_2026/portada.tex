@@ -1,85 +1,64 @@
 % ============================================
-% PÁGINA 1: PORTADA COMPLETA
+% PÁGINA 1: PORTADA CON IMAGEN
 % ============================================
 \begin{titlepage}
     \thispagestyle{empty}
-    \pagestyle{empty}
-    
-    \noindent
-    \begin{minipage}[b][\paperheight]{\paperwidth}
-        \centering
-        \includegraphics[width=\paperwidth]{assets/imagenes/portada.jpg}
-    \end{minipage}
+    \includegraphics[width=1.1\textwidth]{/Users/opb/Documents/Publicaciones_UAML_DCSH/Libros/pruebaintroduccion/assets/imagenes/portada.jpg}
 \end{titlepage}
 
 % ============================================
-% PÁGINA 2: EN BLANCO
+% PÁGINA 2: EN BLANCO (verso de portada)
+% ============================================
+\clearpage
+\thispagestyle{empty}
+\null
+\clearpage
+
+% ============================================
+% PÁGINA 3: PORTADILLA (MEDIA PORTADA)
 % ============================================
 \clearpage
 \thispagestyle{empty}
 \pagestyle{empty}
-\mbox{}  % Página vacía
-\clearpage
 
-% ============================================
-% PÁGINA 3: CINTILLO (MEDIA PORTADA)
-% ============================================
-\clearpage
-\thispagestyle{empty}
-\pagestyle{empty}
-
-
+% INICIO DEL ALINEAMIENTO IZQUIERDO (solo para esta página)
+\begingroup  % ← Inicia grupo local
 \raggedright
-    % TÍTULO (Negritas, tamaño grande)
-    \LARGE \textbf{Título del Libro} \\
 
-    \vspace{0.3cm}
-    
-    % SUBTÍTULO (Normal, más pequeño)
-    \large Subtítulo del Libro \\
-    
-    \vspace{1cm} % Espacio generoso entre título y autor (estilo Siglo XXI)
-    
-    % AUTOR (Tamaño grande, normal)
-    \LARGE Nombre del Coordinador \\
-    
-    \vspace{0.3cm}
-    
-    % ROL (Tamaño normal)
-    \large Coordinador \\
-    
-% =========================================
-% PÁGINA 3.1:IMÁGENES EN LA PARTE INFERIOR
-% =========================================
-    \vfill  % Empuja todo el contenido siguiente al fondo de la página
-    \vspace{2.5cm}
-    
-    \begin{minipage}[t]{0.48\textwidth}  % 48% del ancho de texto
-        \includegraphics[width=1.5\textwidth]{../../institucionales/assets/logos/logo_uam_l.png}  % Imagen al 50% del minipage
-    \end{minipage}% Se puede agregar otra minipage abajo si es necesario ingresar otro logotipo
-    
+\vspace*{1.5cm}
+{\LARGE \textbf{Título del Libro}} \\
+\vspace{0.3cm}
+{\large Subtítulo del Libro} \\
+\vspace{1cm}
+{\LARGE Nombre del Coordinador} \\
+\vspace{0.3cm}
+{\large Coordinador}
+
+\vfill
+
+\begin{minipage}[t]{0.50\textwidth}
+    \includegraphics[width=1.2\textwidth]{/Users/opb/Documents/Publicaciones_UAML_DCSH/institucionales/assets/logos/logo_uam_l.png}
+\end{minipage}
+
+\endgroup  % ← TERMINA EL GRUPO: restaura justificación automática
 \clearpage
 
+
 % ============================================
-% PÁGINA 4: DATOS LEGALES / CRÉDITOS
+% PÁGINA 4: CRÉDITOS / DATOS LEGALES
 % ============================================
 \begin{titlepage}
     \thispagestyle{empty}
-    \pagestyle{empty}
-    
     \vspace*{2cm}
-    
     \begin{center}
         \textbf{Título del Libro} \\
         \textit{Subtítulo del Libro} \\
         \vspace{0.5cm}
-        
         \small
         Coordinador: Nombre del Coordinador \\
         Universidad Autónoma Metropolitana \\
         Unidad Lerma \\
-        División de Ciencias Sociales y Humanidades \\
-        \vspace{1cm}
+        
         
         \rule{0.6\textwidth}{0.4pt}
         \vspace{0.5cm}
@@ -104,7 +83,7 @@
 \end{titlepage}
 
 % ============================================
-% REGRESAR A ESTILO NORMAL PARA EL ÍNDICE
+% REGRESO A ESTILO NORMAL
 % ============================================
-\pagestyle{plain}
-\setcounter{page}{1}  % Reinicia numeración para el índice
+\clearpage
+\pagestyle{plain}  % No reinicie el contador aquí

@@ -11,8 +11,8 @@ project:
 # METADATOS EDITORIALES Y BIBLIOGRÁFICOS
 # ============================================
 book:
-  title: ""
-  subtitle: ""
+  title: "Título completo del libro"
+  subtitle: "Subtítulo opcional"
   editor:
     - name: "Nombre del Coordinador"
       affiliation: "Institución del Coordinador"
@@ -20,7 +20,7 @@ book:
       orcid: "0000-0000-0000-0000"  # opcional pero recomendado
   publisher: "Universidad Autónoma Metropolitana, Unidad Lerma"
   publisher-place: "Lerma de Villada, Estado de México"
-  date: ""  # formato ISO 8601: AAAA-MM-DD
+  date: "2026-05-31"  # formato ISO 8601: AAAA-MM-DD
   isbn: "978-xxx-xxx-xxx-x"
   doi: "10.xxxx/xxxxx"  # si ya está asignado
   license: "CC BY-NC-SA 4.0"  # o la que corresponda
