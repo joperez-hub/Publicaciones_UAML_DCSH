@@ -63,9 +63,9 @@ format:
     sansfont: "Montserrat"
 
     # Aquí externalizamos los archivos
-    include-in-header: 
-      - latex/preambulo.tex      # Archivo con paquetes y comandos globales
-      - latex/entornos.tex       # Archivo con el entorno de transcripción
+    #include-in-header: 
+    #  - latex/preambulo.tex      # Archivo con paquetes y comandos globales
+    #  - latex/entornos.tex       # Archivo con el entorno de transcripción
 
 
 
