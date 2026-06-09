@@ -2,7 +2,7 @@
 # Metadatos ESENCIALES del capítulo (no repetitivos)
 pdf-engine: xelatex
 title: "[Título del capítulo]"
-subtitle: "[Título en inglés]" #Por cuestiones de diseño aquí va el nombre completo de la autora o autor
+subtitle: "" #Por cuestiones de diseño aquí va el nombre completo de la autora o autor
 
 author:
   - name: "[Nombre del Autor]" #Aquí también va el nombre completo, no importa que se repita
@@ -34,8 +34,45 @@ funding: ""  # Financiamiento específico
 notes: ""  # Notas del autor
 ---
 
-\addtocontents{toc}{\protect\hspace{1.5em}Nombre del Autor\par}
-\markboth{Título corto, priorizando palabras clave}{}
+\addtocontents{toc}{\protect\hspace{1.5em}[Nombre del Autor del Capítulo]\par}
+\markboth{Capitalismo Cognitivo}{}
+
+\begin{flushright}
+\Large [Nombre del Autor del Capítulo] \footnote{SEMBLANZA}
+\end{flushright}
 
 ## Introducción {.unnumbered .unlisted}
 
+
+La incorporación de plataformas digitales en los entornos universitarios ha reconfigurado no solo las dinámicas de enseñanza, sino también los modos en que se legitima el saber disciplinar. Desde la sociología del conocimiento, resulta evidente que la materialidad de los entornos virtuales opera como un filtro epistemológico que privilegia ciertas formas de interacción sobre otras [@Villalobos2021]. Esta transformación exige un análisis crítico que trascienda la narrativa de la innovación per se y examine cómo se redistribuyen las jerarquías académicas en espacios mediados por algoritmos, donde la visibilidad y el rastreo de métricas condicionan los ritmos de producción intelectual.
+En paralelo, la externalización de procesos cognitivos hacia repositorios en la nube ha generado un debate intenso sobre la naturaleza de la memoria colectiva y los umbrales de validación académica. Lejos de constituir un mero desplazamiento técnico, este fenómeno revela una reestructuración de los habitus investigativos donde la inmediatez y la accesibilidad compiten con la profundidad analítica [@GarciaMendoza2020]. La cognición distribuida, en este sentido, no puede desligarse de las arquitecturas de poder que determinan qué conocimientos se indexan, cuáles se archivan y cuáles quedan marginados por diseño, lo cual requiere una vigilancia epistemológica constante.
+La operacionalización de estos marcos teóricos enfrenta obstáculos metodológicos recurrentes, particularmente en la articulación entre el análisis cualitativo y la computación reproducible. La fragmentación de los flujos de trabajo, sumada a la dependencia de interfaces propietarias, dificulta la construcción de corpus analíticos transparentes y auditables [@TorresPerez2023]. No obstante, la migración hacia entornos de código abierto y la adopción de estándares de metadatos interoperables representan una vía para superar la opacidad técnica y fortalecer la trazabilidad de las inferencias sociológicas en contextos de alta complejidad institucional.
+En última instancia, la transición hacia modelos de producción académica computacional no debe entenderse como una mera optimización logística, sino como un ejercicio de soberanía epistémica. La capacidad de generar documentos versionados, vinculados a datos primarios y susceptibles de revisión colaborativa redefine los contratos de autoría y los mecanismos de evaluación por pares. Esta transformación, si bien impone una curva de aprendizaje exigente, consolida una ética de transparencia que resulta indispensable para sostener la credibilidad institucional en un ecosistema informativo cada vez más saturado y mercantilizado.
+
+\begingroup
+\scriptsize
++-------------------------+-----------------------------------------+-----------------------------------------+-------------------------+
+| Dimensión Analítica     | Indicador Operativo                     | Fuente de Datos                         | Valor Estandarizado     |
++=========================+=========================================+=========================================+=========================+
+| Infraestructura digital | Densidad de nodos por aula virtual      | Registros institucionales anonimizados  | 0,842                   |
++-------------------------+-----------------------------------------+-----------------------------------------+-------------------------+
+| Cognición distribuida   | Frecuencia de externalización mnémica   | Diarios de campo etnográficos           | 1,157                   |
++-------------------------+-----------------------------------------+-----------------------------------------+-------------------------+
+| Jerarquía epistémica    | Índice de citación cruzada              | Bases de datos bibliométricas indexadas | 0,631                   |
++-------------------------+-----------------------------------------+-----------------------------------------+-------------------------+
+| Brecha de apropiación   | Tasa de adopción por cohorte.           | Encuestas long. y grupos focales        | 0,924                   |
++-------------------------+-----------------------------------------+-----------------------------------------+-------------------------+
+
+: Una Tabla. Elaboración propia {#tbl-1}
+
+\endgroup
+
+La incorporación de plataformas digitales (ver @tbl-1) en los entornos universitarios ha reconfigurado no solo las dinámicas de enseñanza, sino también los modos en que se legitima el saber disciplinar. Desde la sociología del conocimiento, resulta evidente que la materialidad de los entornos virtuales opera como un filtro epistemológico que privilegia ciertas formas de interacción sobre otras [@Villalobos2021]. Esta transformación exige un análisis crítico que trascienda la narrativa de la innovación per se y examine cómo se redistribuyen las jerarquías académicas en espacios mediados por algoritmos, donde la visibilidad y el rastreo de métricas condicionan los ritmos de producción intelectual.
+En paralelo, la externalización de procesos cognitivos hacia repositorios en la nube ha generado un debate intenso sobre la naturaleza de la memoria colectiva y los umbrales de validación académica. Lejos de constituir un mero desplazamiento técnico, este fenómeno revela una reestructuración de los habitus investigativos donde la inmediatez y la accesibilidad compiten con la profundidad analítica [@GarciaMendoza2020]. La cognición distribuida, en este sentido, no puede desligarse de las arquitecturas de poder que determinan qué conocimientos se indexan, cuáles se archivan y cuáles quedan marginados por diseño, lo cual requiere una vigilancia epistemológica constante.
+La operacionalización de estos marcos teóricos enfrenta obstáculos metodológicos recurrentes, particularmente en la articulación entre el análisis cualitativo y la computación reproducible. La fragmentación de los flujos de trabajo, sumada a la dependencia de interfaces propietarias, dificulta la construcción de corpus analíticos transparentes y auditables [@TorresPerez2023]. No obstante, la migración hacia entornos de código abierto y la adopción de estándares de metadatos interoperables representan una vía para superar la opacidad técnica y fortalecer la trazabilidad de las inferencias sociológicas en contextos de alta complejidad institucional.
+En última instancia, la transición hacia modelos de producción académica computacional no debe entenderse como una mera optimización logística, sino como un ejercicio de soberanía epistémica. La capacidad de generar documentos versionados, vinculados a datos primarios y susceptibles de revisión colaborativa redefine los contratos de autoría y los mecanismos de evaluación por pares. Esta transformación, si bien impone una curva de aprendizaje exigente, consolida una ética de transparencia que resulta indispensable para sostener la credibilidad institucional en un ecosistema informativo cada vez más saturado y mercantilizado.
+
+La incorporación de plataformas digitales en los entornos universitarios ha reconfigurado no solo las dinámicas de enseñanza, sino también los modos en que se legitima el saber disciplinar. Desde la sociología del conocimiento, resulta evidente que la materialidad de los entornos virtuales opera como un filtro epistemológico que privilegia ciertas formas de interacción sobre otras [@Villalobos2021]. Esta transformación exige un análisis crítico que trascienda la narrativa de la innovación per se y examine cómo se redistribuyen las jerarquías académicas en espacios mediados por algoritmos, donde la visibilidad y el rastreo de métricas condicionan los ritmos de producción intelectual.
+En paralelo, la externalización de procesos cognitivos hacia repositorios en la nube ha generado un debate intenso sobre la naturaleza de la memoria colectiva y los umbrales de validación académica. Lejos de constituir un mero desplazamiento técnico, este fenómeno revela una reestructuración de los habitus investigativos donde la inmediatez y la accesibilidad compiten con la profundidad analítica [@GarciaMendoza2020]. La cognición distribuida, en este sentido, no puede desligarse de las arquitecturas de poder que determinan qué conocimientos se indexan, cuáles se archivan y cuáles quedan marginados por diseño, lo cual requiere una vigilancia epistemológica constante.
+La operacionalización de estos marcos teóricos enfrenta obstáculos metodológicos recurrentes, particularmente en la articulación entre el análisis cualitativo y la computación reproducible. La fragmentación de los flujos de trabajo, sumada a la dependencia de interfaces propietarias, dificulta la construcción de corpus analíticos transparentes y auditables [@TorresPerez2023]. No obstante, la migración hacia entornos de código abierto y la adopción de estándares de metadatos interoperables representan una vía para superar la opacidad técnica y fortalecer la trazabilidad de las inferencias sociológicas en contextos de alta complejidad institucional.
+En última instancia, la transición hacia modelos de producción académica computacional no debe entenderse como una mera optimización logística, sino como un ejercicio de soberanía epistémica. La capacidad de generar documentos versionados, vinculados a datos primarios y susceptibles de revisión colaborativa redefine los contratos de autoría y los mecanismos de evaluación por pares. Esta transformación, si bien impone una curva de aprendizaje exigente, consolida una ética de transparencia que resulta indispensable para sostener la credibilidad institucional en un ecosistema informativo cada vez más saturado y mercantilizado.

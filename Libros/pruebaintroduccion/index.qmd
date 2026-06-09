@@ -1,20 +1,24 @@
 ---
 type: chapter
-subtitle: "Nombre del Autor"
+subtitle: ""
 lang: es
 pdf-engine: xelatex
 ---
 
 \vspace{-\baselineskip}
 
-## Introducción {.unnumbered}
+# INTRODUCCIÓN {.unnumbered}
 
-\addtocontents{toc}{\protect\hspace{1.5em}Nombre del Autor\par}
+\addtocontents{toc}{\protect\hspace{1.5em}Nombre Completo del Coordinador\par}
 
-La incorporación de tecnologías digitales en los entornos educativos contemporáneos ha transformado no solo las prácticas pedagógicas, sino también las estructuras mismas de producción y circulación del conocimiento (Bourdieu, 1984). Desde una perspectiva sociológica, este fenómeno no puede reducirse a un simple cambio instrumental; más bien, implica una reconfiguración de los habitus académicos y de las relaciones de poder que operan en las instituciones universitarias. La materialidad de las plataformas, la arquitectura de los algoritmos y la vigilancia digital configuran nuevos espacios de socialización donde se negocian constantemente los límites entre lo público y lo privado, lo formal y lo informal. En este marco, la sociología del conocimiento nos invita a cuestionar las epistemologías implícitas que subyacen a los modelos de aprendizaje mediados por pantallas. La cognición distribuida, lejos de ser un fenómeno neutro, se ve mediada por infraestructuras técnicas que privilegian ciertas formas de razonamiento sobre otras (Latour, 1993). Así, la externalización de la memoria en repositorios digitales no solo modifica los procesos individuales de retención, sino que redefine colectivamente los criterios de validación científica y los umbrales de legitimidad intelectual [@Rodriguez2019].
+La incorporación de tecnologías digitales en los entornos educativos contemporáneos ha transformado no solo las prácticas pedagógicas, sino también las estructuras mismas de producción y circulación del conocimiento (Bourdieu, 1984). Desde una perspectiva sociológica, este fenómeno no puede reducirse a un simple cambio instrumental; más bien, implica una reconfiguración de los habitus académicos y de las relaciones de poder que operan en las instituciones universitarias. La materialidad de las plataformas, la arquitectura de los algoritmos y la vigilancia digital configuran nuevos espacios de socialización donde se negocian constantemente los límites entre lo público y lo privado, lo formal y lo informal. En este marco, la sociología del conocimiento nos invita a cuestionar las epistemologías implícitas que subyacen a los modelos de aprendizaje mediados por pantallas. La cognición distribuida, lejos de ser un fenómeno neutro, se ve mediada por infraestructuras técnicas que privilegian ciertas formas de razonamiento sobre otras (Latour, 1993). Así, la externalización de la memoria en repositorios digitales no solo modifica los procesos individuales de retención, sino que redefine colectivamente los criterios de validación científica y los umbrales de legitimidad intelectual.
 
 La investigación empírica sobre estos procesos exige un enfoque metodológico que integre tanto el análisis de redes como la etnografía digital, permitiendo rastrear la circulación de artefactos cognitivos a través de múltiples escalas institucionales. Los datos generados por las plataformas educativas rara vez son transparentes; por el contrario, operan como cajas negras que requieren una deconstrucción crítica de sus lógicas de diseño (Winner, 1980). Solo mediante una observación participante prolongada y el cruce sistemático de registros cualitativos y cuantitativos es posible evitar la fetichización tecnológica y comprender las verdaderas dinámicas de apropiación.
 
 No obstante, la implementación de estos marcos analíticos enfrenta obstáculos estructurales recurrentes: la fragmentación disciplinaria, la precarización de la investigación universitaria y la dependencia de software propietario dificultan la construcción de repositorios abiertos y reproducibles. La interoperabilidad entre sistemas de gestión bibliográfica, entornos de programación estadística y plataformas de publicación académica sigue siendo un desafío técnico y epistemológico. Sin embargo, la adopción de estándares abiertos y flujos de trabajo colaborativos representa una vía prometedora para democratizar el acceso al conocimiento y fortalecer la autonomía investigativa.
 
-En última instancia, el estudio de la tecnología en espacios educativos debe trascender la dicotomía entre determinismo tecnológico y voluntarismo pedagógico. Se requiere una teoría sociológica robusta que articule las dimensiones macroestructurales de la desigualdad con las microinteracciones cotidianas en el aula virtual. La colaboración interdisciplinaria, el diálogo con la comunidad de desarrollo de software libre y la formación crítica en alfabetización digital constituyen, en conjunto, los pilares de una agenda investigativa comprometida con la justicia cognitiva y la transformación institucional.
+\begin{flushright}
+\Large Nombre Completo del Coordinador\\
+
+\Large \textit{Coordinador}
+\end{flushright}

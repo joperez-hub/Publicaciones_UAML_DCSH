@@ -1,0 +1,81 @@
+#===============================================================================
+# 1. CONFIGURACIÓN GENERAL DEL PROYECTO
+#===============================================================================
+# Define el tipo de salida y los archivos fuente que Quarto debe procesar.
+project:
+  type: book                  # Especifica que la salida es un libro (estructura multi-capítulo).
+  output-dir: _book           # Directorio donde se compilarán los archivos finales (ignorado por .gitignore).
+  render: 
+    - "*.qmd"                 # Instruye a Quarto a renderizar todos los archivos con extensión .qmd en el directorio.
+
+#===============================================================================
+# 2. METADATOS EDITORIALES Y DE PUBLICACIÓN
+#===============================================================================
+# Contiene la información paratextual esencial para la catalogación y derechos de autor.
+book:
+  title: ""
+  subtitle: ""
+  editor:
+    - name: "Nombre del Coordinador"
+      affiliation: "Universidad Autónoma Metropolitana, Unidad Lerma" # Sugerencia: Unificar nombre institucional.
+      email: "correo.del.coordinador@institución.com"
+      orcid: ""                # CRÍTICO: Completar para garantizar la indexación y atribución académica correcta.
+  publisher: "Universidad Autónoma Metropolitana, Unidad Lerma"
+  publisher-place: "Lerma de Villada, Estado de México"
+  date: ""                # Sugerencia: Usar "today" para fecha automática de compilación o formato ISO (AAAA-MM-DD).
+  isbn: "978-xxx-xxx-xxx-x"    # Reemplazar con el ISBN asignado por la editorial institucional.
+  doi: "10.xxxx/xxxxx"         # Reemplazar si el DOI ya ha sido asignado.
+  license: "CC BY-NC-SA 4.0"   # Licencia Creative Commons (Reconocimiento-NoComercial-CompartirIgual).
+  chapters:
+    - index.qmd                # Portada, créditos e introducción general.
+    - part: CONTENIDO DEL LIBRO
+      chapters:
+        - plantilla_capitulo.qmd
+    - part: ENTREVISTA
+      chapters:
+        - plantilla_entrevista.qmd
+    - part: REFERENCIAS BIBLIOGRÁFICAS
+      chapters:
+        - referencias.qmd
+
+#===============================================================================
+# 3. CONFIGURACIÓN DE FORMATO Y MAQUETACIÓN (PDF)
+#===============================================================================
+# Parámetros específicos para la generación del documento PDF vía motor LaTeX.
+format:
+  pdf:
+    # --- Configuración básica del documento ---
+    title-page: false          # Desactiva la portada automática de Quarto para usar la plantilla personalizada (portada.tex).
+    pdf-engine: xelatex        # Motor recomendado para manejar fuentes del sistema de manera nativa (fontspec).
+    lang: es                   # CRÍTICO: Define el idioma para paquetes como polyglossia y la localización de citas/índices.
+    documentclass: scrbook     # Clase KOMA-Script, superior para maquetación de libros y control tipográfico fino.
+    papersize: "a4"
+    fontsize: 11pt
+    geometry: "left=3cm,right=3cm,top=3cm,bottom=4cm" # Márgenes según lineamientos institucionales o de impresión.
+    
+    # --- Configuración tipográfica global ---
+    mainfont: "Cormorant Garamond" # Fuente principal declarada aquí para evitar redundancias en el header.
+    #sansfont: "Montserrat"
+
+    # Aquí externalizamos los archivos
+    include-in-header: 
+      - latex/preambulo.tex      # Archivo con paquetes y comandos globales
+      - latex/entornos.tex       # Archivo con el entorno de para transcripciones
+
+    # --- Inserción de elementos antes del cuerpo del texto ---
+    include-before-body: latex/portada.tex # Llama a la plantilla de portada personalizada.
+
+    # --- Estructura de navegación y índices ---
+    toc: true
+    toc-depth: 2                     # Profundidad del índice: hasta nivel de sección (1=capítulo, 2=sección).
+    toc-title: "Índice"
+    number-sections: false            # Activa la numeración automática de capítulos y secciones.
+    lof-title: "Índice de Figuras"
+    lot-title: "Índice de Tablas"
+    lof: false                       # Desactivado (cambiar a true si el libro contiene figuras numeradas).
+    lot: false                       # Desactivado (cambiar a true si el libro contiene tablas numeradas).
+
+    # --- Gestión de Referencias y Citas ---
+    csl: estilos/apa-6th-edition-es.csl
+    bibliography: assets/plantilla_bibliografia.bib
+    nocite: "@*" # Descomenta esto si quieres toda la base de datos junta al final

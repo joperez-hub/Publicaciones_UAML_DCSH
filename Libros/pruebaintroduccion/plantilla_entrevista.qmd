@@ -34,31 +34,32 @@ funding: ""
 notes: ""
 ---
 
-\addtocontents{toc}{\protect\hspace{1.5em}[Nombre del Autor]\par}
-\markboth{[Palabras clave del título]}{}
+\addtocontents{toc}{\protect\hspace{1.5em}[Nombre del Autor de la Entrevist]\par}
+\markboth{Palabras Clave del Título de la Entrevista}{}
+\begin{flushright}
+\Large [Nombre del Autor del Capítulo] \footnote{SEMBLANZA}
+\end{flushright}
 
 ## Introducción {.unnumbered .unlisted}
 
-[Breve contexto de la entrevista: 
-- Fecha y lugar
-- Perfil del entrevistado
-- Objetivos de la entrevista
-- Metodología (semiestructurada, profundidad, duración)
-- Aspectos éticos (consentimiento informado, anonimato si aplica)]
+\[Breve contexto de la entrevista: - Fecha y lugar - Perfil del entrevistado - Objetivos de la entrevista - Metodología (semiestructurada, profundidad, duración) - Aspectos éticos (consentimiento informado, anonimato si aplica)\]
 
-## Transcripción de la entrevista
+## Transcripción de la entrevista {.unnumbered .unlisted}
 
 \begin{transcripcion}
-\item \personaje{Entrevistador} Primera pregunta...
+\item \personaje{Entrevistador} Doctor, al observar la transición de los procesadores visuales hacia entornos de composición basados en código, ¿cómo caracterizaría desde la sociología del conocimiento este cambio en la producción académica?
 
-\item \personaje{Entrevistado} Respuesta del entrevistado...
+\item \personaje{Entrevistado} Se trata de un umbral epistemológico que trasciende lo meramente instrumental. Cuando abandonamos la lógica del formato inmediato para adoptar una arquitectura declarativa, estamos reconfigurando los habitus académicos. La materialidad del entorno de escritura ya no es un lienzo pasivo; opera como un filtro estructural que organiza cómo se legitima el saber disciplinar. Cada nodo reproducible, cada script que vincula datos primarios, referencias bibliográficas y fragmentos ejecutables, redefine la jerarquía de validación intelectual. Como señalaba Villalobos (2021) en sus provocaciones teóricas, la infraestructura técnica nunca es neutra: dicta los ritmos de circulación, establece los umbrales de visibilidad y condiciona las relaciones de poder entre pares. Aprender a escribir en este marco implica, por tanto, someter a escrutinio los supuestos implícitos de nuestra propia práctica editorial.
 
-\item \personaje{Entrevistador} Segunda pregunta...
+\item \personaje{Entrevistador} Ese desplazamiento hacia la reproducibilidad parece implicar una externalización sistemática de procesos cognitivos. ¿Cómo interpreta la sociología cognitiva esta redistribución de la memoria académica y sus efectos en la construcción del argumento?
 
-\item \personaje{Entrevistado} Otra respuesta...
+\item \personaje{Entrevistado} La cognición distribuida en el entorno digital no es un simple depósito pasivo de información; es una reestructuración activa de los modos de razonamiento. Cuando delegamos la gestión bibliográfica en gestores interoperables o externalizamos el control de versiones a repositorios colaborativos, no estamos ampliando mecánicamente nuestra capacidad de retención. Estamos modificando colectivamente los criterios de rigor, trazabilidad y autoría. El problema, como advierte García-Mendoza (2020), radica en la amnesia selectiva que imponen ciertas arquitecturas propietarias: indexan lo que sirve al algoritmo de recomendación y archivan lo que conviene a la métrica institucional. Por eso, la vigilancia epistemológica debe acompañar a cada flujo de trabajo computacional. La externalización exige un pacto explícito con la infraestructura; de lo contrario, la memoria académica se fragmenta y el argumento pierde cohesión estructural.
+
+\item \personaje{Entrevistador} En la práctica, esa vigilancia se traduce en desafíos técnicos recurrentes. Muchos investigadores reportan una curva de aprendizaje empinada al integrar herramientas como RStudio y Quarto para la generación de libros o artículos extensos. ¿Qué valor metodológico encuentra en ese proceso de depuración y en la gestión de elementos como las referencias cruzadas?
+
+\item \personaje{Entrevistado} Cada error de compilación funciona como un ejercicio de deconstrucción crítica aplicada. Cuando un documento no se renderiza porque la sintaxis YAML está mal anidada, porque una regla de guionización no respeta la morfología del español, o porque una llamada cruzada como \texttt{@tbl-indicadores} no resuelve, el investigador se ve obligado a rastrear la jerarquía lógica de su propio texto. Eso no es un obstáculo operativo; es una pedagogía forzada de la precisión. Aprender a etiquetar tablas con el prefijo \texttt{tbl-}, a separar contenido de presentación, a garantizar que los márgenes y el sangrado respondan a especificaciones tipográficas explícitas, es también aprender a explicitar los andamios invisibles de nuestra escritura. Como señala Torres-Pérez (2023), la paciencia frente al compilador es, en el fondo, un entrenamiento en la transparencia metodológica. El sistema de referencias cruzadas de Quarto no es un adorno de navegación; es un mecanismo de coherencia interna que obliga a pensar el manuscrito como un ecosistema interconectado.
+
+\item \personaje{Entrevistador} Si llevamos este marco al nivel institucional, ¿qué implicaciones tiene la adopción de estándares abiertos y flujos reproducibles para la soberanía epistémica de las universidades públicas y la evaluación académica contemporánea?
+
+\item \personaje{Entrevistado} Implica una reorientación estructural hacia la autonomía investigativa. Cuando un equipo domina un entorno que genera simultáneamente PDF, HTML y ePub desde un único código fuente, reduce la dependencia de intermediarios comerciales y recupera el control sobre la diseminación del conocimiento. La referencia cruzada automatizada, la bibliografía reproducible y la versionación explícita no son comodidades editoriales; son pilares de una ética de apertura que fortalece la revisión por pares y democratiza el acceso a los insumos del debate. La transición exige esfuerzo sostenido, sí, pero consolida una práctica de resistencia contra la obsolescencia planificada de los formatos tradicionales y contra la mercantilización de la visibilidad académica. En última instancia, hacer libros en código no es solo optimizar la publicación; es afirmar que la estructura del saber puede ser auditada, discutida y transformada colectivamente, garantizando que la producción universitaria pública mantenga su función crítica en un ecosistema informativo cada vez más saturado.
 \end{transcripcion}
-
-## Referencias
-
-[Si el entrevistado cita autores o obras, aparecerán aquí automáticamente 
-gracias a la bibliografía global]

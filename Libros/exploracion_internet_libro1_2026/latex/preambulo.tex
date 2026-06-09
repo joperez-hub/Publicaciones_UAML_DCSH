@@ -1,0 +1,43 @@
+% ==============================================================================
+% CONFIGURACIÓN GLOBAL DEL LIBRO (Unificación Definitiva - Libro 1)
+% ==============================================================================
+
+% --- 1. Fuentes y Tipografía Replicables (Solución Física Mac) ---
+\usepackage{fontspec}
+\setmainfont{Cormorant Garamond}[
+    UprightFont = *-Medium
+]
+\setsansfont{Montserrat-Regular.otf}[
+    BoldFont = Montserrat-SemiBold.otf
+]
+
+% --- 2. Ajustes de Párrafo y Espaciado Vertical (Estilo Refinado) ---
+\usepackage{widows-and-orphans}
+\widowpenalty=10000
+\clubpenalty=10000
+\setlength{\parindent}{1.2em} % Sangría de primera línea ganadora
+\setlength{\parskip}{0pt}     % Sin espacios vacíos entre párrafos ordinarios
+
+\usepackage{setspace}
+\setstretch{1.3}              % Interlineado sofisticado y compacto
+
+% --- 3. Jerarquía y Alineación de Títulos (KOMA-Script) ---
+\addtokomafont{disposition}{\sffamily\fontspec{Montserrat-SemiBold.otf}}
+\addtokomafont{chapter}{\huge\raggedright}
+\addtokomafont{section}{\Large\raggedright}
+\addtokomafont{subsection}{\normalsize}
+
+% --- 4. Encabezados y Pies de Página (Mantenido de tu estructura) ---
+\usepackage{scrlayer-scrpage}
+\automark{chapter}
+
+% --- 5. Gestión de Gráficos e Imágenes ---
+\usepackage{graphicx}
+\graphicspath{{../assets/imagenes/}{../../institucionales/assets/logos/}}
+
+% --- 6. Ajustes Finos de Disposición de Capítulos ---
+\addtokomafont{disposition}{\linespread{1.2}\selectfont}
+\RedeclareSectionCommand[
+    beforeskip=-0.0cm,
+    afterskip=1.5cm
+]{chapter}

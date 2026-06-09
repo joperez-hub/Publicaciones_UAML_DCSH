@@ -1,9 +1,20 @@
 % ============================================
+% DEFINICIÓN DE FUENTE PARA LA PORTADA
+% ============================================
+\newfontfamily\montserrat[
+  Path=assets/fuentes/Montserrat/static/,
+  Extension=.ttf,
+  BoldFont=Montserrat-SemiBold,
+  ItalicFont=Montserrat-Italic  % Si no existe, fontspec usará slant sintético
+]{Montserrat-Regular}
+
+
+% ============================================
 % PÁGINA 1: PORTADA CON IMAGEN
 % ============================================
 \begin{titlepage}
     \thispagestyle{empty}
-    \includegraphics[width=1.1\textwidth]{assets/imagenes/portada.jpg}
+    \includegraphics[width=1\textwidth]{assets/imagenes/portada.jpg}
 \end{titlepage}
 
 % ============================================
@@ -18,72 +29,140 @@
 % PÁGINA 3: PORTADILLA (MEDIA PORTADA)
 % ============================================
 \clearpage
-\thispagestyle{empty}
-\pagestyle{empty}
-
-% INICIO DEL ALINEAMIENTO IZQUIERDO (solo para esta página)
-\begingroup  % ← Inicia grupo local
-\raggedright
-
-\vspace*{1.5cm}
-{\LARGE \textbf{Título del Libro}} \\
-\vspace{0.3cm}
-{\large Subtítulo del Libro} \\
-\vspace{1cm}
-{\LARGE Nombre del Coordinador} \\
-\vspace{0.3cm}
-{\large Coordinador}
-
-\vfill
-
-\begin{minipage}[t]{0.50\textwidth}
-    \includegraphics[width=1.2\textwidth]{../../assets/logos/logo_uam_l.png}
-\end{minipage}
-
-\endgroup  % ← TERMINA EL GRUPO: restaura justificación automática
+  \thispagestyle{empty}
+  \begingroup
+    \raggedright
+    \vspace*{1cm}
+    \sffamily\small
+    \montserrat\huge Título de la Obra \\
+    \vspace{0.3cm}
+    {\Large Subtítulo de la Obra} \\
+    \vspace{0.7cm}
+    {\Large Nombre del Coordinador de la Obra} \\
+    \vspace{0.3cm}
+    \Large\rmfamily\textit{Coordinador}
+    \vfill
+    \begin{minipage}[t]{0.50\textwidth}
+        \includegraphics[width=1.2\textwidth]{../../assets/logos/logo_uam_l.png}
+    \end{minipage}
+  \endgroup
 \clearpage
 
 
-% ============================================
-% PÁGINA 4: CRÉDITOS / DATOS LEGALES
-% ============================================
-\begin{titlepage}
+% ==============================================================================
+% PÁGINA 4: DIRECTORIO INSTITUCIONAL CENTRADO (Solo Unidad Lerma)
+% ==============================================================================
+\clearpage
+  \begingroup
     \thispagestyle{empty}
-    \vspace*{2cm}
-    \begin{center}
-        \textbf{Título del Libro} \\
-        \textit{Subtítulo del Libro} \\
-        \vspace{0.5cm}
-        \small
-        Coordinador: Nombre del Coordinador \\
-        Universidad Autónoma Metropolitana \\
-        Unidad Lerma \\
-        
-        
+      \begin{center}
+        \sffamily\small
+        {\montserrat\Large\textbf{UNIVERSIDAD AUTÓNOMA METROPOLITANA}} \\
+        {\fontspec{Montserrat-SemiBold.otf}\large UNIDAD LERMA} \\
+        \vspace{0.2cm}
+        \textit{Dra. Alma Patricia de León Calderón} \\
+        Rectora \\
+        \vspace{0.3cm}
+        {\itshape Mtra. Luz del Carmen Alitzel Almaraz Calderón} \\
+        Secretaria \\
+        \vspace{0.3cm}
+        \textit{Dr. Raúl Hernández Mar} \\
+        Director de la División de Ciencias Sociales y Humanidades \\
+        \vspace{0.3cm}
+        \textit{Dra. Ana Carolina Robles Salvador} \\
+        Secretaria Académica de la División de Ciencias Sociales y Humanidades \\
+  
+        \vspace{0.6cm}
         \rule{0.6\textwidth}{0.4pt}
-        \vspace{0.5cm}
+        \vspace{0.6cm}
+  
+        {\montserrat\Large\textbf{COMITÉ EDITORIAL}} \\
+        {\montserrat\large\textbf{DIVISIÓN DE CIENCIAS SOCIALES Y HUMANIDADES}} \\
+        {\montserrat\large\textbf{PUBLICACIONES PERIÓDICAS}} \\
+        \vspace{0.4cm}
+        \textit{Abigail Martínez Mendoza} \\
+        Coordinadora General \\
+        \vspace{0.3cm}
+        \textit{Omar Valencia Domínguez} \\
+        \textit{Salvador Vázquez Fernández} \\
+        Departamento de Procesos Sociales \\
+        \vspace{0.3cm}
+        \textit{Hugo Solís García} \\
+        Departamento de Arte y Humanidades \\
+        \vspace{0.3cm}
+        \textit{José Omar Pérez Baños} \\
+        Departamento de Estudios Culturales \\
         
-        \small
-        \textbf{Datos de catalogación} \\
+        \vspace{0.6cm}
+        \rule{0.6\textwidth}{0.4pt}
+        \vspace{0.6cm}
+        
+        {\montserrat\large\textbf{EDICIÓN TÉCNICA Y CORRECCIÓN DE ESTILO}} \\
+        \vspace{0.2cm}
+        \textit{José Omar Pérez Baños}\\
+        \textit{Jonathan Armando Chávez Solís}\\
+      \end{center}
+  \endgroup
+\clearpage
+
+
+% ==============================================================================
+% PÁGINA 5: PÁGINA LEGAL ESTÁNDAR (DCSH - UAM LERMA)
+% ==============================================================================
+\clearpage
+\thispagestyle{empty}
+\begin{center}
+    % --- Ficha de Catalogación Superior ---
+    \framebox[\textwidth]{\vbox{
         \vspace{0.3cm}
-        Primera edición, 2026 \\
-        Lerma de Villada, Estado de México \\
+        \hbox to \textwidth{\hfill\fontspec{Montserrat-SemiBold.otf}\scriptsize DATOS DE CATALOGACIÓN\hfill}
+        \vspace{0.2cm}
+        \noindent\hspace{0.5cm}
+        \parbox{0.9\textwidth}{
+            \rmfamily\scriptsize
+            \texttt{Apellidos, Nombres (coordinador)} \\
+            Título de la Obra : Subtítulo de la obra / Nombre Completo del Coordinador, coordinador. -- México : Universidad Autónoma Metropolitana : Unidad Lerma : División de Ciencias Sociales y Humanidades, 2026. \\
+            \quad p. : il. ; 14 x 21 cm. \\
+            \quad ISBN: 978-xxx-xxx-xxx-x \\
+            \quad 1. Políticas públicas -- Aspectos sociales. 2. Etnografía -- Metodología -- México. I. Universidad Autónoma Metropolitana. Unidad Lerma. División de Ciencias Sociales y Humanidades.
+        }
         \vspace{0.3cm}
-        ISBN: 978-xxx-xxx-xxx-x \\
-        D.R. © 2026, Universidad Autónoma Metropolitana \\
-        Unidad Lerma \\
-        Av. Hidalgo Poniente 46, Col. La Estación, \\
-        Lerma de Villada, Estado de México, C.P. 52006 \\
-        \vspace{0.3cm}
-        Impreso y hecho en México \\
-        \vspace{0.3cm}
-        Queda prohibida la reproducción total o parcial \\
-        sin autorización escrita del titular de los derechos
-    \end{center}
-\end{titlepage}
+    }}
+\end{center}
+
+\vspace*{\fill} % Empuja los datos legales al fondo de la página
+
+% --- Créditos y Derechos de Autor ---
+
+\begingroup
+\begin{singlespace}
+\fontspec{Montserrat-Regular.otf}\scriptsize
+\noindent
+Primera edición: 2026\\
+Título de la Obra : Subtítulo de la obra\\
+Nombre Completo del Coordinador, coordinador\\[0.5em]
+Diseño de portada: Yunuen Rosas Ortíz\\[0.5em]
+D.R. © 2026, Universidad Autónoma Metropolitana\\
+Prolongación Canal de Miramontes 3855, Ex Hacienda San Juan de Dios,\\
+Alcaldía de Tlalpan, C.P. 14387, Ciudad de México.\\[0.5em]
+{\fontspec{Montserrat-SemiBold.otf}\scriptsize Universidad Autónoma Metropolitana, Unidad Lerma}\\
+División de Ciencias Sociales y Humanidades\\
+Consejo Editorial de la División de Ciencias Sociales y Humanidades\\
+Avenida de las Garzas núm. 10, Col. El Panteón,\\
+C.P. 52005, Lerma de Villada, Estado de México.\\
+\texttt{<correo.editorial@correo.lerma.uam.mx>}\\[0.8em]
+ISBN: 978-xxx-xxx-xxx-x\\[0.8em]
+Esta publicación no puede ser reproducida, ni en todo ni en parte, ni registrada o transmitida por un sistema de recuperación de información, en ninguna forma ni por ningún medio, sea mecánico, fotoquímico, electrónico, magnético, electroóptico, por fotocopia o cualquier otro, sin el permiso previo y por escrito de los editores.\\[0.5em]
+La presente publicación pasó por un proceso de dos dictámenes (doble ciego) de pares académicos avalados por el Consejo Editorial de la División de Ciencias Sociales y Humanidades de la UAM-Lerma, que garantizan su calidad y pertinencia académica y científica.\\[0.5em]
+Impreso en México / Printed in Mexico
+\end{singlespace}
+\endgroup
+\clearpage
 
 % ============================================
-% REGRESO A ESTILO NORMAL
+% PÁGINA EN BLANCO
 % ============================================
 \clearpage
-\pagestyle{plain}  % No reinicie el contador aquí
+\thispagestyle{empty}
+\null
+\clearpage
