@@ -16,9 +16,9 @@ book:
   title: ""
   subtitle: ""
   editor:
-    - name: "Nombre del Coordinador"
+    - name: "Fernando Rodrigo Beltrán Nieves"
       affiliation: "Universidad Autónoma Metropolitana, Unidad Lerma" # Sugerencia: Unificar nombre institucional.
-      email: "correo.del.coordinador@institución.com"
+      email: "f.beltran@correo.uam.ler.mx"
       orcid: ""                # CRÍTICO: Completar para garantizar la indexación y atribución académica correcta.
   publisher: "Universidad Autónoma Metropolitana, Unidad Lerma"
   publisher-place: "Lerma de Villada, Estado de México"
@@ -28,15 +28,17 @@ book:
   license: "CC BY-NC-SA 4.0"   # Licencia Creative Commons (Reconocimiento-NoComercial-CompartirIgual).
   chapters:
     - index.qmd                # Portada, créditos e introducción general.
-    - part: CONTENIDO DEL LIBRO
+    - part: CONVERGENCIAS, ALGORITMOS Y NARRATIVAS EMERGENTES
       chapters:
-        - plantilla_capitulo.qmd
+        - cap1.qmd
+        - cap2.qmd
+        - cap3.qmd
+        - cap4.qmd
+        - cap5.qmd
     - part: ENTREVISTA
       chapters:
-        - plantilla_entrevista.qmd
-    - part: REFERENCIAS BIBLIOGRÁFICAS
-      chapters:
-        - referencias.qmd
+        - entrevista.qmd           # Apéndice o sección de metodologías cualitativas/transcripciones.
+    - referencias.qmd
     - colofon.qmd
 
 #===============================================================================
@@ -47,7 +49,7 @@ format:
   pdf:
     # --- Configuración básica del documento ---
     title-page: false          # Desactiva la portada automática de Quarto para usar la plantilla personalizada (portada.tex).
-    pdf-engine: xelatex        # Motor recomendado para manejar fuentes del sistema de manera nativa (fontspec).
+    pdf-engine: xelatex        # Motor recomendado para manejar fuentes del sistema de manera nativa (cfontspec).
     lang: es                   # CRÍTICO: Define el idioma para paquetes como polyglossia y la localización de citas/índices.
     documentclass: scrbook     # Clase KOMA-Script, superior para maquetación de libros y control tipográfico fino.
     papersize: "a4"
@@ -78,5 +80,5 @@ format:
 
     # --- Gestión de Referencias y Citas ---
     csl: estilos/apa-6th-edition-es.csl
-    bibliography: assets/plantilla_bibliografia.bib
-    nocite: "@*" # Descomenta esto si quieres toda la base de datos junta al final
+    bibliography: assets/libro1_2026.bib
+    #nocite: "@*" # Descomenta esto si quieres toda la base de datos junta al final
