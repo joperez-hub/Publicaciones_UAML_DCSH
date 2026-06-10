@@ -81,4 +81,4 @@ format:
     # --- Gestión de Referencias y Citas ---
     csl: estilos/apa-6th-edition-es.csl
     bibliography: assets/libro1_2026.bib
-    #nocite: "@*" # Descomenta esto si quieres toda la base de datos junta al final
+    nocite: "@*" # Descomenta esto si quieres toda la base de datos junta al final

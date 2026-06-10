@@ -1,0 +1,45 @@
+---
+# Metadatos ESENCIALES del capítulo (no repetitivos)
+pdf-engine: xelatex
+title: "[Título del capítulo]"
+subtitle: "[Título en inglés]"
+
+author:
+  - name: "[Nombre del Autor]"
+    affiliation: "[Universidad]"
+    orcid: "0000-0000-0000-0000"  # Si lo proporcionan; si no hay info se puede borrar
+    email: "un.correo@direccion.com"  # Si lo proporcionan; si no hay info se puede borrar 
+    correspondence: true #Si no hay correo, se puede borrar
+
+# Metadatos ESPECÍFICOS del capítulo (no centralizables)
+chapter-number: ""
+page-range: ""  # Ajustar según paginación final
+doi: ""  # DOI del capítulo (cuando se asigne)
+
+# Contenido del capítulo
+resumen: |
+  [Resumen del capítulo]
+
+keywords:
+  - "[palabra1]"
+  - "[palabra2]"
+
+# Tipo de documento
+type: chapter
+
+
+# Campos OPCIONALES (dejar en blanco o eliminar si no aplican)
+acknowledgments: ""  # Agradecimientos específicos del capítulo
+funding: ""  # Financiamiento específico
+notes: ""  # Notas del autor
+---
+
+\addtocontents{toc}{\protect\hspace{1.5em} Nombre Completo del autor/a \par}
+\markboth{Título corto. Priorizar palabras clave}{}
+
+\begin{flushright}
+\Large Nombre Completo del autor/a \footnote{SEMBLANZA}
+\end{flushright}
+
+## Introducción {.unnumbered .unlisted}
+

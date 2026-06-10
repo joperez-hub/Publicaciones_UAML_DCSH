@@ -1,0 +1,44 @@
+---
+# Metadatos ESENCIALES del capítulo (no repetitivos)
+pdf-engine: xelatex
+title: "La asistencia institucional: el caso de la vejez en situación de calle en Naucalpan, Estado de México"
+subtitle: ""
+
+author:
+  - name: "Julio César Rodríguez Dorantes"
+    affiliation: "Escuela Superior de Ingeniería y Arquitectura, Campus Tecamachalco"
+    orcid: ""  # Si lo proporcionan; si no hay info se puede borrar
+    email: ""  # Si lo proporcionan; si no hay info se puede borrar 
+    correspondence: true #Si no hay correo, se puede borrar
+
+# Metadatos ESPECÍFICOS del capítulo (no centralizables)
+chapter-number: "8"
+page-range: ""  # Ajustar según paginación final
+doi: ""  # DOI del capítulo (cuando se asigne)
+
+# Contenido del capítulo
+resumen: |
+  [Resumen del capítulo]
+
+keywords:
+  - "[palabra1]"
+  - "[palabra2]"
+
+# Tipo de documento
+type: chapter
+
+
+# Campos OPCIONALES (dejar en blanco o eliminar si no aplican)
+acknowledgments: ""  # Agradecimientos específicos del capítulo
+funding: ""  # Financiamiento específico
+notes: ""  # Notas del autor
+---
+
+\addtocontents{toc}{\protect\hspace{1.5em} Julio César Rodríguez Dorantes -PENDIENTE
+ \par}
+\markboth{Asistencia Institucional y Vejéz en situación de Calle}{}
+
+\begin{flushright}\Large Julio César Rodríguez Dorantes \footnote{SEMBLANZA}
+\end{flushright}
+
+## Introducción {.unnumbered .unlisted}
