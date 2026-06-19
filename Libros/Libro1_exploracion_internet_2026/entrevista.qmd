@@ -10,7 +10,7 @@ author:
     correspondence: true
 
 # Metadatos ESPECÍFICOS
-chapter-number: "X"
+chapter-number: "6"
 page-range: ""
 doi: ""
 
@@ -37,7 +37,7 @@ notes: ""
 \markboth{Entrevista a Eduardo Restrepo}{}
 
 \begin{flushright}
-\Large Ignacio Moreno López\footnote{SEMBLANZA}
+\Large Ignacio Moreno López\footnote{Universidad Autónoma Metropolitana, unidad Lerma. Contacto: \href{i.lopez@correo.ler.uam.mx}{i.lopez@correo.ler.uam.mx}}
 \end{flushright}
 
 ---

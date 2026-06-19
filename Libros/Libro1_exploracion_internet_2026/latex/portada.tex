@@ -9,25 +9,33 @@
 ]{Montserrat-Regular}
 
 
-% ============================================
-% PÁGINA 1: PORTADA CON IMAGEN
-% ============================================
-\begin{titlepage}
-    \thispagestyle{empty}
-    \newgeometry{left=0cm,right=0cm,top=0.13cm,bottom=0cm}
-    \noindent
-    \includegraphics[width=1\paperwidth,height=0.99\paperheight]{assets/imagenes/libro1_portada_2026.jpeg}
-    \restoregeometry
-\end{titlepage}
+%=============================================================================
+% PÁGINA 2: PORTADA FULL-PAGE
+%=============================================================================
+{ % <--- LLAVE DE APERTURA (Blindaje total de márgenes)
 
-% ============================================
-% PÁGINA 2: EN BLANCO (verso de portada)
-% ============================================
-\clearpage
 \thispagestyle{empty}
-\null
+
+\hoffset=-1in
+\voffset=-1in
+\oddsidemargin=0pt
+\evensidemargin=0pt
+\topmargin=0pt
+\headheight=0pt
+\headsep=0pt
+
+\noindent
+% El comando \lower agarra la caja de ancho cero y la desplaza hacia abajo de forma obligatoria.
+% Empezamos con 1.8cm. Si notas que le falta bajar un poco, súbelo a 2.5cm.
+\lower 1.8cm \hbox to \paperwidth{%
+    \hss
+    \includegraphics[width=\paperwidth,height=1.0\paperheight,keepaspectratio=false]{assets/imagenes/libro1_portada_2026.jpeg}%
+    \hss
+}
+
 \clearpage
 
+} % <--- LLAVE DE CIERRE (Márgenes del libro restaurados automáticamente)
 % ============================================
 % PÁGINA 3: PORTADILLA (MEDIA PORTADA)
 % ============================================
@@ -70,16 +78,16 @@
         Secretaria \\
         \vspace{0.3cm}
         \textit{Dr. Raúl Hernández Mar} \\
-        Director de la División de Ciencias Sociales y Humanidades \\
+        Director de la \\División de Ciencias Sociales y Humanidades \\
         \vspace{0.3cm}
         \textit{Dra. Ana Carolina Robles Salvador} \\
-        Secretaria Académica de la División de Ciencias Sociales y Humanidades \\
+        Secretaria Académica de la  \\División de Ciencias Sociales y Humanidades \\
   
         \vspace{0.6cm}
         \rule{0.6\textwidth}{0.4pt}
         \vspace{0.6cm}
   
-        {\montserrat\Large\textbf{COMITÉ EDITORIAL}} \\
+        {\montserrat\Large\textbf{CONSEJO EDITORIAL}} \\
         {\montserrat\large\textbf{DIVISIÓN DE CIENCIAS SOCIALES Y HUMANIDADES}} \\
         {\montserrat\normalfont{PUBLICACIONES PERIÓDICAS}} \\
         \vspace{0.4cm}
@@ -87,11 +95,8 @@
         Coordinadora General \\
         \vspace{0.3cm}
         \textit{Omar Valencia Domínguez} \\
-        \textit{Salvador Vázquez Fernández} \\
+        \textit{Ryszard Edward Rozga Luter} \\
         Departamento de Procesos Sociales \\
-        \vspace{0.3cm}
-        \textit{Hugo Solís García} \\
-        Departamento de Arte y Humanidades \\
         \vspace{0.3cm}
         \textit{José Omar Pérez Baños} \\
         Departamento de Estudios Culturales \\

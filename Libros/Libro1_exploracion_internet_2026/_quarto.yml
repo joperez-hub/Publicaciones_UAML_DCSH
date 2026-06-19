@@ -5,16 +5,13 @@
 project:
   type: book                  # Especifica que la salida es un libro (estructura multi-capítulo).
   output-dir: _book           # Directorio donde se compilarán los archivos finales (ignorado por .gitignore).
-  render: 
-    - "*.qmd"                 # Instruye a Quarto a renderizar todos los archivos con extensión .qmd en el directorio.
-
 #===============================================================================
 # 2. METADATOS EDITORIALES Y DE PUBLICACIÓN
 #===============================================================================
 # Contiene la información paratextual esencial para la catalogación y derechos de autor.
 book:
-  title: ""
-  subtitle: ""
+  title: "Experimentación Formal en Internet o de cómo las ciencias sociales habitan la galaxia"
+  subtitle: "Convergencias, algoritmos y narrativas emergentes"
   editor:
     - name: "Fernando Rodrigo Beltrán Nieves"
       affiliation: "Universidad Autónoma Metropolitana, Unidad Lerma" # Sugerencia: Unificar nombre institucional.
@@ -38,8 +35,9 @@ book:
     - part: ENTREVISTA
       chapters:
         - entrevista.qmd           # Apéndice o sección de metodologías cualitativas/transcripciones.
-    - referencias.qmd
+    - semblanza.qmd
     - colofon.qmd
+    
 
 #===============================================================================
 # 3. CONFIGURACIÓN DE FORMATO Y MAQUETACIÓN (PDF)
@@ -48,14 +46,20 @@ book:
 format:
   pdf:
     # --- Configuración básica del documento ---
-    title-page: false          # Desactiva la portada automática de Quarto para usar la plantilla personalizada (portada.tex).
+    maketitle: false          # Desactiva la portada automática de Quarto para usar la plantilla personalizada (portada.tex).
     pdf-engine: xelatex        # Motor recomendado para manejar fuentes del sistema de manera nativa (cfontspec).
     lang: es                   # CRÍTICO: Define el idioma para paquetes como polyglossia y la localización de citas/índices.
     documentclass: scrbook     # Clase KOMA-Script, superior para maquetación de libros y control tipográfico fino.
     papersize: "a4"
     fontsize: 11pt
     geometry: "left=3cm,right=3cm,top=3cm,bottom=4cm" # Márgenes según lineamientos institucionales o de impresión.
-    
+    cite-method: biblatex
+    bibliography: libro12026.bib
+    biblatexoptions: 
+      - refsection=chapter
+      - style=apa # O el estilo que prefieras (numeric, harvard, etc.)
+      - isbn=false
+      
     # --- Configuración tipográfica global ---
     mainfont: "Cormorant Garamond" # Fuente principal declarada aquí para evitar redundancias en el header.
     #sansfont: "Montserrat"
@@ -78,7 +82,8 @@ format:
     lof: false                       # Desactivado (cambiar a true si el libro contiene figuras numeradas).
     lot: false                       # Desactivado (cambiar a true si el libro contiene tablas numeradas).
 
-    # --- Gestión de Referencias y Citas ---
-    csl: estilos/apa-6th-edition-es.csl
-    bibliography: assets/libro1_2026.bib
-    nocite: "@*" # Descomenta esto si quieres toda la base de datos junta al final
+   # --- CONFIGURACIÓN DE COLORES PARA ENLACES Y CITAS ---
+    link-citations: true
+    citecolor: "blue"      # Esto pintará todas las citas de color rojo vivo
+    linkcolor: "red"     # Los números de página en el índice serán azules
+    urlcolor: "green"   # Los links a páginas web

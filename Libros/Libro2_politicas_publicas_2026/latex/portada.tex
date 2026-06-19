@@ -8,17 +8,33 @@
   ItalicFont=Montserrat-Italic  % Si no existe, fontspec usará slant sintético
 ]{Montserrat-Regular}
 
-% ============================================
-% PÁGINA 1: PORTADA CON IMAGEN
-% ============================================
-\begin{titlepage}
-    \thispagestyle{empty}
-    \newgeometry{left=0cm,right=0cm,top=0.13cm,bottom=0cm}
-    \noindent
-    \includegraphics[width=1\paperwidth,height=0.995\paperheight]{assets/imagenes/libro2_portada_2026.jpeg}
-    \restoregeometry
-\end{titlepage}
+%=============================================================================
+% PÁGINA 2: PORTADA FULL-PAGE
+%=============================================================================
+{
 
+\thispagestyle{empty}
+
+\hoffset=-1in
+\voffset=-1in
+\oddsidemargin=0pt
+\evensidemargin=0pt
+\topmargin=0pt
+\headheight=0pt
+\headsep=0pt
+
+\noindent
+% El comando \lower agarra la caja de ancho cero y la desplaza hacia abajo de forma obligatoria.
+% Empezamos con 1.8cm. Si notas que le falta bajar un poco, súbelo a 2.5cm.
+\lower 1.8cm \hbox to \paperwidth{%
+    \hss
+    \includegraphics[width=\paperwidth,height=1.0\paperheight,keepaspectratio=false]{assets/imagenes/libro2_portada_2026.png}%
+    \hss
+}
+
+\clearpage
+
+}
 % ============================================
 % PÁGINA 2: EN BLANCO (verso de portada)
 % ============================================
@@ -85,11 +101,8 @@
         Coordinadora General \\
         \vspace{0.3cm}
         \textit{Omar Valencia Domínguez} \\
-        \textit{Salvador Vázquez Fernández} \\
+        \textit{Ryszard Edward Rozga Luter} \\
         Departamento de Procesos Sociales \\
-        \vspace{0.3cm}
-        \textit{Hugo Solís García} \\
-        Departamento de Arte y Humanidades \\
         \vspace{0.3cm}
         \textit{José Omar Pérez Baños} \\
         Departamento de Estudios Culturales \\
@@ -98,10 +111,11 @@
         \rule{0.6\textwidth}{0.4pt}
         \vspace{0.5cm}
         
-        {\montserrat\large\textbf{EDICIÓN TÉCNICA Y CORRECCIÓN DE ESTILO}} \\
+        {\montserrat\large\textbf{EDICIÓN TÉCNICA, CORRECCIÓN DE ESTILO y DISEÑO}} \\
         \vspace{0.4cm}
         \textit{José Omar Pérez Baños}\\
         \textit{Jonathan Armando Chávez Solís}\\
+        \textit{Yunuen Rosas Ortíz}\\
       \end{center}
   \endgroup
 \clearpage

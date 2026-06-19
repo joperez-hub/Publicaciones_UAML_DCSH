@@ -1,6 +1,7 @@
 ---
 # Metadatos ESENCIALES del capítulo (no repetitivos)
 pdf-engine: xelatex
+
 title: "Capitalismo cognitivo, gubernamentalidad algorítmica y abordajes de la comunicación"
 subtitle: ""
 
@@ -30,21 +31,17 @@ keywords:
 # Tipo de documento
 type: chapter
 
+
 # Personalización específica (opcional, solo si varía por capítulo)
 footer-note: |
   \newcommand{\articuloTitulo}{[Capitalismo Cognitivo}
-
-# Campos OPCIONALES (dejar en blanco o eliminar si no aplican)
-acknowledgments: ""  # Agradecimientos específicos del capítulo
-funding: ""  # Financiamiento específico
-notes: ""  # Notas del autor
 ---
 
 \addtocontents{toc}{\protect\hspace{1.5em}Miguel Mata Salazar\par}
 \markboth{Capitalismo Cognitivo}{}
 
 \begin{flushright}
-\Large Miguel Mata Salazar \footnote{SEMBLANZA}
+\Large Miguel Mata Salazar \footnote{Facultad de Estudios Superiores Aragón, UNAM. Contacto: \href{anomjo@yaho.com.mx}{anomjo@yaho.com.mx}}
 \end{flushright}
 
 ## Introducción. Fases Históricas del capitalismo {.unnumbered .unlisted}
@@ -258,3 +255,5 @@ En este sentido, la sociedad contemporánea se aleja de la idea de una totalidad
 La racionalidad del poder de la gubernamentalidad algorítmica configura y distribuye comunicación en la red de internet propiciando el despliegue de subjetividades y resistencias al poder, atendiendo a la racionalidad de una trama geoespacial anclada en la expansión financiera de la infraestructura tecnológica para la información y la comunicación. Así una multiplicidad de racionalidades se entrecruzan y transforman, de tal suerte que diversas fracturas, conflictos y confrontaciones generan rupturas y continuidades espacio-temporales en todos los planos de la vida al cortar transversalmente lo global y lo local, donde la relación entre el poder y la resistencia es recursiva, mostrando el carácter autoregulativo del poder, en una dinámica de relaciones de fuerza en un orden contingente, En este contexto, bien vale cerrar este escrito citando a John Durham Peters quien afirma:
 
 El término 'comunicación' es un rico entramado de hebras intelectuales y culturales que codifica las confrontaciones de nuestra época consigo misma. Entender la comunicación es entender mucho más. Como una respuesta evidente a las divisiones dolorosas entre el yo y el otro, lo privado y lo público, el pensamiento interior y la palabra externa, la noción ilustra nuestras extrañas vidas en este momento de la historia. Es un remolino en el que parece verterse la mayor parte de nuestras esperanzas y temores [@DurhamPeters2014: 18-19].
+
+\printbibliography[heading=subbibliography, title={Referencias Bibliográficas}]

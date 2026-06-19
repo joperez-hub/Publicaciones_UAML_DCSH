@@ -11,8 +11,8 @@ project:
 # METADATOS EDITORIALES Y BIBLIOGRÁFICOS
 # ============================================
 book:
-  title: "" # Políticas Públicas y Etnografía
-  subtitle: "" # Observando al Estado y como el Estado
+  title: "Políticas Públicas y Etnografía"
+  subtitle: "Observando al Estado y como el Estado"
   editor:
     - name: "Abraham Zaíd Díaz Delgado"
       affiliation: "Universidad Iberoamericana, Ciudad de México"
@@ -35,9 +35,8 @@ book:
       - cap5.qmd
       - cap6.qmd
       - cap7.qmd
-      - cap8_p.qmd
-      - cap9_p.qmd
-    - referencias.qmd
+      #- cap8_p.qmd
+      #- cap9_p.qmd
     - colofon.qmd
 
 
@@ -53,7 +52,13 @@ format:
     papersize: "a4"
     fontsize: 11pt
     geometry: "left=3cm,right=3cm,top=3cm,bottom=4cm"
-    
+    cite-method: biblatex
+    bibliography: libro12026.bib
+    biblatexoptions: 
+      - refsection=chapter
+      - style=apa # O el estilo que prefieras (numeric, harvard, etc.)
+      - isbn=false
+      
     # Declaramos las fuentes acá para que Quarto no use las genéricas
     mainfont: "Cormorant Garamond"
 
@@ -75,7 +80,8 @@ format:
     lof: false                       # Desactivado (cambiar a true si el libro contiene figuras numeradas).
     lot: false                       # Desactivado (cambiar a true si el libro contiene tablas numeradas).
 
-    # --- Gestión de Referencias y Citas ---
-    csl: estilos/apa-6th-edition-es.csl
-    #bibliography: assets/libro2_2026.bib
-    #nocite: "@*" # Descomenta esto si quieres toda la base de datos junta al final
+       # --- CONFIGURACIÓN DE COLORES PARA ENLACES Y CITAS ---
+    link-citations: true
+    citecolor: "blue"      # Esto pintará todas las citas de color rojo vivo
+    linkcolor: "red"     # Los números de página en el índice serán azules
+    urlcolor: "green"   # Los links a páginas web

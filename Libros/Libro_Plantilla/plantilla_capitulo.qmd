@@ -2,10 +2,10 @@
 # Metadatos ESENCIALES del capítulo (no repetitivos)
 pdf-engine: xelatex
 title: "[Título del capítulo]"
-subtitle: "" #Por cuestiones de diseño aquí va el nombre completo de la autora o autor
+subtitle: ""
 
 author:
-  - name: "[Nombre del Autor]" #Aquí también va el nombre completo, no importa que se repita
+  - name: "[Nombre del Autor]"
     affiliation: "[Universidad]"
     orcid: "0000-0000-0000-0000"  # Si lo proporcionan; si no hay info se puede borrar
     email: "un.correo@direccion.com"  # Si lo proporcionan; si no hay info se puede borrar 
@@ -27,6 +27,7 @@ keywords:
 # Tipo de documento
 type: chapter
 
+bibliography: assets/plantilla_bibliografia.bib
 
 # Campos OPCIONALES (dejar en blanco o eliminar si no aplican)
 acknowledgments: ""  # Agradecimientos específicos del capítulo

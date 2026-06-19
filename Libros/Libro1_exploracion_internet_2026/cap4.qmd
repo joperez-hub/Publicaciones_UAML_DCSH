@@ -38,7 +38,7 @@ notes: ""  # Notas del autor
 \markboth{Podcast de Investigación Sociológica}{}
 
 \begin{flushright}
-\Large Fernando Rodrigo Beltrán Nieves\footnote{SEMBLANZA}
+\Large Fernando Rodrigo Beltrán Nieves\footnote{Universidad Autónoma Metropolitana, unidad Lerma. Contacto: \href{f.beltran@correo.uam.ler.mx}{f.beltran@correo.uam.ler.mx}}
 \end{flushright}
 
 ## Introducción {.unnumbered .unlisted}
@@ -271,3 +271,6 @@ Los pódcast en materia de Ciencias Sociales se han estado convirtiendo en medio
 Sin embargo, los diseños fundamentales suelen ser narrativos o conversacionales, siguiendo de cerca guiones o soportes escritos. Este ensayo buscó justamente otro modo de ejecución y diseño. En efecto, en atención a lo tratado en este ensayo sobre las variaciones de la interrupción, se propuso la definición de un modo de intervenir *1)* la narración, *2)* la reflexión conceptual y *3)* lo "discontinuo" —en términos de Blanchot— para los fines de un pódcast de investigación sociológica. Narración, reflexión e inscripciones disímiles en un mismo lugar constituirían un diseño híbrido, un diseño múltiple, un "objeto cultural vagamente identificado". Un diseño apropiado para navegar aerodinámicamente por la galaxia internet.
 
 Finalmente, resaltamos el despliegue de la voz del "aprendiz de sociólogo(a)" en el contrafáctico sobre Karl Marx, propuesto en este ensayo. Esta voz materializa la técnica de interrupción, introduce "lo discontinuo" en términos de Blanchot. Esta voz particular se nutre del "*storytelling*" de la civilización digital: dispersa el sentido "profundo de las cosas", desritualiza lo sagrado, actúa con ligereza y superficialidad, introduce el idioma inglés. Es justamente una encarnación del "*storytelling*" de la civilización digital. Es una decisión fundamental en el diseño de un pódcast de investigación sociológica. Es también el plano sonoro para conectar dos mundos distintos: los protagonistas de la teoría sociológica clásica y la cultura digital. Un gesto pensado para salir de los diseños habituales del ecosistema del pódcast, conversacionales o narrativos.
+
+\nocite{Perez2010, Perez2015, Perez2019}
+\printbibliography[heading=subbibliography, title={Referencias Bibliográficas}]

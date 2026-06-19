@@ -1,6 +1,7 @@
 ---
 # Metadatos ESENCIALES del capítulo (no repetitivos)
 pdf-engine: xelatex
+
 title: "Hegemonía algorítmica y visibilidad académica. Una propuesta metodológica"
 subtitle: ""
 
@@ -32,17 +33,13 @@ type: chapter
 footer-note: |
   \newcommand{\articuloTitulo}{Hegemonía Algorítmica y Visibilidad Académica}
 
-# Campos OPCIONALES (dejar en blanco o eliminar si no aplican)
-acknowledgments: ""  # Agradecimientos específicos del capítulo
-funding: ""  # Financiamiento específico
-notes: ""  # Notas del autor
 ---
 
 \addtocontents{toc}{\protect\hspace{1.5em}Fernando Christian Hernández Pérez\par}
 \markboth{Hegemonía Algorítmica y Visibilidad Académica}{}
 
 \begin{flushright}
-\Large Christian Hernández Pérez\footnote{SEMBLANZA}
+\Large Christian Hernández Pérez\footnote{Universidad Autónoma Metropolitana, unidad Azcapotzalco. Contacto: \href{yadgana@gmail.com}{yadgana@gmail.com}}
 \end{flushright}
 
 ## Planteamiento {.unnumbered .unlisted}
@@ -325,3 +322,6 @@ Al escribir el nombre de un académico sobre la caja de búsqueda, Google arroja
 [^c2_9]: Un estudio llevado a cabo por FirstPageSage, una consultoría de análisis web que, a partir de sus propios datos internos, así como de la integración de los resultados de otras consultorías similares, ha estimado la proporción de clicks que obtienen los resultados de búsqueda desde la primera posición (39.8%) hasta la décima (1.6%). Ver FirstPageSage, "Google Click-Through Rates (CTRs) by Ranking Position in 2024", 18 de diciembre de 2024. Consultado el 12 de enero de 2025 [[https://bit.ly/3NWTvdi]{.underline}](https://bit.ly/3NWTvdi)
 [^c2_10]: Esto hay que considerarlo como un resultado provisional porque la información que aparece en las consultas de búsqueda no es la misma a lo largo del tiempo. El algoritmo de búsqueda se nutre constantemente de la información que rastrea de las diferentes plataformas digitales. Al incrementar y cambiar la información y el volumen de datos, el posicionamiento de los resultados de búsqueda es recalculado periódicamente. De tal suerte que la posición en la que aparecen los diferentes sitios web puede variar de un periodo a otro. Al año, Google puede realizar varias actualizaciones de sus sistemas de búsqueda y algoritmos.
 [^c2_11]: De igual manera esta propuesta metodológica no contempla la exposición de los casos por disciplina. Cabe recordar que la muestra para este análisis ha contemplado a las disciplinas de Física y Sociología. Exponer el conjunto de categorías de sitios web sin distinción disciplinar permite obtener un mayor número de registros de los espacios web que esta propuesta busca contrastar. Por ejemplo, el contraste que puede haber entre los sitios institucionales y las plataformas de redes sociales. Para más detalle de los registros y las categorías ver el [[Anexo]{.underline}](#_gwhg78ljwimr) y consultar la Tabla 2 y el cuadro de Tipologías de sitios web.
+
+\nocite{Sued2022}
+\printbibliography[heading=subbibliography, title={Referencias Bibliográficas}]

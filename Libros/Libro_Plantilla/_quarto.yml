@@ -78,5 +78,5 @@ format:
 
     # --- Gestión de Referencias y Citas ---
     csl: estilos/apa-6th-edition-es.csl
-    bibliography: assets/plantilla_bibliografia.bib
-    nocite: "@*" # Descomenta esto si quieres toda la base de datos junta al final
+    #bibliography: assets/plantilla_bibliografia.bib
+    #nocite: "@*" # Descomenta esto si quieres toda la base de datos junta al final

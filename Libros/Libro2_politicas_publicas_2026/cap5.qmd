@@ -1,6 +1,6 @@
 ---
 # Metadatos ESENCIALES del capítulo (no repetitivos)
-title: "Etnografía y “antropología comprometida”. Reflexiones a partir de experiencias en activismo y consultoría"
+title: "Etnografía y ''antropología comprometida''. Reflexiones a partir de experiencias en activismo y consultoría"
 subtitle: ""
 
 author:

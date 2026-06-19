@@ -6,7 +6,7 @@ unlisted: true
 \begin{center}
 \vspace*{4cm}
 
-\textit{Políticas Públicas y Etnografía: \\ Observando al Estado y como el Estado}
+\textit{Experimentación Formal en Internet \\ o de cómo las ciencias sociales habitan la galaxia: \\ convergencias, algoritmos y narrativas emergentes}
 
 \vspace{0.5cm}
 

@@ -42,7 +42,8 @@ notes: ""  # Notas del autor
 \markboth{Nuevas perspectivas en la escritura y divulgación de las ciencias sociales}{}
 
 \begin{flushright}
-\Large Paola Patricia Vázquez Almanza\footnote{SEMBLANZA}
+\Large Paola Patricia Vázquez Almanza\footnote{Facultad de Ciencias Políticas y Sociales, UNAM. Contacto: \href{paovaal@gmail.com}{paovaal@gmail.com}}
+
 \end{flushright}
 
 ## Introducción {.unnumbered .unlisted}
@@ -146,3 +147,6 @@ En este texto se ha analizado los efectos del proceso individuación en los pres
 Por lo tanto, debatir las formas de hacer y escribir las ciencias sociales aumenta las posibilidades de comunicar efectivamente los hallazgos a nuevas audiencias, fomentar un debate público informado y avanzar hacia una democratización del conocimiento científico. Dicha democratización podría ofrecer a la ciudadanía algunas herramientas indispensables para comprender mejor su entorno, decidir sobre sí y conocer su margen de acción frente a lo que le afecta personalmente. En este sentido, unas ciencias sociales situadas en el presente idealmente nos acercarían a una sociedad en la que los individuos entiendan las limitantes que ejercen las estructuras sociales sobre sus vidas, reconociendo el marco de acción y organización que pueden ampliar y modificar.
 
 No se trata únicamente de que los cientistas sociales sean capaces de escribir de manera más atractiva sus hallazgos, sino de que se abra la posibilidad de buscar nuevos puntos de partida epistemológicos, metodológicos, teóricos y escriturales para pensar, explicar y comunicar lo social. La propuesta teórico-práctica que planteo aquí tiene el propósito enfrentar el reto doble de renovar tanto las formas de comunicar las ciencias sociales como los puntos de partida teóricos a partida desde los que las ciencias sociales interpretan y explican la realidad. Sólo al reflexionar en torno a las dimensiones epistemológicas, metodológicas y teóricas del proceso de escritura dentro de las ciencias sociales, será posible disminuir la brecha que existe actualmente entre las explicaciones proporcionadas por estas disciplinas y la realidad social.
+
+\nocite{Castells1996, RealAcademiaEspanola2014, Bourdieu2009, Bourdieu2011, Becker2019b, Jablonka2022, Ypi2023, Dubet2023}
+\printbibliography[heading=subbibliography, title={Referencias Bibliográficas}]

@@ -40,7 +40,7 @@ notes: ""  # Notas del autor
 \markboth{El pódcast como estrategia tecnopedagógica y narrativa}{}
 
 \begin{flushright}
-\Large Diego Yael Valdez Serrano\footnote{SEMBLANZA}
+\Large Diego Yael Valdez Serrano\footnote{Universidad Autónoma Metropolitana, unidad Lerma. Correo: \href{2193078912@correo.ler.uam.mx}{2193078912@correo.ler.uam.mx}}
 \end{flushright}
 
 ## Introducción {.unnumbered .unlisted}
@@ -63,7 +63,7 @@ En el contexto mexicano, estas iniciativas aún se encuentran en fase explorator
 
 @Scolari2013 define la narrativa transmedia como una forma de expandir una historia a través de múltiples plataformas, donde cada medio aporta elementos únicos al conjunto. Esta lógica no busca repetir lo mismo en distintos formatos, sino diseñar experiencias complementarias que enriquezcan el universo narrativo. En este entramado, el pódcast ocupa un lugar destacado como vehículo de expansión, al permitir profundizar en aspectos específicos, brindar nuevas perspectivas, o incluso ofrecer contenido original que no aparece en otros soportes. Por ejemplo, un pódcast puede complementar una película o serie mediante entrevistas, análisis, ficciones paralelas o reflexiones críticas que nutran la experiencia narrativa.
 
-@jenkins2008, uno de los pioneros en conceptualizar la *cultura de la convergencia*, subraya que las audiencias actuales ya no son solo consumidoras pasivas, sino participantes activas en la expansión del relato, a través de prácticas como el *fanfiction*, la creación de memes, videos, análisis y pódcast. Esta cultura participativa redefine las formas de producción, circulación y apropiación del contenido, lo que convierte al pódcast en una herramienta poderosa no solo de comunicación, sino de creación comunitaria y significación colectiva.
+@Jenkins2008, uno de los pioneros en conceptualizar la *cultura de la convergencia*, subraya que las audiencias actuales ya no son solo consumidoras pasivas, sino participantes activas en la expansión del relato, a través de prácticas como el *fanfiction*, la creación de memes, videos, análisis y pódcast. Esta cultura participativa redefine las formas de producción, circulación y apropiación del contenido, lo que convierte al pódcast en una herramienta poderosa no solo de comunicación, sino de creación comunitaria y significación colectiva.
 
 Desde una perspectiva académica, esta expansión de contenidos se ha transformado en una herramienta estratégica para la divulgación del conocimiento. Esta tendencia responde, además, a una necesidad de diversificar los lenguajes académicos y conectar con públicos más amplios [@Olivieri2022]. Actualmente es común encontrar en plataformas digitales una amplia variedad de contenidos en audio: desde entrevistas y conferencias hasta experimentos sonoros como ensayos en audio, postales narrativas y diarios de campo sonoros. A esta gama creciente, se suma ahora la producción de investigaciones sociales y humanísticas diseñadas específicamente para el formato auditivo [@Beltran-Nieves2024]. No obstante, el entorno digital contemporáneo se caracteriza por una sobreabundancia de información, un fenómeno que @Levy1999 denominó "infoproducción masiva", y por una atención cada vez más limitada por parte de los usuarios, algo que @Franck2019 conceptualiza como la "economía de la atención". En este contexto, el éxito de los contenidos digitales depende de su capacidad para captar el interés en segundos. El pódcast se enfrenta, por tanto, al reto de destacar en un ecosistema saturado.
 
@@ -180,3 +180,5 @@ Otro desafío importante es la sostenibilidad. Sin un modelo claro de financiami
 El caso de *Versátil* ilustra cómo el pódcast puede transformarse en un medio poderoso para abordar temas sensibles, generar pensamiento crítico y expandir los horizontes de la enseñanza universitaria. Su narrativa transmedia, el uso creativo del sonido y su compromiso con la reflexión cultural lo posicionan como un referente y una herramienta valiosa para la educación contemporánea.
 
 No obstante, su consolidación como práctica tecnopedagógica efectiva dependerá de la capacidad de las instituciones educativas para reconocer su valor, ofrecer formación técnica adecuada y facilitar su integración en los planes de estudio. El pódcast no solo complementa el aprendizaje, sino que lo reinventa, creando puentes entre el saber académico y la cultura digital en la que los estudiantes están inmersos. Como señala @Scolari2013, cuando todos los medios cuentan, también debe contarse con todos los medios. El reto está en hacerlo de forma crítica, creativa y con vocación transformadora.
+
+\printbibliography[heading=subbibliography, title={Referencias Bibliográficas}]

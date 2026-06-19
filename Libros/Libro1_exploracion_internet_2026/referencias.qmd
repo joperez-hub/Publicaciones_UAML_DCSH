@@ -1,4 +1,0 @@
-# REFERENCIAS DE LA OBRA
-
-::: {#refs}
-:::
