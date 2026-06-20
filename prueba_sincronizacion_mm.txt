@@ -1,3 +1,5 @@
 este es un archivo de prueba.
 
 Esta nueva línea prueba la configuración de Rstudio/git
+
+Esta es otra prueba
