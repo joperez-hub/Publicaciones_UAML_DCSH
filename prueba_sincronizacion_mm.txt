@@ -1,1 +1,3 @@
-este es un archivo de prueba
+este es un archivo de prueba.
+
+Esta nueva línea prueba la configuración de Rstudi/git
