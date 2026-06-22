@@ -1,38 +1,37 @@
 ---
-type: chapter
-subtitle: ""
-lang: es
-pdf-engine: xelatex
+title: "Semblanzas de los Autores"
+subtitle: "Colaboradores del Libro Colectivo"
+format: html
 ---
 
-\vspace{-\baselineskip}
+## Semblanzas Biográficas {.unlisted .unnumbered}
 
-# Sobre los autores {.unlisted .unnumbered}
+A continuación se presentan los perfiles bio-bibliográficos de los cinco autores que han hecho posible este volumen colectivo, aportando perspectivas diversas desde distintos rincones de la geografía literaria y académica.
 
-\textbf{Beltrán Nieves, Fernando Rodrigo}
-Nacionalidad mexicana.
-Universidad Autónoma Metropolitana, Unidad Lerma.
-Contacto: f.beltran@correo.uam.ler.mx
+### 1. Dra. Valentina Rosselli (Bogotá, 1982)
+*Especialista en Arqueología de los Medios y Narrativas Expandidas* {.unlisted .unnumbered}
 
+Es escritora, investigadora y cazadora de mitos urbanos. Doctora en Literatura Comparada por la Universidad de la Sorbona, ha dedicado las últimas dos décadas a estudiar la intersección entre la tecnología obsoleta y la memoria poética. Su obra más conocida, *Anatomía del Casete* (2019), fue galardonada con el Premio Internacional de Ensayo Contemporáneo. Actualmente coordina el Laboratorio de Ciber-Etnografía en la Universidad de los Andes. En este volumen, aporta un capítulo fundamental sobre las estéticas del error digital y el olvido programado.
 
-\textbf{Hernández Pérez, Fernando Christian}
-Nacionalidad mexicana
-Universidad Autónoma Metropolitana, Unidad Azcapotzalco.
-Contacto: yadgana@gmail.com
+*«Escribir no es registrar el presente, sino desenterrar los futuros que no llegaron a ser».*
 
+### 2. Mateo Silva-Santisteban (Lima, 1977)
+*Cronista, Traductor y Geógrafo Frustrado* {.unlisted .unnumbered}
 
-\textbf{Mata Salazar, Miguel Ángel}
-Nacionalidad mexicana
-Facultad de Estudios Superiores Aragón, UNAM
-Contacto: anomjo@yahoo.com.mx
+Pasó su juventud viajando en barcos de carga por el Pacífico Sur, experiencia que marcó su transición de la poesía hermética al periodismo narrativo. Ha publicado las novelas *La última marea de la memoria* (2012) y *Cartografía de los archipiélagos invisibles* (2021). Sus crónicas, que mezclan la melancolía portuaria con el análisis geopolítico, aparecen regularmente en revistas de toda Hispanoamérica. Domina cuatro idiomas, pero asegura que solo confía en el lenguaje de los mapas antiguos. Su contribución en este libro analiza las fronteras líquidas en la literatura latinoamericana contemporánea.
 
+### 3. Prof. Amara Diallo (Dakar, 1989)
+*Filósofa de la Ciencia y Afrofuturista* {.unlisted .unnumbered}
 
-\textbf{Valdez Serrano, Diego Yael}
-Nacionalidad mexicana
-Universidad Autónoma Metropolitana, Unidad Lerma
-Contacto: 2193078912@correo.ler.uam.mx
+Radicada en Barcelona desde 2011, Amara es una de las voces más disruptivas del pensamiento descolonial y los estudios visuales. Licenciada en Ciencias Físicas y doctora en Filosofía por la Universidad Autónoma de Barcelona, combina el rigor matemático con la especulación mítica. Es autora del manifiesto conceptual *Algoritmos del Barro: Hacia una tecnología ancestral* (2024). Imparte talleres de escritura especulativa donde enseña a hackear narrativas hegemónicas. Su ensayo para esta antología explora los paralelismos entre la física cuántica y las cosmologías orales del África occidental.
 
+### 4. Dr. Jonás Kaczka (Buenos Aires, 1965)
+*Ensayista, Tipógrafo e Historiador del Libro* 
+ {.unlisted .unnumbered}
 
-\textbf{Vázquez Almanza, Paola Patricia.}
-Nacionalidad mexicana
-Facultad de Ciencias Políticas y Sociales, UNAM
+Hijo de impresores polacos, Jonás creció entre el olor a tinta y el plomo de las prensas linotípicas. Es profesor titular de Historia del Libro en la Universidad de Buenos Aires (UBA) y un reconocido bibliófilo. Ha rescatado más de un centenar de manuscritos olvidados del siglo XIX en mercados de pulgas de todo el mundo, plasmando esas búsquedas en su aclamada trilogía de ensayos *Los libros que nadie leyó* (2015-2022). Aporta a este texto colectivo una mirada nostálgica pero lúcida sobre la resistencia del papel en la era del silicio.
+
+### 5. Elena "Luz" Mendoza (Oaxaca, 1993)
+*Poeta Experimental, Artista Textil y Activista Lingüística* {.unlisted .unnumbered}
+
+Es la colaboradora más joven del volumen. Su trabajo artístico y literario se sitúa en la frontera donde el poema abandona la página para convertirse en tejido, instalación bio-acústica o código de programación. Graduada en Artes Visuales por la UNAM, Mendoza fusiona la tradición textil zapoteca con la poesía concreta y el *glitch art*. Su poemario interactivo *Hilos de Luz* (2023) fue seleccionado para la Bienal de Arte Digital de São Paulo. Su colaboración en esta obra indaga en el tejido textil como la primera forma de escritura y almacenamiento de datos de la humanidad.
