@@ -10,18 +10,20 @@ unlisted: true
 
 \vspace{0.5cm}
 
-se terminó de imprimir fecha MES AÑO
+se terminó de editar en el mes de octubre de 2026
 
 \vspace{0.5cm}
 
-en LUGAR DE IMPRESIÓN S.A. DE C.V.\\
-CALLE Y NÚMERO\\
-COLONIA\\
-PAIS, CÓDIGO POSTAL, ESTADO\\
-\textless uncorreo@tal.com\textgreater
+Universidad Autónoma Metropolitana, Unidad Lerma \\
+Avenida de las Garzas núm. 10 \\ 
+Col. El Panteón C.P. 52005 \\
+Lerma de Villada, Estado de México. \\
+
+\vspace{1cm}
+\href{cedcsh@correo.ler.uam.mx}{cedcsh@correo.ler.uam.mx}
 
 \vspace{1cm}
 
-NÚMERO ejemplares
+EJEMPLAR DIGITAL
 
 \end{center}

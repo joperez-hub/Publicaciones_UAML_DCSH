@@ -10,7 +10,7 @@
 
 
 %=============================================================================
-% PÁGINA 2: PORTADA FULL-PAGE
+% PÁGINA 1: PORTADA FULL-PAGE
 %=============================================================================
 { % <--- LLAVE DE APERTURA (Blindaje total de márgenes)
 
@@ -29,13 +29,20 @@
 % Empezamos con 1.8cm. Si notas que le falta bajar un poco, súbelo a 2.5cm.
 \lower 1.8cm \hbox to \paperwidth{%
     \hss
-    \includegraphics[width=\paperwidth,height=1.0\paperheight,keepaspectratio=false]{assets/imagenes/libro1_portada_2026.jpeg}%
+    \includegraphics[width=\paperwidth,height=1.0\paperheight,keepaspectratio=false]{assets/imagenes/libro1portada2026.pdf}%
     \hss
 }
 
 \clearpage
 
 } % <--- LLAVE DE CIERRE (Márgenes del libro restaurados automáticamente)
+% ============================================
+% PÁGINA 2: EN BLANCO (verso de portada)
+% ============================================
+\clearpage
+\thispagestyle{empty}
+\null
+\clearpage
 % ============================================
 % PÁGINA 3: PORTADILLA (MEDIA PORTADA)
 % ============================================
@@ -61,7 +68,7 @@
 
 
 % ==============================================================================
-% PÁGINA 4: DIRECTORIO INSTITUCIONAL CENTRADO (Solo Unidad Lerma)
+% PÁGINA 4: DIRECTORIO INSTITUCIONAL CENTRADO
 % ==============================================================================
 \clearpage
   \begingroup
@@ -69,46 +76,60 @@
       \begin{center}
         \sffamily\small
         {\montserrat\Large\textbf{UNIVERSIDAD AUTÓNOMA METROPOLITANA}} \\
+        {\montserrat\large\textbf{RECTORÍA GENERAL}} \\
+        \vspace{0.2cm}
+        \textit{Dr. Raúl Gustavo Pacheco López} \\
+        Rector \\
+        \vspace{0.1cm}
+        {\itshape Dra. Esthela Irene Sotelo Núñez} \\
+        Secretaria General\\
+        
+        \vspace{0.2cm}
+        \rule{0.6\textwidth}{0.4pt}
+        \vspace{0.2cm}
+        
         {\montserrat\large\textbf{UNIDAD LERMA}} \\
         \vspace{0.2cm}
         \textit{Dra. Alma Patricia de León Calderón} \\
         Rectora \\
-        \vspace{0.3cm}
-        {\itshape Mtra. Luz del Carmen Alitzel Almaraz Calderón} \\
+        \vspace{0.1cm}
+        {\itshape Dra. Karla Pelz Serrano} \\
         Secretaria \\
-        \vspace{0.3cm}
+        \vspace{0.1cm}
+        {\montserrat\large\textbf{División de Ciencias Sociales y Humanidades}} \\
+        \vspace{0.1cm}
         \textit{Dr. Raúl Hernández Mar} \\
-        Director de la \\División de Ciencias Sociales y Humanidades \\
-        \vspace{0.3cm}
+        Director \\
+        \vspace{0.1cm}
         \textit{Dra. Ana Carolina Robles Salvador} \\
-        Secretaria Académica de la  \\División de Ciencias Sociales y Humanidades \\
+        Secretaria Académica \\
   
-        \vspace{0.6cm}
+        \vspace{0.2cm}
         \rule{0.6\textwidth}{0.4pt}
-        \vspace{0.6cm}
+        \vspace{0.2cm}
   
-        {\montserrat\Large\textbf{CONSEJO EDITORIAL}} \\
-        {\montserrat\large\textbf{DIVISIÓN DE CIENCIAS SOCIALES Y HUMANIDADES}} \\
-        {\montserrat\normalfont{PUBLICACIONES PERIÓDICAS}} \\
-        \vspace{0.4cm}
+        {\montserrat\large\textbf{CONSEJO EDITORIAL}} \\
+        {\montserrat\normalfont{Publicaciones Periódicas}} \\
+        \vspace{0.3cm}
         \textit{Abigail Martínez Mendoza} \\
         Coordinadora General \\
-        \vspace{0.3cm}
+        \vspace{0.2cm}
         \textit{Omar Valencia Domínguez} \\
         \textit{Ryszard Edward Rozga Luter} \\
         Departamento de Procesos Sociales \\
-        \vspace{0.3cm}
+        \vspace{0.2cm}
         \textit{José Omar Pérez Baños} \\
         Departamento de Estudios Culturales \\
         
-        \vspace{0.6cm}
+        \vspace{0.2cm}
         \rule{0.6\textwidth}{0.4pt}
-        \vspace{0.6cm}
+        \vspace{0.2cm}
         
-        {\montserrat\large\textbf{EDICIÓN TÉCNICA Y CORRECCIÓN DE ESTILO}} \\
+        {\montserrat\large\textbf{EDICIÓN TÉCNICA, CORRECCIÓN DE ESTILO y DISEÑO}} \\
         \vspace{0.2cm}
         \textit{José Omar Pérez Baños}\\
         \textit{Jonathan Armando Chávez Solís}\\
+        \textit{Yunuen Rosas Ortiz}
       \end{center}
   \endgroup
 \clearpage
@@ -157,7 +178,7 @@ División de Ciencias Sociales y Humanidades\\
 Consejo Editorial de la División de Ciencias Sociales y Humanidades\\
 Avenida de las Garzas núm. 10, Col. El Panteón,\\
 C.P. 52005, Lerma de Villada, Estado de México.\\
-\texttt{<correo.editorial@correo.lerma.uam.mx>}\\[0.8em]
+\texttt{<cedcsh@correo.ler.uam.mx>}\\[0.8em]
 ISBN: 978-xxx-xxx-xxx-x\\[0.8em]
 Esta publicación no puede ser reproducida, ni en todo ni en parte, ni registrada o transmitida por un sistema de recuperación de información, en ninguna forma ni por ningún medio, sea mecánico, fotoquímico, electrónico, magnético, electroóptico, por fotocopia o cualquier otro, sin el permiso previo y por escrito de los editores.\\[0.5em]
 La presente publicación pasó por un proceso de dos dictámenes (doble ciego) de pares académicos avalados por el Consejo Editorial de la División de Ciencias Sociales y Humanidades de la UAM-Lerma, que garantizan su calidad y pertinencia académica y científica.\\[0.5em]

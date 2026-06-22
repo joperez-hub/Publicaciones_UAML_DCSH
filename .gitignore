@@ -17,6 +17,8 @@ docs/
 # Archivos temporales del sistema
 .DS_Store
 Thumbs.db
+Libros/**/assets/fuentes
+Libros/**/assets/imagenes
 
 # Logs
 *.log

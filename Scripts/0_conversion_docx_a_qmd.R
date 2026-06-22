@@ -4,10 +4,10 @@
 library(fs)
 
 # 1. CONFIGURACIÓN DE RUTAS
-ruta_base   <- "/Users/omarperezbanos/Publicaciones_UAML_DCSH/Libros"
-dir_origen  <- file.path(ruta_base, "Libro2_politicas_publicas_2026")
-archivo_docx <- file.path(dir_origen, "BrechaDigital.docx") # Tu archivo Word original
-archivo_qmd  <- file.path(dir_origen, "01_BrechaDigital.qmd")   # El destino limpio
+ruta_base   <- "/Users/opb/Documents/Publicaciones_UAML_DCSH/Libros"
+dir_origen  <- file.path(ruta_base, "Libro1_exploracion_internet_2026")
+archivo_docx <- file.path(dir_origen, "reseña.docx") # Tu archivo Word original
+archivo_qmd  <- file.path(dir_origen, "reseña.qmd")   # El destino limpio
 
 # 2. VERIFICACIÓN DE INSUMOS
 if (!file_exists(archivo_docx)) {

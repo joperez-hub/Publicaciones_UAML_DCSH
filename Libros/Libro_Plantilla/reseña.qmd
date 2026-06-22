@@ -2,7 +2,7 @@
 # Metadatos ESENCIALES del capítulo (no repetitivos)
 pdf-engine: xelatex
 title: "[Título del capítulo]"
-subtitle: "[Título en inglés]"
+subtitle: ""
 
 author:
   - name: "[Nombre del Autor]"
@@ -25,21 +25,19 @@ keywords:
   - "[palabra2]"
 
 # Tipo de documento
-type: chapter
-
-
-# Campos OPCIONALES (dejar en blanco o eliminar si no aplican)
-acknowledgments: ""  # Agradecimientos específicos del capítulo
-funding: ""  # Financiamiento específico
-notes: ""  # Notas del autor
+type: reseña
 ---
 
-\addtocontents{toc}{\protect\hspace{1.5em} Nombre Completo del autor/a \par}
-\markboth{Título corto. Priorizar palabras clave}{}
+\addtocontents{toc}{\protect\hspace{1.5em}[Nombre del Autor del Capítulo]\par}
+\markboth{Capitalismo Cognitivo}{}
 
 \begin{flushright}
-\Large Nombre Completo del autor/a \footnote{SEMBLANZA}
+\Large [Nombre del Autor del Capítulo] \footnote{SEMBLANZA}
 \end{flushright}
 
 ## Introducción {.unnumbered .unlisted}
 
+CONTENIDO DE LA RESEÑA
+
+#\nocite{} # Desmarcar si hay referencias no parentéticas o narrativas en el texto
+\printbibliography[heading=subbibliography, title={Referencias Bibliográficas}]

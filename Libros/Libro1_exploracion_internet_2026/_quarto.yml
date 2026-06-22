@@ -35,6 +35,9 @@ book:
     - part: ENTREVISTA
       chapters:
         - entrevista.qmd           # Apéndice o sección de metodologías cualitativas/transcripciones.
+    - part: RESEÑA
+      chapters:
+        - reseña.qmd
     - semblanza.qmd
     - colofon.qmd
     
