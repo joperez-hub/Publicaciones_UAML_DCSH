@@ -28,13 +28,13 @@ book:
     - index.qmd
     - part: Mirando desde y cómo el Estado
       chapters:
-      - cap1.qmd
-      - cap2.qmd
-      - cap3.qmd
-      - cap4.qmd
-      - cap5.qmd
+      #- cap1.qmd
+      #- cap2.qmd
+      #- cap3.qmd
+      #- cap4.qmd
+      #- cap5.qmd
       - cap6.qmd
-      - cap7.qmd
+      #- cap7.qmd
       #- cap8_p.qmd
       #- cap9_p.qmd
     - colofon.qmd
@@ -53,7 +53,7 @@ format:
     fontsize: 11pt
     geometry: "left=3cm,right=3cm,top=3cm,bottom=4cm"
     cite-method: biblatex
-    bibliography: libro12026.bib
+    bibliography: libro22026.bib
     biblatexoptions: 
       - refsection=chapter
       - style=apa # O el estilo que prefieras (numeric, harvard, etc.)

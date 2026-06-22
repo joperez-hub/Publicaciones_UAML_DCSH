@@ -10,7 +10,7 @@ unlisted: true
 
 \vspace{0.5cm}
 
-se terminó de editar en el mes de octubre de 2026
+se terminó de editar en el mes de octubre de 2026.
 
 \vspace{0.5cm}
 
@@ -18,9 +18,12 @@ Universidad Autónoma Metropolitana, Unidad Lerma \\
 Avenida de las Garzas núm. 10 \\ 
 Col. El Panteón C.P. 52005 \\
 Lerma de Villada, Estado de México. \\
-\textless uncorreo@tal.com\textgreater
 
-\vspace{2cm}
+\vspace{1cm}
+
+cedcsh@correo.ler.uam.mx 
+
+\vspace{1cm}
 
 EJEMPLAR DIGITAL
 
