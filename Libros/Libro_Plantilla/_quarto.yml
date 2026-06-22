@@ -37,6 +37,7 @@ book:
     - part: RESEÑA
       chapters:
         - reseña.qmd
+    - semblanza.qmd    
     - colofon.qmd
 
 #===============================================================================
@@ -54,7 +55,7 @@ format:
     fontsize: 11pt
     geometry: "left=3cm,right=3cm,top=3cm,bottom=4cm" # Márgenes según lineamientos institucionales o de impresión.
     cite-method: biblatex
-    bibliography: libro12026.bib
+    bibliography: plantilla_bibliografia.bib
     biblatexoptions: 
       - refsection=chapter
       - style=apa # O el estilo que prefieras (numeric, harvard, etc.)
