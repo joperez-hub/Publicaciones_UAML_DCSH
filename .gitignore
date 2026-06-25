@@ -3,6 +3,8 @@
 *.pdf
 *.html
 *.epub
+*.docx
+*.doc
 output/
 _book/
 docs/
