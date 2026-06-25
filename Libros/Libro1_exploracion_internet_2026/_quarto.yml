@@ -5,6 +5,7 @@
 project:
   type: book                  # Especifica que la salida es un libro (estructura multi-capítulo).
   output-dir: _book           # Directorio donde se compilarán los archivos finales (ignorado por .gitignore).
+          
 #===============================================================================
 # 2. METADATOS EDITORIALES Y DE PUBLICACIÓN
 #===============================================================================
@@ -60,9 +61,9 @@ format:
     bibliography: libro12026.bib
     biblatexoptions: 
       - refsection=chapter
-      - style=apa # O el estilo que prefieras (numeric, harvard, etc.)
+      - style=apa
       - isbn=false
-      
+
     # --- Configuración tipográfica global ---
     mainfont: "Cormorant Garamond" # Fuente principal declarada aquí para evitar redundancias en el header.
     #sansfont: "Montserrat"
