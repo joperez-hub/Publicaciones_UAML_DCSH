@@ -37,7 +37,6 @@ notes: ""  # Notas del autor
 
 \addtocontents{toc}{\protect\hspace{1.5em} Laura Isabel Matamala Lienlaf \par}
 \markboth{Etnografías, activismos, motivaciones y cuidados}{}
-
 \begin{flushright}
 \Large Laura Isabel Matamala Lienlaf \footnote{Universidad Iberoamericana, Ciudad de México}
 \end{flushright}

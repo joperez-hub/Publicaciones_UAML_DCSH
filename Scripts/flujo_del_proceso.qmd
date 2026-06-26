@@ -1,0 +1,114 @@
+---
+title: "flujo_del_proceso"
+format: html
+---
+
+## 🗺️ Mapa de Ruta del Proceso Completo
+
+```         
+[ Archivos Word (.docx) ] 
+         │
+         ▼
+  📌 SCRIPT 0: Conversión Masiva (Pandoc)
+         │
+         ▼
+[ Archivos Quarto (.qmd) planos ]
+         │
+         ▼
+  📌 SCRIPT 1: Escaneo y Extracción (Regex)
+         │
+         ▼
+[ CSV: Mapa Maestro Inicial (Lista de citas) ]
+         │
+         ▼
+  📌 SCRIPT 2: Rastreo en PDF y Cruce Inteligente (pdftools + .bib)
+         │
+         ▼
+[ CSV: Mapa Maestro Pre-rellenado ] ──► 🧠 (Tú verificas y completas en Excel)
+         │
+         ▼
+  📌 SCRIPT 3: Sustitución Masiva (fixed replace)
+         │
+         ▼
+[ Archivos Quarto (.qmd) listos con [@citekeys] ]
+```
+
+------------------------------------------------------------------------
+
+## 📌 Script 0: El Traductor de Formato
+
+`0_conversion_masiva_docx_a_qmd.R`
+
+- **Insumo:** Tus archivos originales de Word (`.docx`) guardados en la carpeta `/originales`.
+- **Su objetivo de vida:** Traducir el código propietario de Microsoft Word a lenguaje Markdown plano (`.qmd`) sin romper la estructura del texto.
+
+### Actividades paso a paso:
+
+1.  **Fotografía la carpeta:** Escanea tu directorio `/originales` y crea una lista mental con todos los archivos que terminen en `.docx`.
+2.  **Llama a Pandoc:** Toma el primer archivo Word y le ordena al sistema ejecutar Pandoc con instrucciones muy estrictas:
+
+- `smart`: Convierte las comillas tipográficas curvas y guiones largos de Word en caracteres estándar legibles para programación.
+- `--wrap=none`: Junta los párrafos para que se mantengan en una sola línea continua, evitando que Word inserte saltos de línea invisibles a mitad de una frase.
+
+3.  **Parcha las notas al pie:** Una vez creado el archivo `.qmd`, el script busca marcas como `[^1]` y las transforma en `[^nombre_del_capitulo_1]`. Esto "aísla" las notas de este capítulo para que no choquen con las de otros cuando compiles el libro entero.
+4.  **Repite el ciclo:** Salta al siguiente Word de la lista hasta terminar con todos.
+
+------------------------------------------------------------------------
+
+## 📌 Script 1: El Escáner y Clasificador
+
+`1_fase_escaneo_citas`
+
+- **Insumo:** Los archivos `.qmd` recién creados en la carpeta `/originales`.
+- **Su objetivo de vida:** Leer todo el texto del libro, encontrar dónde hay citas bibliográficas en texto plano y armar la primera versión del Mapa Maestro.
+
+### Actividades paso a paso:
+
+1.  **Consolidación de texto:** Abre todos los archivos `.qmd` que encuentre y junta todo su contenido en una sola y gigantesca variable de texto en la memoria de R.
+2.  **Caza con Expresiones Regulares (Regex):** Activa dos radares matemáticos:
+
+- Uno busca estructuras parentéticas como `(Pérez, 2026)`.
+- Otro busca estructuras narrativas como `Pérez (2026)` o `Pérez et al. (2026)`.
+
+3.  **Depuración de duplicados:** Junta todas las citas halladas, borra las repetidas y las ordena alfabéticamente para crear una lista de "citas únicas".
+4.  **Evaluación de Complejidad:** Analiza el texto de cada cita. Si detecta palabras como *"et al."*, *"cols."* o caracteres como el punto y coma `(;)`, etiqueta esa fila como `Revision_Manual`. Si es una cita simple de un autor, la etiqueta como `Automatizable`.
+5.  **Crea el molde del Mapa Maestro:** Diseña una tabla con columnas para la cita original, el tipo, la categoría, la página del PDF y el espacio para Zotero, y la guarda como `mapa_maestro_citas_paginas.csv`.
+
+------------------------------------------------------------------------
+
+## 📌 Script 2: El Investigador y Emparejador
+
+`2_fase_rastreo_y_mapa.R`
+
+- **Insumo:** El PDF compilado de tu libro, tu archivo de Zotero `.bib` y el CSV generado en el paso anterior.
+- **Su objetivo de vida:** Investigar en qué página física quedó cada cita y pre-rellenar las claves de Zotero en el Mapa Maestro.
+
+### Actividades paso a paso:
+
+1.  **Desmonta el PDF:** Lee tu archivo PDF compilado por Quarto y lo divide página por página dentro de la memoria de R.
+2.  **Rastreo Quirúrgico:** Toma la primera cita de tu Mapa Maestro (ej: *"López, 2024"*) y recorre el PDF desde la página 1 hasta la última. En cada página donde encuentre el texto exacto, anota el número. Al final, escribe en la columna `Pagina_PDF` algo como: *"45, 112"*.
+3.  **Cruce Inteligente con Zotero:** Abre tu archivo `.bib` y extrae todas las llaves disponibles. Luego usa un algoritmo de aproximación: extrae el apellido y el año de tu cita plana y busca si en el `.bib` hay una llave que contenga ambos datos (ej: `@lopez2024`). Si coincide, la escribe de una vez en la columna `Citekey_Zotero` como `[@lopez2024]`.
+4.  **Actualiza el archivo:** Sobrescribe tu `mapa_maestro_citas_paginas.csv` en la carpeta `/originales`.
+
+> 🧠 **PAUSA MANUAL (Tu turno):** Aquí es donde abres el Excel. Revisas que el auto-relleno esté bien y completas manualmente las filas vacías (las complejas) consultando tu Zotero. Guardas y cierras.
+
+------------------------------------------------------------------------
+
+## 📌 Script 3: El Reemplazador Masivo
+
+`3_sustitucion_masiva.R`
+
+- **Insumo:** Tus archivos `.qmd` en `/originales` y tu Mapa Maestro con todos los `Citekey_Zotero` ya completos.
+- **Su objetivo de vida:** Hacer la magia final: borrar el texto plano e insertar los códigos de Zotero en tus capítulos de Quarto.
+
+### Actividades paso a paso:
+
+1.  **Construye el diccionario:** Carga tu Mapa Maestro corregido y descarta cualquier fila que no tenga una clave de Zotero. Se queda únicamente con los pares: `Texto Plano` ──► `@Clave`.
+2.  **Abre los capítulos:** Empieza a recorrer tus archivos `.qmd` uno por uno.
+3.  **Cirugía de texto ("Buscar y Reemplazar"):** Lee el texto de un capítulo y ejecuta un bucle interno. Por cada fila de tu diccionario, busca el texto plano exacto usando la función `fixed()` (para que los paréntesis no confundan al sistema) y lo cambia por la clave de Zotero.
+
+- *Ejemplo:* Cambia cada texto `(Pérez, 2026)` por `[@perez2026]`.
+
+4.  **Exportación Segura (Efecto Espejo):** No toca tus archivos en `/originales`. Guarda el archivo totalmente modificado y listo en una nueva carpeta independiente llamada `Libro2_procesado`.
+
+¡Y listo! Al terminar el Script 3, vas a la carpeta `Libro2_procesado`, abres tus capítulos en Quarto y verás que toda la bibliografía está perfectamente automatizada con la sintaxis nativa de Quarto y Zotero.

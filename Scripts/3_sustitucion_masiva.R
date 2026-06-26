@@ -8,7 +8,7 @@ library(fs)
 
 # 1. CONFIGURACIÓN DE RUTAS
 ruta_base    <- "/Users/omarperezbanos/Publicaciones_UAML_DCSH/Libros"
-dir_origen   <- file.path(ruta_base, "Libro2_politicas_publicas_2026")
+dir_origen   <- file.path(ruta_base, "Libro2_politicas_publicas_2026/originales")
 dir_destino  <- file.path(ruta_base, "Libro2_procesado") # Carpeta segura de salida
 ruta_mapa    <- file.path(ruta_base, "mapa_maestro_citas_paginas.csv")
 

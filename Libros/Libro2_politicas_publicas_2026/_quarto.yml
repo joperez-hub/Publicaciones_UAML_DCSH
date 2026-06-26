@@ -4,8 +4,6 @@
 project:
   type: book
   output-dir: _book
-  render:
-    - "*.qmd"
 
 # ============================================
 # METADATOS EDITORIALES Y BIBLIOGRÁFICOS
@@ -35,8 +33,10 @@ book:
       - cap5.qmd
       - cap6.qmd
       - cap7.qmd
-      #- cap8_p.qmd
-      #- cap9_p.qmd
+      - cap8.qmd
+      - cap9_p.qmd
+    - part: Entrevista
+      - entrevista.qmd
     - colofon.qmd
 
 
