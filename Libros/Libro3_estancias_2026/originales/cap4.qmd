@@ -1,0 +1,193 @@
+**Cómo influye la Interseccionalidad en Programas Públicos Municipales: Diseño y Evaluación**
+
+**How Intersectionality Influences Municipal Public Programs: Design and Evaluation**
+
+# **Resumen**:
+
+El enfoque interseccional se ha convertido en una herramienta fundamental para comprender las complejas desigualdades que enfrentan las poblaciones marginadas. Este enfoque reconoce que las personas no son simplemente afectadas por una sola dimensión de identidad (como género, raza o clase), sino que experimentan múltiples formas de discriminación y opresión que se entrelazan. Este artículo propone explorar la importancia del enfoque interseccional en el diseño y evaluación de políticas públicas. Argumentaremos que este enfoque es esencial para abordar de manera efectiva las desigualdades complejas y para garantizar que las políticas públicas sean inclusivas y equitativas.
+
+Palabras clave: Evaluación, Políticas Públicas, Interseccionalidad, Género
+
+# **Abstract**:
+
+The intersectional approach has become a fundamental tool for understanding the complex inequalities faced by marginalized populations. This approach recognizes that people are not simply affected by a single dimension of identity (such as gender, race, or class), but rather experience multiple forms of discrimination and oppression that are intertwined. This article aims to explore the importance of the intersectional approach in the design and evaluation of public policies. We will argue that this approach is essential to effectively address complex inequalities and ensure that public policies are inclusive and equitable.
+
+Keywords: Evaluation, Policies, Intersectionality, Gender
+
+# **Introducción**
+
+Las políticas públicas tienen un impacto profundo en la vida de las personas y en la configuración de la sociedad en su conjunto. Estas políticas pueden abordar una amplia gama de cuestiones, desde la atención médica y la educación hasta la vivienda y el empleo.
+
+Sin embargo, es crucial reconocer que las desigualdades no se distribuyen de manera uniforme en la sociedad. Las personas no son iguales en sus experiencias y circunstancias debido a una variedad de factores, como la raza, el género, la orientación sexual, la edad y la discapacidad.
+
+Ignorar estas diferencias y tratar a todos por igual puede perpetuar y agravar las desigualdades existentes. Es en este contexto que el enfoque interseccional emerge como un enfoque esencial para el diseño y evaluación de políticas públicas.
+
+El enfoque interseccional, en esencia, busca comprender cómo diferentes sistemas de opresión y discriminación se cruzan y se superponen, creando experiencias únicas de marginalización para personas que pertenecen a múltiples grupos marginados.
+
+Por ejemplo, una mujer afrodescendiente puede enfrentar desafíos distintos y más complejos que una mujer blanca debido a la intersección de la raza y el género en su identidad. En este sentido, el enfoque interseccional nos recuerda que las políticas públicas no pueden ser efectivas si se ignoran estas realidades interseccionales.
+
+Abordar las desigualdades complejas requiere una comprensión profunda de cómo las identidades interseccionales afectan las oportunidades, los recursos y las barreras que enfrentan las personas en la sociedad.
+
+En un mundo cada vez más diverso y pluralista, es imperativo que las políticas públicas evolucionen para reflejar y abordar esta diversidad. Ignorar las diferencias interseccionales puede llevar a políticas mal diseñadas que perpetúan las desigualdades existentes y excluyen a grupos marginados.
+
+Por lo tanto, este trabajo explorará cómo el enfoque interseccional puede informar y mejorar el diseño y la evaluación de políticas públicas, destacando su relevancia en la promoción de sociedades más justas e inclusivas para todas las personas.
+
+# **Conceptualización del Enfoque Interseccional**
+
+En esta sección, definiremos y explicaremos en detalle el enfoque interseccional, destacando su origen en los estudios de género y su evolución para abordar diversas formas de discriminación, incluyendo la raza, la clase social, la orientación sexual y la discapacidad.
+
+La conceptualización del enfoque interseccional se basa en la idea fundamental de que las personas no pueden ser reducidas a una sola identidad o categoría. En lugar de ver a las personas como individuos aislados, el enfoque interseccional reconoce que nuestras vidas están influenciadas por una red compleja de factores interrelacionados, incluyendo la raza, el género, la orientación sexual, la clase social, la edad y la discapacidad, entre otros.
+
+Kimberlé Crenshaw, pionera en el desarrollo de este enfoque, lo describió como la interacción de múltiples ejes de identidad que se combinan para formar experiencias únicas de opresión y discriminación, es importante señalar que la interseccionalidad "se introdujo a finales de la década de 1980 como un término heurístico para centrar la atención en las complejas dinámicas de diferencia y las solidaridades de semejanza en el contexto de la política antidiscriminatoria y de los movimientos sociales" (Cho et al., 2013).
+
+Este enfoque no solo se aplica a las personas, sino también a las políticas públicas, ya que los planes, los programas y los proyectos pueden tener un impacto diferente en función de cómo interactúan estos ejes de identidad en la población objetivo.
+
+El enfoque interseccional también resalta la importancia de comprender cómo las estructuras de poder y las normas sociales impactan de manera diferencial a las personas en función de su identidad interseccional.
+
+Por ejemplo, una persona con una identidad interseccional que incluye ser una mujer transgénero de color puede enfrentar una discriminación y violencia estructural y sistemática que va más allá de lo que experimentan las personas que solo enfrentan discriminación por una sola dimensión de identidad.
+
+Esto significa que las políticas públicas deben considerar no solo las categorías individuales de identidad, sino también cómo estas categorías interactúan en un contexto social más amplio.
+
+El enfoque interseccional no se limita solo a la identificación de las formas en que las personas experimentan discriminación interseccional, sino que también se centra en la construcción de soluciones inclusivas y equitativas.
+
+En un terreno amplio como lo es el político se puede concebir que la "interseccionalidad política proporciona una dimensión aplicada a las perspectivas de la interseccionalidad estructural al ofrecer un marco para cuestionar el poder y, de ese modo, vincular la teoría con las luchas sociales y políticas existentes y emergentes" (Cho et al., 2013).
+
+Por lo tanto, en el diseño de los planes y los programas municipales, es fundamental considerar no solo cómo las personas son afectadas por múltiples ejes de identidad, sino también cómo estos pueden abordar de manera efectiva estas complejas interacciones para lograr resultados justos y equitativos. En las secciones siguientes, exploraremos cómo aplicar este enfoque en la práctica y los beneficios que puede aportar a la sociedad en su conjunto
+
+# **Reconociendo la Interseccionalidad en la Sociedad**
+
+Aquí discutiremos ejemplos concretos de cómo las personas experimentan la interseccionalidad en la vida cotidiana. Esto incluirá ejemplos de discriminación sistémica, barreras para el acceso a servicios públicos y cómo estas experiencias varían según la intersección de múltiples identidades.
+
+Si bien existen diferentes espacios y contextos en los que se puede desmenuzar y comprender la interseccionalidad, este trabajo se acota específicamente a su comprensión en tanto la relación con las políticas públicas, tomando en consideración la propuesta de Collins al referir que podemos dimensionar la "interseccionalidad como praxis crítica, es decir, cómo
+
+los actores sociales utilizan la interseccionalidad para proyectos de justicia social"(Collins, 2015).
+
+La interseccionalidad se manifiesta de manera palpable en la vida cotidiana de las personas, lo que subraya la importancia de abordarla en las políticas públicas. Un ejemplo evidente de esto es el mercado laboral. Las personas que pertenecen a grupos marginados debido a su raza, género, orientación sexual, discapacidad o clase social enfrentan obstáculos adicionales en su búsqueda de empleo y en su experiencia laboral.
+
+Las brechas salariales entre diferentes grupos se amplifican cuando se consideran las intersecciones de identidad, lo que significa que una mujer afrodescendiente, por ejemplo, puede ganar significativamente menos que un hombre blanco en el mismo puesto. Este tipo de discriminación interseccional también se refleja en la falta de oportunidades de ascenso y en la exposición a ambientes laborales hostiles.
+
+La interseccionalidad se hace aún más evidente cuando examinamos el sistema de justicia penal. Las tasas de encarcelamiento y el trato dentro del sistema varían considerablemente según la intersección de identidades. Las personas de color, especialmente los hombres afrodescendientes, son desproporcionadamente arrestadas, condenadas y sentenciadas a penas más largas que las personas blancas.
+
+Cuando se añade el factor de género a esta ecuación, las mujeres de color enfrentan desafíos adicionales, ya que las políticas criminales suelen no tener en cuenta sus experiencias únicas. Esto destaca cómo la interseccionalidad no solo implica la suma de desigualdades, sino también la creación de desafíos específicos que deben abordarse de manera integral en las políticas públicas.
+
+La interseccionalidad también se manifiesta en el acceso a la atención médica. Las personas con identidades interseccionales pueden enfrentar barreras significativas para recibir atención de calidad. Las mujeres transgénero de color, por ejemplo, pueden enfrentar discriminación y falta de comprensión en entornos de atención médica, lo que puede afectar negativamente su salud y bienestar.
+
+Del mismo modo, las personas mayores de color pueden experimentar disparidades en la atención médica debido a la intersección de la edad y la raza. Estos ejemplos ilustran cómo la interseccionalidad es una realidad palpable que impacta en múltiples aspectos de la vida de las personas, y subrayan la importancia de abordarla de manera integral en el diseño de políticas públicas.
+
+Lo anterior nos ayuda a comprender que "las vidas humanas no pueden explicarse teniendo en cuenta categorías únicas, \[...\], las realidades vividas están determinadas por diferentes factores y dinámicas sociales que operan juntas" (Hankivsky, 2014).
+
+En las siguientes secciones, exploraremos cómo las políticas pueden ser diseñadas y evaluadas para abordar estas desigualdades interseccionales de manera efectiva.
+
+# **Diseño de Políticas Públicas Interseccionales**
+
+En esta sección, argumentaremos que el diseño de políticas públicas debe considerar cuidadosamente la interseccionalidad. Exploraremos cómo esto puede lograrse a través de la recopilación de datos desagregados, la consulta a grupos marginados y la consideración de las implicaciones interseccionales en todas las etapas del proceso de diseño de políticas.
+
+Un punto de partida importante es comprender que las personas académicas, investigadoras, y quienes formulan las políticas, así como activistas "deben considerar su propia posición, papel y poder social al adoptar un enfoque interseccional. Esta "reflexividad" debería existir antes de establecer prioridades y direcciones en la investigación, el trabajo político y el activismo" (Hankivsky, 2014).
+
+El diseño de políticas públicas interseccionales implica un enfoque integral que considera cuidadosamente las múltiples identidades de las personas y cómo estas interactúan en la vida cotidiana. Un primer paso es la recopilación de datos desagregados, que va más allá de simplemente analizar las estadísticas por género o raza.
+
+Para comprender plenamente la interseccionalidad, los datos deben desglosarse en múltiples categorías, lo que permite identificar patrones de discriminación y desigualdad que podrían pasar desapercibidos en un análisis superficial. Esto proporciona la base para diseñar políticas que aborden las necesidades específicas de grupos marginados con identidades interseccionales.
+
+La consulta a grupos marginados es esencial en el diseño de políticas interseccionales. Los individuos que experimentan la interseccionalidad son los expertos en sus propias experiencias y pueden ofrecer información valiosa sobre las barreras y desafíos que enfrentan.
+
+La inclusión de estas voces en el proceso de diseño garantiza que las políticas sean culturalmente sensibles y relevantes para las comunidades a las que están destinadas a servir. Esto también ayuda a evitar posibles consecuencias no deseadas o efectos negativos no anticipados de las políticas.
+
+Además, el enfoque interseccional debe incorporarse en todas las etapas del proceso de diseño de políticas públicas, desde la definición de lo que se entiende como un problema público hasta la formulación de objetivos y estrategias hasta la implementación y el monitoreo de las posibles soluciones. Las políticas deben ser flexibles y adaptables para abordar las cambiantes dinámicas de las desigualdades interseccionales.
+
+También es crucial considerar la interseccionalidad en la asignación de recursos y en la toma de decisiones presupuestarias. Esto garantiza que los grupos marginados con identidades interseccionales reciban la atención y los recursos necesarios para superar las barreras que enfrentan pero también garantiza la operacionalización de los planes o programas.
+
+El diseño de políticas interseccionales debe incorporar una perspectiva de equidad y justicia social, esto significa que las políticas no solo deben abordar las desigualdades existentes, sino también trabajar activamente para eliminar las estructuras de poder que perpetúan la discriminación, lo anterior promoviendo espacios reales de partición activa y de toma de decisiones, donde se integren a las personas sujetas de derecho.
+
+Las políticas deben aspirar a empoderar a las personas con identidades interseccionales y brindar igualdad de oportunidades para que todos puedan alcanzar su máximo potencial en una sociedad justa y equitativa.
+
+Además, para alcanzar todo esto, es necesario recordar que la planeación contribuye a evitar que la avaricia y las falsas expectativas se plasmen en los programas y proyectos de los gobernantes que se incorporan a la administración pública"(Villegas & Aguilar, 2023).
+
+En las secciones siguientes, exploraremos cómo llevar a cabo una evaluación interseccional de políticas para garantizar que estén logrando sus objetivos de manera efectiva y equitativa.
+
+# **Evaluación de Impacto desde una Perspectiva Interseccional**
+
+Mostraremos cómo la evaluación de planes, programas y proyectos debe ir más allá de un análisis superficial y considerar cómo las políticas afectan de manera diferente a personas con identidades interseccionales. Esto requerirá la incorporación de indicadores específicos y la adaptación de distintas metodologías de evaluación.
+
+La evaluación de impacto de políticas públicas desde una perspectiva interseccional es fundamental para garantizar que estas políticas estén cumpliendo sus objetivos de manera efectiva y equitativa.
+
+Esto implica aplicar estrategias estandarizadas en poblaciones diferentes, medir resultados y considerar cómo diferentes grupos experimentan los programas de manera diferente. Para ello, es esencial la recolección y el análisis de datos desagregados que tengan en cuenta las múltiples dimensiones de identidad, como género, raza, edad y discapacidad, entre otras.
+
+La evaluación interseccional debe incluir indicadores específicos que reflejen las complejidades de la población objetivo. Estos indicadores pueden ayudar a identificar los grupos que podrían estar siendo dejados atrás o que enfrentan desafíos particulares debido a su intersección de identidades.
+
+Por ejemplo, en la evaluación de un programa de acceso a la educación superior, los indicadores interseccionales podrían revelar si las mujeres afrodescendientes mayores de 30 años tienen tasas de participación significativamente más bajas en comparación con otros grupos.
+
+Además, la evaluación interseccional debe ser sensibles a las voces y perspectivas de las personas afectadas por las políticas. Esto puede lograrse mediante la participación activa de comunidades marginadas y la realización de evaluaciones participativas que tengan en cuenta sus experiencias y preocupaciones. Escuchar a las voces de las personas con identidades interseccionales es esencial para comprender completamente los efectos de las políticas y para identificar áreas de mejora.
+
+La adaptabilidad también es clave en la evaluación interseccional. Las políticas deben ser revisadas y ajustadas de manera continua a la luz de los hallazgos de la evaluación, especialmente si se identifican disparidades significativas. Esto puede implicar cambios en la asignación de recursos, modificaciones en los programas o la adopción de medidas específicas para abordar las barreras que enfrentan los grupos marginados con identidades interseccionales.
+
+Para ello, podemos integrar las siguientes interrogantes:
+
+> ¿Qué indicadores de resultado y de impacto se pueden incluir para comprobar si se está incorporando la mirada interseccional? ¿A partir de cuándo consideramos que el grupo es suficientemente diverso o que hemos tenido en cuenta suficientes ejes de desigualdad? ¿En qué medida las categorías son un ejercicio de empobrecimiento y simplificación o nos ayudan a detectar sesgos cuando, por ejemplo, estamos preguntando el género, la procedencia o la religión? ¿Cómo incorporamos las categorías a los formularios o indicadores de evaluación sin caer en la simplificación? (Coll-Planas et al., 2021)
+
+La evaluación interseccional de políticas públicas es un proceso continuo y reflexivo que busca garantizar que las políticas sean equitativas y efectivas para todas las personas, independientemente de sus identidades interseccionales. Al considerar estas complejidades, las políticas pueden ser diseñadas y ajustadas de manera que aborden de manera más efectiva las desigualdades complejas y promuevan una sociedad más justa e inclusiva.
+
+# **Planes y Programas Municipales**
+
+La aplicación de los puntos anteriores en los planes y programas municipales es esencial para construir comunidades justas y equitativas. Los gobiernos locales desempeñan un papel fundamental en la vida de las personas, ya que son responsables de una amplia gama de servicios y acciones que tienen un impacto directo en la vida cotidiana de los residentes.
+
+Los municipios son entidades que están en contacto directo con sus comunidades, son el orden de gobierno más próximo a la solución o prevención de problemas públicos. Tienen un conocimiento más profundo de las necesidades y desafíos locales, lo que les permite adaptar sus acciones de manera más específica y sensible.
+
+Al aplicar el enfoque interseccional en la recopilación de datos y la consulta a nivel local, los municipios pueden diseñar estrategias que se ajusten mejor a la diversidad de experiencias de sus residentes. Por ejemplo, un municipio puede identificar que ciertos vecindarios enfrentan barreras de acceso al transporte público debido a la intersección de la discapacidad y la clase social, lo que podría llevar a la implementación de servicios de transporte accesible y asequibles específicos para estos grupos.
+
+Los gobiernos locales son laboratorios de innovación política. Pueden probar nuevas iniciativas y políticas de manera más ágil que a nivel estatal o nacional. Esto significa que los municipios pueden liderar el camino en la adopción de políticas interseccionales efectivas que luego puedan ser replicadas a nivel más amplio.
+
+Por ejemplo, un municipio que implementa un programa piloto de viviendas asequibles diseñado con un enfoque interseccional puede demostrar su eficacia y servir como modelo para otras comunidades.
+
+Los municipios pueden ser un refugio para las personas marginadas. Aquellos que enfrentan discriminación y desigualdad a menudo buscan comunidades más inclusivas donde puedan encontrar apoyo y oportunidades. Al adoptar políticas y programas interseccionales, los municipios pueden convertirse en destinos atractivos para una variedad de personas, lo que puede enriquecer la diversidad y la vitalidad de la comunidad.
+
+Frente a ello, se puede
+
+> "valorar si es necesario que todo el mundo forme parte de los órganos formales de participación o bien se pueden buscar otras estructuras o espacios más flexibles para trabajar conjuntamente. Así pues, más allá de la existencia de órganos de participación, se pueden facilitar otras herramientas y canales de comunicación con determinados grupos y personas, para asegurar que tienen un espacio de interlocución donde poder estar presentes para la resolución de sus demandas y necesidades"(Coll-Planas et al., 2021)
+
+Los gobiernos municipales desempeñan un papel crucial en la implementación de políticas públicas interseccionales. Al tomar en cuenta las complejidades de la identidad y la interseccionalidad en sus planes y programas, pueden crear comunidades más justas, inclusivas y equitativas que atiendan las necesidades de todos sus residentes, independientemente de sus identidades interseccionales. Esto no solo mejora la calidad de vida en el ámbito local, sino que también puede servir de ejemplo para una transformación más amplia y positiva a nivel regional y nacional.
+
+# **Conclusiones:**
+
+El enfoque interseccional es esencial para abordar las desigualdades complejas y lograr la equidad en las políticas públicas. Al reconocer la intersección de múltiples identidades, las políticas pueden ser más inclusivas y efectivas en la promoción del bienestar de todas las personas. Para construir una sociedad más justa, es hora de que quienes diseñen y evalúen las políticas públicas abracen plenamente este enfoque.
+
+En un mundo cada vez más diverso y complejo, la importancia del enfoque interseccional en el diseño y evaluación de políticas públicas es innegable. Este enfoque ha demostrado ser una herramienta poderosa para abordar las desigualdades complejas que enfrentan las personas debido a la intersección de múltiples identidades, como raza, género, orientación sexual, clase social, edad y discapacidad.
+
+Aplicar estrictamente el proceso de la planeación "dota de objetividad y realidad a las expectativas sociales y gubernamentales, siempre que se incorporen las categorías precisas, los indicadores reales, los objetivos generales y específicos, así como el tiempo y el costo para cumplir con lo diseñado". (Villegas & Aguilar, 2023)
+
+Al considerar cuidadosamente cómo estas identidades interactúan y se entrelazan en la vida cotidiana, las políticas públicas pueden ser diseñadas y evaluadas de manera efectiva para promover la equidad y la justicia social.
+
+La aplicación de enfoques interseccionales en el diseño y evaluación de políticas públicas no se limita a nivel nacional o estatal. Los municipios desempeñan un papel vital en la implementación de programas que impactan directamente en la vida de las personas en sus comunidades.
+
+Es en este nivel donde la aplicación del enfoque interseccional cobra un valor aún mayor. Los municipios, al estar en contacto directo con la ciudadanía, tienen la capacidad de adaptar sus acciones de manera específica y sensible a las necesidades locales y a las complejidades de las identidades interseccionales.
+
+Los municipios pueden actuar como líderes en la adopción de políticas públicas interseccionales efectivas. Pueden servir como ejemplos de innovación política, probando nuevas iniciativas y programas que aborden las desigualdades complejas en sus comunidades locales, integrando conocimientos técnicos, con practicas ancestrales.
+
+# **Trabajos citados**
+
+Cho, S., Crenshaw, K. W., & McCall, L. (2013). Toward a field of intersectionality studies: Theory, applications, and praxis. *Signs*, *38*(4), 785--810. https://doi.org/10.1086/669608
+
+Collins, P. H. (2015). Intersectionality's Definitional Dilemmas. En *Annual Review of Sociology* (Vol. 41, pp. 1--20). Annual Reviews Inc. https://doi.org/10.1146/annurev-soc-073014-112142
+
+Coll-Planas, G., Solà-Morales, R., & García-Romeral, G. (2021). *Aplicación de la interseccionalidad en las políticas y servicios de igualdad y no discriminación: reflexiones críticas y recomendaciones*. https://www.idhc.org/arxius/recerca/Intsersec-es-2.pdf
+
+Hankivsky, O. (2014). *INTERSECTIONALITY 101*. https://resources.equityinitiative.org/handle/ei/433
+
+Villegas, F. G. A., & Aguilar, A. C. R. (2023). Retos para la planeación y la evaluación de Políticas Públicas municipales. *Cofactor*, *2*(24), 31--49.
+
+ 
+
+## **Bibliografía Recomendada**
+
+Bowleg, L. (2008). When Black + lesbian + woman ≠ Black lesbian woman: The methodological challenges of qualitative and quantitative intersectionality research. Sex Roles, 59(5-6), 312-325.
+
+Crenshaw, K. (1989). Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory, and Antiracist Politics. University of Chicago Legal Forum, 1989(1), 139-167.
+
+Hancock, A. M. (2007). When multiplication doesn\'t equal quick addition: Examining intersectionality as a research paradigm. Perspectives on Politics, 5(01), 63-79.
+
+Hankivsky, O., & Christoffersen, A. (2008). Intersectionality and the determinants of health: A Canadian perspective. Critical Public Health, 18(3), 271-283.
+
+McCall, L. (2005). The Complexity of Intersectionality. Signs: Journal of Women in Culture and Society, 30(3), 1771-1800.
+
+Nash, J. C. (2008). Re-thinking intersectionality. Feminist review, 89(1), 1-15.
+
+Yuval-Davis, N. (2006). Intersectionality and feminist politics. European Journal of Women\'s Studies, 13(3), 193-209.

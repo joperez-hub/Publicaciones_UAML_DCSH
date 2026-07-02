@@ -1,0 +1,29 @@
+---
+title: ""
+unlisted: true
+---
+
+\begin{center}
+\vspace*{6cm}
+
+\textit{Artesanías intelectuales // El oficio de abrir las ciencias sociales}
+
+\vspace{0.5cm}
+
+se terminó de editar en el mes de octubre de 2026
+
+\vspace{0.5cm}
+
+Universidad Autónoma Metropolitana, Unidad Lerma \\
+Avenida de las Garzas núm. 10 \\ 
+Col. El Panteón C.P. 52005 \\
+Lerma de Villada, Estado de México. \\
+
+\vspace{1cm}
+\href{cedcsh@correo.ler.uam.mx}{cedcsh@correo.ler.uam.mx}
+
+\vspace{1cm}
+
+EJEMPLAR DIGITAL
+
+\end{center}

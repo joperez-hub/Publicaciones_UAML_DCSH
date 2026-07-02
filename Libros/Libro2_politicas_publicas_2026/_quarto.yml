@@ -34,8 +34,9 @@ book:
       - cap6.qmd
       - cap7.qmd
       - cap8.qmd
-      - cap9_p.qmd
+      - cap9.qmd
     - part: Entrevista
+      chapters:
       - entrevista.qmd
     - colofon.qmd
 
@@ -53,7 +54,7 @@ format:
     fontsize: 11pt
     geometry: "left=3cm,right=3cm,top=3cm,bottom=4cm"
     cite-method: biblatex
-    bibliography: libro22026.bib
+    bibliography: 1libro22026.bib
     biblatexoptions: 
       - refsection=chapter
       - style=apa # O el estilo que prefieras (numeric, harvard, etc.)

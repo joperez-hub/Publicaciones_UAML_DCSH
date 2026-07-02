@@ -1,0 +1,24 @@
+---
+title: "__TITULO__"
+author:
+__BLOQUE_AUTORES_YAML__
+chapter-number: __CAPITULO_NUM__
+page-range: "__PAGINAS__"
+doi: "__DOI__"
+resumen: |
+  __RESUMEN__
+keywords:
+__PALABRAS_CLAVE_YAML__
+type: chapter
+---
+
+\addtocontents{toc}{\protect\hspace{1.5em}__AUTORES_INDICE__\par}
+\markboth{__TITULO__}{}
+
+\begin{flushright}
+__BLOQUE_AUTORES_PORTADILLA__
+\end{flushright}
+
+## Introducción {.unnumbered .unlisted}
+
+El cuerpo del texto...

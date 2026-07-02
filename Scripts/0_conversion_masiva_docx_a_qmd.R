@@ -7,7 +7,7 @@ library(readr)
 
 # 1. CONFIGURACIÓN DE RUTAS
 ruta_base  <- "/Users/omarperezbanos/Publicaciones_UAML_DCSH/Libros"
-dir_origen <- file.path(ruta_base, "Libro2_politicas_publicas_2026/originales")
+dir_origen <- file.path(ruta_base, "Libro3_estancias_2026/originales")
 
 # 2. DETECTAR TODOS LOS ARCHIVOS WORD EN LA CARPETA
 archivos_docx <- dir_ls(dir_origen, regexp = "\\.docx$", ignore.case = TRUE)

@@ -1,0 +1,6 @@
+---
+title: "index"
+format: html
+---
+
+Aquí va una introducción que se supone tengo que escribir

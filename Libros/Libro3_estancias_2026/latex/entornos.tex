@@ -1,0 +1,28 @@
+% ==============================================================================
+% ENSTORNOS Y COMANDOS PERSONALIZADOS (Especial para Etnografía y Entrevistas)
+% ==============================================================================
+
+% --- 1. Paquetes requeridos para control de listas y color ---
+\usepackage{enumitem}
+\usepackage{xcolor}
+
+% --- 2. Entorno para transcripciones de entrevistas estructuradas ---
+% Corrige espaciados para que los fragmentos no queden flotando o muy separados
+\newenvironment{transcripcion}{
+    \begin{list}{}{
+        \setlength{\leftmargin}{1.5em}  % Un toque más de entrada para notar el bloque
+        \setlength{\rightmargin}{0em}
+        \setlength{\itemsep}{0.2em}     % Ajuste fino de separación entre réplicas
+        \setlength{\parsep}{0.0em}
+        \setlength{\listparindent}{0pt}
+    }
+}{
+    \end{list}
+}
+
+% --- 3. Comandos auxiliares para dinamismo de diálogos etnográficos ---
+% \personaje{Nombre}: Renderiza el actor social en negrita con un espacio elegante
+\newcommand{\personaje}[1]{\textbf{#1}\quad}
+
+% \escena{Texto}: Ideal para descripciones de diario de campo o gestos en cursiva y chica
+\newcommand{\escena}[1]{\textit{\small #1}\par\vspace{0.4em}}

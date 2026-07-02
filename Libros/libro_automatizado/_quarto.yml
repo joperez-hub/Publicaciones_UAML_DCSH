@@ -1,0 +1,82 @@
+#===============================================================================
+# 1. CONFIGURACIÓN GENERAL DEL PROYECTO
+#===============================================================================
+project:
+  type: book
+  output-dir: _book
+  render: 
+    - "*.qmd"
+
+#===============================================================================
+# 2. METADATOS EDITORIALES Y DE PUBLICACIÓN
+#===============================================================================
+book:
+  title: "Título de la obra"
+  subtitle: "Subtítulo de la obra"
+  editor:
+    - name: "Nombre del Coordinador"
+      affiliation: "Universidad Autónoma Metropolitana, Unidad Lerma"
+      email: "correo.del.coordinador@institución.com"
+      orcid: ""
+  publisher: "Universidad Autónoma Metropolitana, Unidad Lerma"
+  publisher-place: "Lerma de Villada, Estado de México"
+  date: ""
+  isbn: "978-xxx-xxx-xxx-x"
+  doi: "10.xxxx/xxxxx"
+  license: "CC BY-NC-SA 4.0"
+  
+  chapters:
+    - index.qmd
+    - part: CONTENIDO DEL LIBRO
+      chapters:
+        - capitulo_01.qmd
+        - capitulo_02.qmd
+        - capitulo_03.qmd
+    - part: ENTREVISTA
+      chapters:
+        - plantilla_entrevista.qmd
+    - part: RESEÑA
+      chapters:
+        - reseña.qmd
+    - colofon.qmd
+
+#===============================================================================
+# 3. CONFIGURACIÓN DE FORMATO Y MAQUETACIÓN (PDF)
+#===============================================================================
+format:
+  pdf:
+    maketitle: false
+    pdf-engine: xelatex
+    lang: es
+    documentclass: scrbook
+    papersize: "a4"
+    fontsize: 11pt
+    geometry: "left=3cm,right=3cm,top=3cm,bottom=4cm"
+    cite-method: biblatex
+    bibliography: BibliografiaPrueba.bib
+    biblatexoptions: 
+      - refsection=chapter
+      - style=apa
+      - isbn=false
+      
+    mainfont: "Cormorant Garamond"
+
+    include-in-header: 
+      - latex/preambulo.tex
+      - latex/entornos.tex
+
+    include-before-body: latex/portada.tex
+
+    toc: true
+    toc-depth: 2
+    toc-title: "Índice"
+    number-sections: false
+    lof-title: "Índice de Figuras"
+    lot-title: "Índice de Tablas"
+    lof: false
+    lot: false
+
+    link-citations: true
+    citecolor: "blue"
+    linkcolor: "red"
+    urlcolor: "green"

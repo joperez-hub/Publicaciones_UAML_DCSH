@@ -8,10 +8,10 @@
   ItalicFont=Montserrat-Italic  % Si no existe, fontspec usará slant sintético
 ]{Montserrat-Regular}
 
-%=============================================================================
-% PÁGINA 2: PORTADA FULL-PAGE
-%=============================================================================
-{
+% ============================================
+% PÁGINA 1: PORTADA CON IMAGEN
+% ============================================
+{ % <--- LLAVE DE APERTURA (Blindaje total de márgenes)
 
 \thispagestyle{empty}
 
@@ -28,13 +28,13 @@
 % Empezamos con 1.8cm. Si notas que le falta bajar un poco, súbelo a 2.5cm.
 \lower 1.8cm \hbox to \paperwidth{%
     \hss
-    \includegraphics[width=\paperwidth,height=1.0\paperheight,keepaspectratio=false]{assets/imagenes/libro2portada2026.pdf}%
+    \includegraphics[width=\paperwidth,height=1.0\paperheight,keepaspectratio=false]{assets/imagenes/libro3portada2026.pdf}%
     \hss
 }
 
 \clearpage
 
-}
+} % <--- LLAVE DE CIERRE (Márgenes del libro restaurados automáticamente)
 % ============================================
 % PÁGINA 2: EN BLANCO (verso de portada)
 % ============================================
@@ -52,11 +52,11 @@
     \raggedright
     \vspace*{1cm}
     \sffamily\small
-    \montserrat\huge Políticas Públicas y Etnografía \\
+    \montserrat\huge Artesanías intelectuales \\
     \vspace{0.3cm}
-    {\Large Observando al Estado y como el Estado} \\
+    {\Large El oficio de abrir las ciencias sociales} \\
     \vspace{0.7cm}
-    {\Large Abraham Zaíd Díaz Delgado} \\
+    {\Large José Omar Pérez Baños} \\
     \vspace{0.3cm}
     \Large\rmfamily\textit{Coordinador}
     \vfill
@@ -150,11 +150,11 @@
         \noindent\hspace{0.5cm}
         \parbox{0.9\textwidth}{
             \rmfamily\scriptsize
-            \texttt{Díaz Delgado, Abraham Zaíd (coordinador)} \\
-            Políticas Públicas y Etnografía : Observando al Estado y como el Estado / Abraham Zaíd Díaz Delgado, coordinador. -- México : Universidad Autónoma Metropolitana : Unidad Lerma : División de Ciencias Sociales y Humanidades, 2026. \\
+            \texttt{Pérez Baños, José Omar (coordinador)} \\
+            Artesanías intelectuales : El oficio de abrir las ciencias sociales / José Omar Pérez Baños, coordinador. -- México : Universidad Autónoma Metropolitana : Unidad Lerma : División de Ciencias Sociales y Humanidades, 2026. \\
             \quad p. : il. ; 14 x 21 cm. \\
             \quad ISBN: 978-xxx-xxx-xxx-x \\
-            \quad 1. Políticas públicas -- Aspectos sociales. 2. Etnografía -- Metodología -- México. I. Universidad Autónoma Metropolitana. Unidad Lerma. División de Ciencias Sociales y Humanidades.
+            \quad 1. Pendiente -- Pendiente. 2. Pendiente -- Pendiente -- México. I. Universidad Autónoma Metropolitana. Unidad Lerma. División de Ciencias Sociales y Humanidades.
         }
         \vspace{0.3cm}
     }}
@@ -169,9 +169,9 @@
 \fontspec{Montserrat-Regular.otf}\scriptsize
 \noindent
 Primera edición: 2026\\
-Políticas Públicas y Etnografía : Observando al Estado y como el Estado\\
-Abraham Zaíd Díaz Delgado, coordinador\\[0.5em]
-Diseño de portada: Yunuen Rosas Ortíz\\[0.5em]
+Artesanías intelectuales : El oficio de abrir las ciencias sociales\\
+José Omar Pérez Baños, coordinador\\[0.5em]
+Diseño de portada: Yunuen Rosas Ortiz\\[0.5em]
 D.R. © 2026, Universidad Autónoma Metropolitana\\
 Prolongación Canal de Miramontes 3855, Ex Hacienda San Juan de Dios,\\
 Alcaldía de Tlalpan, C.P. 14387, Ciudad de México.\\[0.5em]
@@ -180,7 +180,7 @@ División de Ciencias Sociales y Humanidades\\
 Consejo Editorial de la División de Ciencias Sociales y Humanidades\\
 Avenida de las Garzas núm. 10, Col. El Panteón,\\
 C.P. 52005, Lerma de Villada, Estado de México.\\
-\texttt{<correo.editorial@correo.lerma.uam.mx>}\\[0.8em]
+\texttt{<cedcsh@correo.ler.uam.mx>}\\[0.8em]
 ISBN: 978-xxx-xxx-xxx-x\\[0.8em]
 Esta publicación no puede ser reproducida, ni en todo ni en parte, ni registrada o transmitida por un sistema de recuperación de información, en ninguna forma ni por ningún medio, sea mecánico, fotoquímico, electrónico, magnético, electroóptico, por fotocopia o cualquier otro, sin el permiso previo y por escrito de los editores.\\[0.5em]
 La presente publicación pasó por un proceso de dos dictámenes (doble ciego) de pares académicos avalados por el Consejo Editorial de la División de Ciencias Sociales y Humanidades de la UAM-Lerma, que garantizan su calidad y pertinencia académica y científica.\\[0.5em]
