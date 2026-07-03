@@ -1,6 +1,29 @@
 ---
-title: "index"
-format: html
+title: "Presentación"
+author:
+  - name: "José Omar Pérez Baños"
+    affiliation: "Universidad Autónoma Metropolitana, unidad Lerma"
+    orcid: ""
+    email: "jo.perez@correo.ler.uam.mx"
+chapter-number: 0
+page-range: "1-2"
+doi: ""
+resumen: |
+  afgsa
+keywords:
+  - "bwrt"
+  - "wthey"
+  - "wh"
+type: chapter
 ---
 
-Aquí va una introducción que se supone tengo que escribir
+\addtocontents{toc}{\protect\hspace{1.5em}José Omar Pérez Baños\par}
+\markboth{Presentación}{}
+
+\begin{flushright}
+\Large José Omar Pérez Baños \footnote{wyagshj Contacto: \href{mailto:jo.perez@correo.ler.uam.mx}{jo.perez@correo.ler.uam.mx}}
+\end{flushright}
+
+## Introducción {.unnumbered .unlisted}
+
+El cuerpo del texto...

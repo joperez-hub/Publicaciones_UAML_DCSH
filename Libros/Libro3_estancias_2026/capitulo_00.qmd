@@ -1,34 +1,58 @@
-El artesano intelectual.
+---
+title: "El Artesano Intelectual. Rutas para una investigación ejemplar"
+author:
+  - name: "Claudia Mosqueda Gómez"
+    affiliation: "Universidad Autónoma Metropolitana, unidad Lerma"
+    orcid: ""
+    email: "c.mosqueda@correo.ler.uam.mx"
+chapter-number: "0"
+page-range: "3-4"
+doi: ""
+resumen: |
+  adfg
+keywords:
+  - "bwrt"
+  - "wthey"
+  - "wh"
+type: chapter
+---
 
-Rutas para una investigación ejemplar
+\addtocontents{toc}{\protect\hspace{1.5em}Claudia Mosqueda Gómez\par}
+\markboth{El Artesano Intelectual}{}
+
+\begin{flushright}
+\Large Claudia Mosqueda Gómez \footnote{asghrt}
+\end{flushright}
+
+## Introducción {.unnumbered .unlisted}
 
 El propósito que aquí me planteo es hablar sobre la investigación, dar sentido y elevar este noble trabajo como un proceso vivo, activo, como un proceso biográfico de vidas que aspiren al artesanado. Investigar nos activa para combatir o renunciar a las cortapisas o sujeciones de la investigación credencialista y meritocrática. Todas y todos hacemos nuestros pinitos en la investigación y justo este interés es el que nos atraviesa, que nos une y que nos hace ser.
 
 Quizá merece la pena hacer un impasse para preguntarnos cómo superar o enfrentarnos a la prosa y poses académicas. Responder a ello nos sitúa en nuestra mismidad. Investigar es un trabajo que remunera al pensamiento y retribuye al conocimiento y es que el trabajo de investigación siempre es autobiográfico, porque ello no se separa de nuestras vidas, no se desprende antagónicamente de nosotros, por el contrario toca la realidad, la roza, la transforma, la comprender y luego vuelve a nosotros en forma de otras preguntas, en momentos donde somos diferentes y capaces de reformularse. Somos y fluimos como el río de Eraclito, no somos las y los mismos, como la investigación es tampoco nunca la misma. Incesante proceso transformativo.
 
-De la misma manera, Wright Mills (1983) diría que trabajo y vida son las dos caras de lo mismo, ambas están en todo lo que hacemos, en nuestras actividades profesionales, los estudios que ponemos en marcha o los estudios que tenemos en proyecto. Quien investiga ejerce un trabajo intelectual, en él se ensayan sus ideas, se aceptan los riesgos intelectuales, desarrolla un pensamiento personal al generar nuevas ideas de cara a volverse aportes singulares. Estos aspectos que suelen ser menospreciados o que permanecen ocultos tras los resultados de la investigación y los libros publicados son la esencia de la práctica de un oficio: el del trabajo intelectual.
+De la misma manera, Wright @Mills1983 diría que trabajo y vida son las dos caras de lo mismo, ambas están en todo lo que hacemos, en nuestras actividades profesionales, los estudios que ponemos en marcha o los estudios que tenemos en proyecto. Quien investiga ejerce un trabajo intelectual, en él se ensayan sus ideas, se aceptan los riesgos intelectuales, desarrolla un pensamiento personal al generar nuevas ideas de cara a volverse aportes singulares. Estos aspectos que suelen ser menospreciados o que permanecen ocultos tras los resultados de la investigación y los libros publicados son la esencia de la práctica de un oficio: el del trabajo intelectual.
 
-i\. El trabajo intelectual como artesanía
+## i) El trabajo intelectual como artesanía
 
 La palabra artesano o artesana no se entiende aquí en el sentido común, no se trata de definir a una persona que tiene un oficio manual, sino hacer una mimesis de esta forma de trabajo por el modo y maestría de hacer las cosas y hacerlas con el riguroso desarrollo de su habilidad, como el cuidado en la aplicación de esas habilidades, con la pasión de quien ama el detalle.
 
-Hanna Arent (2009), Wright Mills (1993) o Richard Sennet (2009) asumen que trabajar en pensar al mundo, a la realidad, preguntarnos sobre él y aún más explicarlo mientras nos forjamos a nosotras y nosotros mismos es ser un artesano intelectual. La categoría de artesano, particularmente dice Richard Sennett (2009), representa en cada una y uno de nosotros el deseo de hacer algo bien, concretamente y sin ninguna otra finalidad.
+Hanna @Arent2009, Wright @Mills1983 o Richard @Sennett2009 asumen que trabajar en pensar al mundo, a la realidad, preguntarnos sobre él y aún más explicarlo mientras nos forjamos a nosotras y nosotros mismos es ser un artesano intelectual. La categoría de artesano, particularmente dice Richard @Sennett2009, representa en cada una y uno de nosotros el deseo de hacer algo bien, concretamente y sin ninguna otra finalidad.
 
 El trabajo intelectual es la elección de una carrera o del trabajo de investigación y considerar esto como artesanía se devela por el modo en que este trabajador ejecuta y pone en marcha todas sus habilidades para ejercerlo, como la talla preciosa de una exquisita madera y es que el preciosismo con el que se ejecuten o desarrollen tales o cuales habilidades es el verdadero trabajo: mano, objeto, tacto, talla, vista, caricia, instrumento, escultura, síntesis, pensamiento, idea, esencia, sentimiento, forja, voz, escucha, satisfacción, frustración, cansancio, sensatez, conocimiento. Ninguna palabra sería suficiente para terminar de definir todo cuanto se pone en marcha en este trabajo artesanal. Con sus habilidades los artesanos forman su propio yo en la medida que perfeccionan, realizan, potencian y saben aprovechar todo cuanto se aparece en su camino para aprender a usar la experiencia de su vida en su trabajo intelectual, abriendo horizontes, expandiendo su mundo, examinándose y comprendiéndose. En este sentido la artesanía es su propio centro y está personalmente implicado en todo producto intelectual.
 
-ii\) Los artesanos cuidan de sí
+## ii) Los artesanos cuidan de sí
 
-Hanna Arendt (2009) apunta en su bello texto ***La condición humana*** que hay que poner especial interés en cómo hacemos o producimos las cosas, pues cuando no comprendemos lo que hacemos y producir de filo sin reparar en nuestra propia práctica nos condenarnos a la autodestrucción o autolesionarnos.
+Hanna @Arent2009 apunta en su bello texto ***La condición humana*** que hay que poner especial interés en cómo hacemos o producimos las cosas, pues cuando no comprendemos lo que hacemos y producir de filo sin reparar en nuestra propia práctica nos condenarnos a la autodestrucción o autolesionarnos.
 
 Y es que el trabajo del artesanado ha de ser para sí. Y ser para sí es ejecutar una tarea para toda la vida, que atiende a un cuidado de sí. El artesano-investigador ha de cuidar de sí mismo porque la actividad creadora que ejerce y transita le conduce a ser consciente de la permanente reflexión de su actitud productora y creadora.
 
 El investigador-artesano produce, desarrolla, aplica conocimiento mientras crea, ya antes habíamos dicho que se trataba de un incesante proceso de renovación de su vida porque es desde su razón como ser del límite que cuida de sí, que transforma, permea, irrumpe y revela los procesos creadores de su materia. Reconstituir su vida es una obligación fundamental de los investigadores-artesanos.
 
-Esta ocupación y cuidado de sí es aquello que evitaría que el trabajo investigativo se vuelva una mera rutina, lo alejemos de nosotros y nos autolesiones. Asumirnos artesanas y artesanos implica comprender lo que hacemos. De algún modo la trama o ruta de la investigación establece una relación profunda consigo mismo. Como diría Foucault (1999) se trata de ser soberano de sí mismo, ejercer sobre sí un dominio perfecto, ser plenamente independiente o ser completamente \<\<de sí\>\>. (Foucault,1999: 279)
+Esta ocupación y cuidado de sí es aquello que evitaría que el trabajo investigativo se vuelva una mera rutina, lo alejemos de nosotros y nos autolesiones. Asumirnos artesanas y artesanos implica comprender lo que hacemos. De algún modo la trama o ruta de la investigación establece una relación profunda consigo mismo. Como diría @Foucault1999a se trata de ser soberano de sí mismo, ejercer sobre sí un dominio perfecto, ser plenamente independiente o ser completamente \<\<de sí\>\> [@Foucault1999a: 279].
 
 Este artesano intelectual ha de renovarse siempre así mismo mediante la perpetua reflexión de sí mismo, ha de cultivarse así mismo deshaciéndose para rehacerse constantemente. Ha de ser alguien que se irrumpa así mismo porque sólo desde ahí puede superarse, autoformarse o re-constituirse SER. Pero tiene también una función de lucha. Se dice esto porque finalmente el artesanado intelectual crea, la investigación ejemplar es su obra.
 
-iii\) Ser creándose-investigando siendo
+## iii) Ser creándose-investigando siendo
 
 Los y las investigadores-artesanos son Dédalos o Leonardos, ingenian conceptos, construyen soluciones, diseñan conocimientos, crean artefactos sensibles y conceptuales, son capaces de transitar por diversos campos de conocimientos, herramientas, ideas, realidades, materiales. Perfil sensible y científico que dispone de un saber y de un saber-hacer extraordinarios y tiene además el tipo de inteligencia, de creatividad que se requiere para llevar a cabo una investigación ejemplar.
 
@@ -46,19 +70,19 @@ Para estimular la imaginación en la investigación, podríamos empezar haciénd
 
 2.  Juegos de palabras: juegos de palabras que nos lleven a frases que nos lleven a conceptos. Una actitud de juego las palabras con que se definen diversas cuestiones a menudo libera la imaginación. Busquemos sinonimias en diccionarios y en libros técnicos, para conocer todas las posibilidades de sus acepciones de las palabras.
 
-3.  Construir metáforas. ​​La metáfora, más allá de ser un aspecto formal del lenguaje, nos permite estructurar conceptos a partir de otros. Los procesos metafóricos son fundamentalmente procesos de pensamiento con miras a comprender cómo opera el mundo. Lakoff y Johnson sostienen que: "la metáfora impregna la vida cotidiana, no solo el pensamiento, sino también la acción. Nuestro sistema conceptual, que guía lo que pensamos y actuamos, es fundamentalmente de naturaleza metafórica". (Lakoff y Jhonson; 1995; 40)
+3.  Construir metáforas. ​​La metáfora, más allá de ser un aspecto formal del lenguaje, nos permite estructurar conceptos a partir de otros. Los procesos metafóricos son fundamentalmente procesos de pensamiento con miras a comprender cómo opera el mundo. Lakoff y Johnson sostienen que: "la metáfora impregna la vida cotidiana, no solo el pensamiento, sino también la acción. Nuestro sistema conceptual, que guía lo que pensamos y actuamos, es fundamentalmente de naturaleza metafórica". [@Lakoff1995: 40]
 
 4.  Desmontar la experiencia: investigar es abrirnos a nuevos horizontes, nos abrimos paso al mundo y ello requiere que tal apertura, un desmonte nuestra experiencia, de algún modo e invocado a Derrida, pues deconstruir nuestra experiencia no es destruir, sino cuestionarnos, descifrar los argumentos uno a uno y paso a paso. Tal desmontaje refuerza la idea de subvertir nuestros propios prejuicios o vicios. Este ejercicio subversivo apunta a un desmontaje de los prejuicios, preconcepciones y preconceptos que no son ganados desde la intuición y requieren ser suspendidos y revisados para no entronarnos en nuestros actos corruptos. Recordemos a Arent, para no autolesionarnos.
 
-iv\) El artesanado ejemplar
+## iv) El artesanado ejemplar
 
 Estas ideas no intentan ser un corolario ideológico o una palabrería que se tire por la borda, tampoco intentan trazar un deber ser, la intención es dirigir el trabajo del artesanado a crear investigaciones ejemplares. El ejemplar no es perfecto, único, acabado o cerrado. La ejemplaridad de una investigación no es un término arrogante o vanidoso del que se pueda presumir. Lo ejemplar se alcanza con el trabajo mismo. Foucault decía que *trabajar significa emprender el camino para pensar algo diferente de lo que hasta entonces se pensaba*.
 
 Existe una noble intención en desentrañar los buenos procesos de investigación porque posibilitan una lectura crítica y analítica del propio problema de investigación. Aproximan a las generaciones de investigadores a la reflexión y diálogo con su objeto pensado desde el otro-proceso. Hay un proceso de ida y vuelta de lo joven (incipiente) frente a lo maduro (ejemplar) provocado por el movimiento dinámico y progresivo del pensamiento.
 
-Lo ejemplar en la investigación. Parte de T. Khun para definir su postura. Me refiero, inicialmente, a la concreta solución de problemas que las y los investigadores encuentran desde el inicio de su educación científica, ya sea en laboratorios o exámenes, o en los finales de los capítulos en los textos de ciencia. A estos ejemplos compartidos se les debería añadir por lo menos algunas de las soluciones técnicas de problemas encontradas en la literatura periódica que los científicos encuentran durante su carrera de investigación pos-educativa y que además las muestren para ejemplificar cómo debe ser hecho el trabajo (Frost,; 1992: 4).
+Lo ejemplar en la investigación. Parte de T. Khun para definir su postura. Me refiero, inicialmente, a la concreta solución de problemas que las y los investigadores encuentran desde el inicio de su educación científica, ya sea en laboratorios o exámenes, o en los finales de los capítulos en los textos de ciencia. A estos ejemplos compartidos se les debería añadir por lo menos algunas de las soluciones técnicas de problemas encontradas en la literatura periódica que los científicos encuentran durante su carrera de investigación pos-educativa y que además las muestren para ejemplificar cómo debe ser hecho el trabajo [@Frost1992: 4].
 
-Frost (1992) afirma que para identificar qué hace ejemplar a una investigación hay revisar cuáles son los procesos que llevaron a los investigadores a un buen resultado, se trata de desentrañar investigaciones que sean modelos para ejemplo en la aplicación y diseño de técnicas, métodos y procesos tal cual lo hace un artesano que piensa al detalle en su propio proceso.
+@Frost1992 afirman que para identificar qué hace ejemplar a una investigación hay revisar cuáles son los procesos que llevaron a los investigadores a un buen resultado, se trata de desentrañar investigaciones que sean modelos para ejemplo en la aplicación y diseño de técnicas, métodos y procesos tal cual lo hace un artesano que piensa al detalle en su propio proceso.
 
 Así lo ejemplar es ya mismo un trabajo artesanal, que implica una mirada cuidadosa y el escrutinio de modelos capaces de ser leídos reflexivamente, lo ejemplar en la investigación es la singularidad, cuidado y aplicación del proceso de investigación mientras que lo imperfecto de ésta será la formulación de nuevas preguntas que conduzcan a futuras investigaciones ejemplares.
 
@@ -68,10 +92,12 @@ La lógica de estos argumentos nos lleva a concluir que el artesano investigador
 
 La investigación es un trabajo artesanal. Esto evoca el trabajo de un artista que cuidadosamente (con sus manos) crea una obra desde su propio saber y hacer. Pensar la investigación como un trabajo artesanal es elevarlo a la categoría de noble porque la herramienta del investigador es la singularidad de su propio pensamiento. En palabras de Mills.
 
-"El trabajo intelectual es la elección de un tipo de vida tanto como de una carrera; sépalo o no, el trabajador intelectual forma su propio yo a medida que trabaja por perfeccionarse en su oficio; para realizar sus propias potencialidades y aprovechar las oportunidades que se ofrezcan en su camino, forma un carácter que tiene como núcleo las cualidades del buen trabajador". (Mills; 1983: 206)
+"El trabajo intelectual es la elección de un tipo de vida tanto como de una carrera; sépalo o no, el trabajador intelectual forma su propio yo a medida que trabaja por perfeccionarse en su oficio; para realizar sus propias potencialidades y aprovechar las oportunidades que se ofrezcan en su camino, forma un carácter que tiene como núcleo las cualidades del buen trabajador" [@Mills1983: 206].
 
 La experiencia es vida invertida, gastada o consumida que sirve como insumo para el trabajo de investigación. La y el artesano intelectual se enfrenta a su mismidad desde se experiencia vivida, en donde la biografía del investigador se preña en todo momento del proceso. La experiencia que da el trabajo cotidiano forma parte de la adquisición de hábitos de estudio, problematización y escritura.
 
 Velásquez en las Meninas se pinta a sí mismo. Con ese acto se inaugura la proyección y el despliegue de la mismidad del que especta y crea, de quien investiga investigandose. Es un proceso de ida y vuelta. Se puede ser espectador y al mismo tiempo desplegar la mirada del autor al momento que re-interpreta la obra. Se puede ser autor y al mismo tiempo desplegar la mirada de espectador porque ha dejado en su obra las huellas materiales (palabras) e inmateriales (sentimientos) de su pensamiento. La investigación en tanto trabajo artesanal, es un proceso proyectado al infinito, donde quienes investigan no trabajan al margen de sí mismos, son ellos mismos él mismos proyectados.
 
 *Artesanas y artesanos intelectuales: aspiremos, pues, a imaginar y construir aquello que nos libera, defendamos con vehemencia la dignidad, la experiencia-madurez, la imaginación-libertad de nuestra mismidad y tesón investigativo. Seamos artesanas y artesanos ejemplares.*
+
+\printbibliography[heading=subbibliography, title={Referencias Bibliográficas}]

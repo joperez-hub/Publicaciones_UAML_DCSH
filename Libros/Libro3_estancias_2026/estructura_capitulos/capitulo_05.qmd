@@ -1,0 +1,35 @@
+---
+title: "Estrategias colectivas para la construcción de la habitabilidad en el territorio hidrosocial de Lerma"
+author:
+  - name: "Esmeralda Pliego"
+    affiliation: "Universidad Autónoma Metropolitana, unidad Lerma"
+    orcid: ""
+    email: "e_pliego@correo.ler.uam.mx"
+  - name: "Emilia Lara Walle"
+    affiliation: "Universidad Autónoma Metropolitana, unidad Lerma"
+    orcid: ""
+    email: "emilia.lara-walle@univ-tlse2.fr"
+chapter-number: 5
+page-range: ""
+doi: ""
+resumen: |
+  El territorio hidrosocial de la Cuenca Alta del río Lerma enfrenta un grave proceso de degradación medioambiental, impulsado por el desarrollo industrial y urbano de la región. Este artículo analiza las estrategias colectivas que la población ha implementado para abordar la problemática de degradación medioambiental y mejorar la habitabilidad del territorio. En particular, se destaca el municipio de Lerma, cuyo estudio permite comprender las transformaciones y consecuencias socioambientales derivadas de estas dinámicas. Del 2019 al 2024, se realizaron investigaciones paralelas que incluyeron revisión documental, observación directa, recorridos de campo y entrevistas semiestructuradas. Estas investigaciones revelan que, aunque el desarrollo industrial y urbano ha generado impactos negativos en el ambiente, las acciones colectivas de la población local, como la restauración de ecosistemas, la gestión del agua y la promoción de prácticas de recuperación han mostrado ser cruciales para mejorar la calidad de vida en el municipio y sus alrededores. Estas iniciativas contribuyen a la mejora de la habitabilidad del territorio, reflejando un esfuerzo colectivo para equilibrar el desarrollo con la sostenibilidad ambiental.
+keywords:
+  - "degradación medioambiental"
+  - "desarrollo industrial"
+  - "urbanización"
+type: chapter
+---
+
+\addtocontents{toc}{\protect\hspace{1.5em}Esmeralda Pliego e Emilia Lara Walle\par}
+\markboth{Estrategias colectivas para la construcción de la habitabilidad en el territorio hidrosocial de Lerma}{}
+
+\begin{flushright}
+\Large Esmeralda Pliego \footnote{ Contacto: \href{mailto:e_pliego@correo.ler.uam.mx}{e_pliego@correo.ler.uam.mx}} \\
+\Large Emilia Lara Walle \footnote{ Contacto: \href{mailto:emilia.lara-walle@univ-tlse2.fr}{emilia.lara-walle@univ-tlse2.fr}}
+\end{flushright}
+
+## Introducción {.unnumbered .unlisted}
+
+El cuerpo del texto...
+

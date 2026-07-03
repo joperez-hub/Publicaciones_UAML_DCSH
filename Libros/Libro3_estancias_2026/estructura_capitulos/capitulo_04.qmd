@@ -1,0 +1,36 @@
+---
+title: "Cómo influye la Interseccionalidad en Programas Públicos Municipales. Diseño y evaluación"
+author:
+  - name: "Guillermo Aldair V. Fuentes"
+    affiliation: "Universidad Autónoma Metropolitana, unidad Lerma"
+    orcid: ""
+    email: "guialdair@gmail.com"
+  - name: "Carlos Ricardo Aguilar Astorga"
+    affiliation: "Universidad Autónoma Metropolitana, unidad Lerma"
+    orcid: "0000-0003-3760-8338"
+    email: "aguilar@correo.ler.uam.mx"
+chapter-number: 4
+page-range: ""
+doi: ""
+resumen: |
+  El enfoque interseccional se ha convertido en una herramienta fundamental para comprender las complejas desigualdades que enfrentan las poblaciones marginadas. Este enfoque reconoce que las personas no son simplemente afectadas por una sola dimensión de identidad (como género, raza o clase), sino que experimentan múltiples formas de discriminación y opresión que se entrelazan. Este artículo propone explorar la importancia del enfoque interseccional en el diseño y evaluación de políticas públicas. Argumentaremos que este enfoque es esencial para abordar de manera efectiva las desigualdades complejas y para garantizar que las políticas públicas sean inclusivas y equitativas.
+keywords:
+  - "Evaluación"
+  - "Políticas Públicas"
+  - "Interseccionalidad"
+  - "Género"
+type: chapter
+---
+
+\addtocontents{toc}{\protect\hspace{1.5em}Guillermo Aldair V. Fuentes e Carlos Ricardo Aguilar Astorga\par}
+\markboth{Cómo influye la Interseccionalidad en Programas Públicos Municipales. Diseño y evaluación}{}
+
+\begin{flushright}
+\Large Guillermo Aldair V. Fuentes \footnote{Licenciado en Políticas Públicas por la UAM, Unidad Lerma y Maestro en Ciencias Administrativas en la línea de investigación de Gestión y Políticas Públicas en los diferentes ámbitos de gobierno por la UAM, Iztapalapa. Ex Miembro de la Red Mexicana de Investigadores en Estudios Organizacionales (REMINEO), de la Academia Nacional de Evaluadores de México (ACEVAL) y de la Red Académica de Gobierno Abierto (RAGA). Contacto: \href{mailto:guialdair@gmail.com}{guialdair@gmail.com}} \\
+\Large Carlos Ricardo Aguilar Astorga \footnote{Profesor Investigador de tiempo completo de la Universidad Autónoma Metropolitana (UAM) Unidad Lerma. Ha sido miembro académico del Comité de Seguimiento y Evaluación del Programa de Derechos Humanos de la Ciudad de México. Desde 2018, es también socio activo de la Academia Nacional de Evaluadores de México A.C. Contacto: \href{mailto:aguilar@correo.ler.uam.mx}{aguilar@correo.ler.uam.mx}}
+\end{flushright}
+
+## Introducción {.unnumbered .unlisted}
+
+El cuerpo del texto...
+

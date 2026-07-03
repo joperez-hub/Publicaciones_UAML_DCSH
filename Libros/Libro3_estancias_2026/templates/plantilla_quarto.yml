@@ -29,20 +29,13 @@ book:
     - index.qmd
     - part: CONTENIDO DEL LIBRO
       chapters:
-        - capitulo_00.qmd
-        - capitulo_01.qmd
-        - capitulo_02.qmd
-        #- capitulo_03.qmd
-        #- capitulo_04.qmd
-        #- capitulo_05.qmd
-        #- capitulo_06.qmd
-        #- capitulo_07.qmd
-    #- part: ENTREVISTA
-      #chapters:
-        #- entrevista.qmd
-    #- part: RESEÑA
-      #chapters:
-        #- reseña.qmd
+__LISTA_CAPITULOS_DINAMICA__
+    - part: ENTREVISTA
+      chapters:
+        - plantilla_entrevista.qmd
+    - part: RESEÑA
+      chapters:
+        - reseña.qmd
     - colofon.qmd
 
 #===============================================================================
@@ -58,7 +51,7 @@ format:
     fontsize: 11pt
     geometry: "left=3cm,right=3cm,top=3cm,bottom=4cm"
     cite-method: biblatex
-    bibliography: Libro.bib
+    bibliography: BibliografiaPrueba.bib
     biblatexoptions: 
       - refsection=chapter
       - style=apa

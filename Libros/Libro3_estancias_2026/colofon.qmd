@@ -6,7 +6,7 @@ unlisted: true
 \begin{center}
 \vspace*{6cm}
 
-\textit{Artesanías intelectuales // El oficio de abrir las ciencias sociales}
+\textit{Artesanías intelectuales \\ El oficio de abrir las ciencias sociales}
 
 \vspace{0.5cm}
 

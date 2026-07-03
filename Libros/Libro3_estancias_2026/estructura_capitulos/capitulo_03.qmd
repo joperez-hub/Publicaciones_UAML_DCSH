@@ -1,0 +1,31 @@
+---
+title: "En búsqueda de la transformación de las relaciones contemporáneas y la opción epistemológica de la antropología"
+author:
+  - name: "Edgar Flores Gómez"
+    affiliation: "Universidad Autónoma Metropolitana, unidad Lerma"
+    orcid: ""
+    email: "e.flores@correo.ler.uam.mx"
+chapter-number: 3
+page-range: ""
+doi: ""
+resumen: |
+  En el escenario global actual, han emergido nuevas problemáticas de distintas índoles que aquejan a la humanidad, por ejemplo, comprenden aspectos climáticos, sobrexplotación y destrucción de los ecosistemas, al atender a la excesiva demanda de los denominados recursos naturales. Por lo tanto, la importancia de poder transformar hacia bien las condiciones, se considera como una necesidad en común de los diferentes actores, dejando de lado sus subjetividades, respecto a una realidad compartida. Es así que, se identifica a la antropología como la alternativa epistemológica que posibilita aproximaciones complejas a los actores y los grupos humanos, centrando la atención en los aspectos culturales, con el objetivo de distinguir las nuevas formas de relaciones que se establecen entre las distintas partes. Se trata así, de reconocer la existencia de un sistema complejo compuesto por dos partes, la humanidad y la naturaleza (actores y actantes), el cual demanda la generación de un equilibrio.
+keywords:
+  - "transformación de las relaciones contemporáneas"
+  - "antropología"
+  - "actores"
+  - "actantes"
+type: chapter
+---
+
+\addtocontents{toc}{\protect\hspace{1.5em}Edgar Flores Gómez\par}
+\markboth{En búsqueda de la transformación de las relaciones contemporáneas y la opción epistemológica de la antropología}{}
+
+\begin{flushright}
+\Large Edgar Flores Gómez \footnote{ Contacto: \href{mailto:e.flores@correo.ler.uam.mx}{e.flores@correo.ler.uam.mx}}
+\end{flushright}
+
+## Introducción {.unnumbered .unlisted}
+
+El cuerpo del texto...
+

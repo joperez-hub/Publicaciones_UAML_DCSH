@@ -46,10 +46,10 @@ library(fs)
 
 # 1. CONFIGURACIÓN DE RUTAS
 ruta_base        <- "/Users/omarperezbanos/Publicaciones_UAML_DCSH/Libros"
-dir_origen       <- file.path(ruta_base, "Libro2_politicas_publicas_2026")
-ruta_pdf         <- file.path(dir_origen, "_book/Políticas-Públicas-y-Etnografía.pdf")
+dir_origen       <- file.path(ruta_base, "Libro3_estancias_2026")
+ruta_pdf         <- file.path(dir_origen, "_book/Título-de-la-obra.pdf")
 ruta_mapa        <- file.path(dir_origen, "mapa_maestro_citas_paginas.csv")
-ruta_bib         <- file.path(dir_origen, "1libro22026.bib")
+ruta_bib         <- file.path(dir_origen, "Libro.bib")
 
 if (!file_exists(ruta_pdf)) stop("❌ Error: No se encontró el archivo PDF.")
 if (!file_exists(ruta_mapa)) stop("❌ Error: No se encuentra el CSV de la Fase I.")

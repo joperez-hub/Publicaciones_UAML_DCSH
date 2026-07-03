@@ -27,6 +27,8 @@
 \addtokomafont{section}{\Large\raggedright}
 \addtokomafont{subsection}{\normalsize}
 
+\renewcommand{\maketitle}{}
+
 % --- 4. Encabezados y Pies de Página (Mantenido de tu estructura) ---
 \usepackage{scrlayer-scrpage}
 \automark{chapter}
@@ -41,3 +43,21 @@
     beforeskip=-0.0cm,
     afterskip=1.5cm
 ]{chapter}
+
+% ==============================================================================
+% CONFIGURACIÓN DE IDIOMA Y CONECTORES PARA BIBLATEX (ESTILO APA)
+% ==============================================================================
+
+% 1. Definir las cadenas de traducción oficiales al español
+\DefineBibliographyStrings{spanish}{%
+  and = {y},
+  andothers = {et~al.},
+  volume = {vol.},
+  volumes = {vols.},
+  pages = {pp.},
+  page = {p.}
+}
+
+% 2. Forzar al estilo APA a usar la "y" en lugar del ampersand (&) en los textos e índices
+\DeclareDelimFormat*{finalnamedelim}{\addspace\bibstring{and}\addspace}
+\DeclareDelimFormat*{finalnamedelim:apaenum}{\addspace\bibstring{and}\addspace}

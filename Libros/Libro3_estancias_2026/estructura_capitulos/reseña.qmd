@@ -1,0 +1,28 @@
+---
+title: "La sociedad del cuidado y políticas de la vida"
+author:
+  - name: "Blanca Estela Melgarito Rocha"
+    affiliation: "Universidad Autónoma Metropolitana, unidad Lerma"
+    orcid: ""
+    email: "b.melgarito@correo.ler.uam.mx"
+chapter-number: 8
+page-range: ""
+doi: ""
+resumen: |
+  
+keywords:
+  - ""
+type: chapter
+---
+
+\addtocontents{toc}{\protect\hspace{1.5em}Blanca Estela Melgarito Rocha\par}
+\markboth{La sociedad del cuidado y políticas de la vida}{}
+
+\begin{flushright}
+\Large Blanca Estela Melgarito Rocha \footnote{ Contacto: \href{mailto:b.melgarito@correo.ler.uam.mx}{b.melgarito@correo.ler.uam.mx}}
+\end{flushright}
+
+## Introducción {.unnumbered .unlisted}
+
+El cuerpo del texto...
+
