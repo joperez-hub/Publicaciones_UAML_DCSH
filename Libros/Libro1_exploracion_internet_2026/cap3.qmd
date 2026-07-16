@@ -1,7 +1,7 @@
 ---
 # Metadatos ESENCIALES del capítulo (no repetitivos)
 pdf-engine: xelatex
-title: "Nuevas perspectivas en la escritura y divulgación de las ciencias sociales"
+title: "Nuevas formas de narrar la realidad. El proceso de individuación y su impacto en la escritura académica"
 subtitle: ""
 
 author:
@@ -13,7 +13,7 @@ author:
 
 # Metadatos ESPECÍFICOS del capítulo (no centralizables)
 chapter-number: "3"
-page-range: ""  # Ajustar según paginación final
+page-range: "39--47"  # Ajustar según paginación final
 doi: ""  # DOI del capítulo (cuando se asigne)
 
 # Contenido del capítulo
@@ -31,15 +31,10 @@ type: chapter
 # Personalización específica (opcional, solo si varía por capítulo)
 footer-note: |
   \newcommand{\articuloTitulo}{[Título abreviado]}
-
-# Campos OPCIONALES (dejar en blanco o eliminar si no aplican)
-acknowledgments: ""  # Agradecimientos específicos del capítulo
-funding: ""  # Financiamiento específico
-notes: ""  # Notas del autor
 ---
 
 \addtocontents{toc}{\protect\hspace{1.5em}Paola Patricia Vázquez Almanza\par}
-\markboth{Nuevas perspectivas en la escritura y divulgación de las ciencias sociales}{}
+\markboth{Nuevas formas de narrar la realidad. El proceso de individuación y su impacto en la escritura académica}{}
 
 \begin{flushright}
 \Large Paola Patricia Vázquez Almanza\footnote{Facultad de Ciencias Políticas y Sociales, UNAM. Contacto: \href{paovaal@gmail.com}{paovaal@gmail.com}}
@@ -72,7 +67,7 @@ A la luz de los retos del presente, es imperativo que la academia no sólo actua
 
 ## La divulgación más allá de la forma {.unnumbered .unlisted}
 
-En las últimas décadas, las ciencias sociales se han acercado a otros campos de conocimiento como la música o la biología, ganando así en hibridez y obteniendo recursos para amplificar el entendimiento del mundo social. Los coqueteos que autores clásicos de las ciencias sociales como Durkheim, Weber o Marx tenían con la literatura o el arte, el día de hoy se consolidan en las "escrituras del yo" y la autoetnografía como en el caso de Didier Eribon, Alice Goffman Ivan Jablonka, Paulo Ravecca, Guy Bajoit o Lea Ypi. También se han dado debates relevantes en torno a la escritura académica y a otras maneras de narrar y comunicar los fenómenos sociales para un público general.
+En las últimas décadas, las ciencias sociales se han acercado a otros campos de conocimiento como la música o la biología, ganando así en hibridez y obteniendo recursos para amplificar el entendimiento del mundo social. Los coqueteos que autores clásicos de las ciencias sociales como Durkheim, Weber o Marx tenían con la literatura o el arte, el día de hoy se consolidan en las "escrituras del yo" y la autoetnografía como en el caso de Didier Eribon, Alice Goffman, Ivan Jablonka, Paulo Ravecca, Guy Bajoit o Lea Ypi. También se han dado debates relevantes en torno a la escritura académica y a otras maneras de narrar y comunicar los fenómenos sociales para un público general.
 
 Una de las mayores apuestas de estos años ha sido apoyar la divulgación de las ciencias sociales a través de medios no tradicionales para la academia como podcast, textos híbridos y breves, fanzines, campañas en redes sociales, bitácoras, videoblogs, *tik toks*, memes o infografías. Asimismo, se ha multiplicado notablemente la oferta de diplomados, talleres y cursos de *storytelling* dentro de las instituciones universitarias para que los cientistas sociales aprendan a hacer digerible y disfrutable el conocimiento que producen.
 
@@ -94,13 +89,11 @@ En *Para hablar de la sociedad la sociología no basta* (2019), el sociólogo Ho
 
 Sin embargo, dicha brecha entre la realidad y las explicaciones brindadas por las ciencias sociales no ha dejado de aumentar. Y por ello, cada vez más la literatura sirve como una extensión analítica de las ciencias sociales que ilumina aquello que desde la limitada mirada científica no se logra percibir o narrar. Algunos cientistas sociales se han percatado de la libertad narrativa que se puede obtener a través de la literatura y han incorporado la autoetnografía y otros métodos, más cercanos a la antropología que a la historia o a la sociología, para analizar y narrar hechos sociales. Pareciera que los cientistas huyen de sus disciplinas, de su rol de académicos, para escribir la realidad como escritores, perpetuando así la doble vida que oscila entre ser investigadores o divulgadores. Sólo los cientistas sociales más consolidados han podido incorporar estos ejercicios de apertura disciplinar a su carrera académica, como en el caso de Didier Eribon y su obra *Regreso a Reims* (2015) o Ivan Jablonka y su libro *La historia de los abuelos que no tuve* (2022).
 
-Un ejemplo reciente que ilustra la existencia del doble rol de académico/escritor es el caso de Lea Ypi y su novela *Libre* (2023). Lea Ypi, profesora de teoría política en la London School of Economics y especialista en marxismo, decidió escribir una novela desde la mirada personal para comprender el colapso del régimen comunista en Albania a principios de la década de los noventa. Esta novela de autoficción combina memorias, historia familiar, análisis político e histórico con la finalidad de comprender los mecanismos de control del régimen comunista y explicar el contexto en el que se dio la transición a la democracia. La obra de Lea Ypi es tanto un recuento íntimo del comunismo en Albania como una historia reciente del país balcánico.Pese a que la novela de Ypi ha sido celebrada internacionalmente por dar cuenta del régimen comunista albanés, su labor como cientista social y su trabajo como escritora siguen estando totalmente disociados, como si se tratase de dos formas completamente distintas de escribir, pensar e interpretar la realidad.
+Un ejemplo reciente que ilustra la existencia del doble rol de académico/escritor es el caso de Lea Ypi y su novela *Libre* (2023). Lea Ypi, profesora de teoría política en la London School of Economics y especialista en marxismo, decidió escribir una novela desde la mirada personal para comprender el colapso del régimen comunista en Albania a principios de la década de los noventa. Esta novela de autoficción combina memorias, historia familiar, análisis político e histórico con la finalidad de comprender los mecanismos de control del régimen comunista y explicar el contexto en el que se dio la transición a la democracia. La obra de Lea Ypi es tanto un recuento íntimo del comunismo en Albania como una historia reciente del país balcánico. Pese a que la novela de Ypi ha sido celebrada internacionalmente por dar cuenta del régimen comunista albanés, su labor como cientista social y su trabajo como escritora siguen estando totalmente disociados, como si se tratase de dos formas completamente distintas de escribir, pensar e interpretar la realidad.
 
 Dicha disociación se relaciona en cierta medida con los prejuicios que existen sobre el valor de la experiencia subjetiva del mundo y el género de la literatura del yo o la autoficción. Y es que como señala el escritor y politólogo César Tejeda en su libro *La compulsión autobiográfica* la escritura desde el yo se juzga como "el medio inapropiado para representar el mundo simbólicamente, como una moda, como un producto del individualismo exacerbado de nuestros tiempos \[...\], un acto de exhibicionismo" [@Tejeda2022: 17].
 
-No le falta razón a Tejeda, sobre todo si recordamos que Enzo Traverso publicó *Pasados singulares. El "yo" en la escritura de la historia* (2022) como reacción a este "exhibicionismo" académico. En este libro, Traverso plantea que si bien académicos como Richard Hoggart o Pierre Bourdieu publicaron sus autobiografías hace varias décadas, en los años recientes se ha multiplicado el número de trabajos autoetnográficos o autobiográficos dentro de las ciencias sociales. Este auge del yo le parece un reflejo de la democratización del ejercicio de la escritura [@Tejeda2022: 14] y de un repliegue neoliberal hacia la esfera individual (197).
-
-Muchas de las críticas que Traverso plantea a lo largo de su libro son acertadas y llaman a que los científicos sociales supervisen mejor sus trabajos para que no pierdan rigor al ganar en estilo o subjetividad. Sin embargo, me parece que Traverso no repara en la posibilidad de que este fenómeno refleje, además de una democratización de la escritura y de un individualismo neoliberal, un desplazamiento epistemológico. Es decir, quizás el vuelco hacia el yo es síntoma también de una nueva forma de comprender el mundo que nos obligaría a renovar las ciencias sociales, sus paradigmas, categorías y formas tradicionales de analizar la sociedad, que sin duda también podría llevar a una nueva manera de concebir la ecología de los saberes.
+Muchas de las críticas que Traverso plantea a lo largo de su libro son acertadas y llaman a que los científicos sociales supervisen mejor sus trabajos para que no pierdan rigor al ganar en estilo o subjetividad. Sin embargo, me parece que Traverso no repara en la posibilidad de que este fenómeno refleje, además de una democratización del ejercicio de la escritura y de un repliegue neoliberal [@Traverso2022] un desplazamiento epistemológico. Es decir, quizás el vuelco hacia el yo es síntoma también de una nueva forma de comprender el mundo que nos obligaría a renovar las ciencias sociales, sus paradigmas, categorías y formas tradicionales de analizar la sociedad, que sin duda también podría llevar a una nueva manera de concebir la ecología de los saberes.
 
 Danilo Martuccelli y José Santiago apuntan lo siguiente acerca de este fenómeno:
 
@@ -112,7 +105,7 @@ Si aceptamos el planteamiento de estos autores, podemos reconocer la necesidad d
 
 Desde los primeros debates sobre la Modernidad[^c3_2], el protagonismo del individuo dentro de la teoría social fue innegable y la condena del individualismo exacerbado se convirtió en algo común. Sin embargo, el centro de las explicaciones de la realidad social no fue necesariamente el individuo por mucho que se le pensara como una de las caras que componían la sociedad.
 
-[^c3_2]: La sociología al ser heredera de la Modernidad ha arrastrado muchos de sus sesgos analíticos y puntos ciegos que han terminado por imponer una manera única y legítima de comprender el mundo, dejando de lado y ocultando otras formas de construir saberes y vínculos con el mundo (Dubet, 2011). Es importante no dejar de señalar este sesgo heredado que sigue presente en las ciencias sociales.
+[^c3_2]: La sociología al ser heredera de la Modernidad ha arrastrado muchos de sus sesgos analíticos y puntos ciegos que han terminado por imponer una manera única y legítima de comprender el mundo, dejando de lado y ocultando otras formas de construir saberes y vínculos con el mundo [@Dubet2010]. Es importante no dejar de señalar este sesgo heredado que sigue presente en las ciencias sociales.
 
 Y actualmente, pese a lo mucho que se ha transformado la vida social, seguimos explicando o ajustando la realidad a antiguas categorías analíticas y a formas específicas de entender la sociedad que no engarzan con el presente. Las explicaciones que parten de las estructuras y los grandes procesos no necesariamente se corresponden con la experiencia subjetiva de esas mismas realidades. Y esto en gran medida se debe al proceso de individualización y al hecho de que las instituciones tradicionales de la sociedad ya no son los principales puntos de orientación.
 
@@ -126,7 +119,7 @@ El sociólogo Danilo Martuccelli continuó sus investigaciones sobre el nexo ind
 
 > A poco que prestemos atención al incremento espectacular de la literatura de autoayuda veremos hasta qué punto existe una fuerte demanda social que busca respuestas sobre la imbricación de las experiencias individuales con la vida social, que, sin embargo, no es atendida por la sociología. [@Martuccelli2017: 7].
 
-Frente al hecho de que los individuos no cesan de singularizarse y se rebelan contra los casilleros sociológicos, los autores proponen la construcción de una sociología que parta de las experiencias individuales y de cuenta de la sociedad a escala de los individuos (8-9). Esta propuesta busca criticar y complementar la idea de sociedad presentada por las teorías del conflicto, la integración, la funcionalista y la marxista. Y se acerca en muchos sentidos al planteamiento teórico que el sociólogo François Dubet hace en *Sociología de la experiencia* (2010). En este texto, Dubet se aleja de la sociología clásica y rechaza el planteamiento de que sistema y actor son caras (una objetiva y otra subjetiva) de un mismo conjunto (2010: 227) y propone en su lugar una "sociología de la experiencia".
+Frente al hecho de que los individuos no cesan de singularizarse y se rebelan contra los casilleros sociológicos, los autores proponen la construcción de una sociología que parta de las experiencias individuales y dé cuenta de la sociedad a escala de los individuos [@Martuccelli2017: 8-9]. Esta propuesta busca criticar y complementar la idea de sociedad presentada por las teorías del conflicto, la integración, la funcionalista y la marxista. Y se acerca en muchos sentidos al planteamiento teórico que el sociólogo François Dubet hace en *Sociología de la experiencia* (2010). En este texto, Dubet se aleja de la sociología clásica y rechaza el planteamiento de que sistema y actor son caras (una objetiva y otra subjetiva) de un mismo conjunto (2010: 227) y propone en su lugar una "sociología de la experiencia".
 
 Dicha sociología de la experiencia consiste en definir la experiencia individual como una combinación de las lógicas de acción que vinculan al actor a cada una de las dimensiones de un sistema. Y la dinámica producida por esta actividad es la que constituye la subjetividad del actor y su reflexividad [@Dubet2010: 96]. A partir de esta definición de la experiencia como objeto sociológico, Dubet ha estudiado, por ejemplo, los significados que tienen para los individuos las desigualdades, la discriminación, el resentimiento social y otros fenómenos sin dejar de lado cómo se entretejen dichas experiencias individuales con los procesos estructurales.
 
@@ -142,11 +135,11 @@ Es llamativo el hecho de que estos autores no sólo coincidan en la necesidad de
 
 ## Conclusiones {.unnumbered .unlisted}
 
-En este texto se ha analizado los efectos del proceso individuación en los presupuestos teóricos de las ciencias sociales y cómo, a partir de estos efectos, se puede repensar y actualizar la escritura académica y la divulgación científica. Estas reflexiones en torno a la individuación, la teoría social, la divulgación y la escritura académica pueden propiciar la creación de nuevas agendas de investigación que convivan con otras ya consolidadas con el objetivo de dar una mejor explicación e interpretación de los fenómenos sociales.
+En este texto se han analizado los efectos del proceso individuación en los presupuestos teóricos de las ciencias sociales y cómo, a partir de estos efectos, se puede repensar y actualizar la escritura académica y la divulgación científica. Estas reflexiones en torno a la individuación, la teoría social, la divulgación y la escritura académica pueden propiciar la creación de nuevas agendas de investigación que convivan con otras ya consolidadas con el objetivo de dar una mejor explicación e interpretación de los fenómenos sociales.
 
 Por lo tanto, debatir las formas de hacer y escribir las ciencias sociales aumenta las posibilidades de comunicar efectivamente los hallazgos a nuevas audiencias, fomentar un debate público informado y avanzar hacia una democratización del conocimiento científico. Dicha democratización podría ofrecer a la ciudadanía algunas herramientas indispensables para comprender mejor su entorno, decidir sobre sí y conocer su margen de acción frente a lo que le afecta personalmente. En este sentido, unas ciencias sociales situadas en el presente idealmente nos acercarían a una sociedad en la que los individuos entiendan las limitantes que ejercen las estructuras sociales sobre sus vidas, reconociendo el marco de acción y organización que pueden ampliar y modificar.
 
-No se trata únicamente de que los cientistas sociales sean capaces de escribir de manera más atractiva sus hallazgos, sino de que se abra la posibilidad de buscar nuevos puntos de partida epistemológicos, metodológicos, teóricos y escriturales para pensar, explicar y comunicar lo social. La propuesta teórico-práctica que planteo aquí tiene el propósito enfrentar el reto doble de renovar tanto las formas de comunicar las ciencias sociales como los puntos de partida teóricos a partida desde los que las ciencias sociales interpretan y explican la realidad. Sólo al reflexionar en torno a las dimensiones epistemológicas, metodológicas y teóricas del proceso de escritura dentro de las ciencias sociales, será posible disminuir la brecha que existe actualmente entre las explicaciones proporcionadas por estas disciplinas y la realidad social.
+No se trata únicamente de que los cientistas sociales sean capaces de escribir de manera más atractiva sus hallazgos, sino de que se abra la posibilidad de buscar nuevos puntos de partida epistemológicos, metodológicos, teóricos y escriturales para pensar, explicar y comunicar lo social. La propuesta teórico-práctica que planteo aquí tiene el propósito de enfrentar el reto doble de renovar tanto las formas de comunicar las ciencias sociales como los puntos de partida teóricos desde los que las ciencias sociales interpretan y explican la realidad. Sólo al reflexionar en torno a las dimensiones epistemológicas, metodológicas y teóricas del proceso de escritura dentro de las ciencias sociales, será posible disminuir la brecha que existe actualmente entre las explicaciones proporcionadas por estas disciplinas y la realidad social.
 
 \nocite{Castells1996, RealAcademiaEspanola2014, Bourdieu2009, Bourdieu2011, Becker2019b, Jablonka2022, Ypi2023, Dubet2023}
 \printbibliography[heading=subbibliography, title={Referencias Bibliográficas}]

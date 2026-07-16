@@ -11,7 +11,7 @@ author:
 
 # Metadatos ESPECÍFICOS
 chapter-number: "6"
-page-range: ""
+page-range: "77-98"
 doi: ""
 
 # Contenido del capítulo

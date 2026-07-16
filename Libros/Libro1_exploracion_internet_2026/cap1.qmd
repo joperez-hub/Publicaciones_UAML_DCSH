@@ -6,7 +6,7 @@ title: "Capitalismo cognitivo, gubernamentalidad algorítmica y abordajes de la 
 subtitle: ""
 
 author:
-  - name: "Miguel Mata Salazar"
+  - name: "Miguel Àngel Mata Salazar"
     affiliation: "Facultad de Estudios Superiores Aragón, UNAM"
     orcid: ""
     email: "anomjo@yahoo.com.mx" 
@@ -15,7 +15,7 @@ author:
 
 # Metadatos ESPECÍFICOS del capítulo (no centralizables)
 chapter-number: "1"
-page-range: ""  # Ajustar según paginación final
+page-range: "5--24"  # Ajustar según paginación final
 doi: ""  # DOI del capítulo (cuando se asigne)
 
 # Contenido del capítulo
@@ -37,11 +37,11 @@ footer-note: |
   \newcommand{\articuloTitulo}{[Capitalismo Cognitivo}
 ---
 
-\addtocontents{toc}{\protect\hspace{1.5em}Miguel Mata Salazar\par}
+\addtocontents{toc}{\protect\hspace{1.5em}Miguel Àngel Mata Salazar\par}
 \markboth{Capitalismo Cognitivo}{}
 
 \begin{flushright}
-\Large Miguel Mata Salazar \footnote{Facultad de Estudios Superiores Aragón, UNAM. Contacto: \href{anomjo@yaho.com.mx}{anomjo@yaho.com.mx}}
+\Large Miguel Àngel Mata Salazar \footnote{Facultad de Estudios Superiores Aragón, UNAM. Contacto: \href{anomjo@yaho.com.mx}{anomjo@yaho.com.mx}}
 \end{flushright}
 
 ## Introducción. Fases Históricas del capitalismo {.unnumbered .unlisted}
@@ -104,7 +104,7 @@ El primer trabajo en torno al trabajo inmaterial fue titulado "Trabajo inmateria
 
 Afirmaron que partir de que las facultades lingüísticas, comunicacionales y cognitivas se tornaron en el principal recurso productivo se generaron transformaciones dentro de la organización laboral con las que el obrero empezó a gestionar información y realizar actividades de corte abstracto con la intervención de su subjetividad[^c1_1], así el trabajo se transformó "integralmente en trabajo inmaterial y la fuerza de trabajo en 'intelectualidad de masa' (los dos aspectos que Marx llama General Intellect)... que... \[pueden\]... transformarse en un sujeto social políticamente hegemónico " [@Negri2001: 12].
 
-[^c1_1]: En el presente trabajo se entiende por subjetividad "la manera en que el sujeto hace la experiencia de sí mismo en un juego de verdad... \[en tanto el\]... proceso por el que el sujeto se constituye es la subjetivación" [@Foucault1999: 16).
+[^c1_1]: En el presente trabajo se entiende por subjetividad "la manera en que el sujeto hace la experiencia de sí mismo en un juego de verdad... \[en tanto el\]... proceso por el que el sujeto se constituye es la subjetivación" [@Foucault1999: 16].
 
 El principal referente de la teoría del capitalismo cognitivo es la noción del 'General Intellect', tomada del "Fragmento sobre las máquinas" de los Elementos fundamentales para la crítica de la economía política (Grundisse) 1857-1858, donde Marx se refirió al impacto de la ciencia y la tecnología en la productividad del trabajo al presentarse como elementos constitutivos del capital fijo:
 
@@ -240,7 +240,7 @@ Esta multidimensionalidad de la comunicación marca una ruptura con la visión t
 
 > El concepto de 'comunicación' se presenta como una solución fácil a los problemas humanos inmanejables: el lenguaje, la finitud, la pluralidad. La razón de que otros no usen las palabras como yo, no sientan ni vean el mundo como yo lo hago es un problema no sólo de ajuste en la transmisión y recepción de mensajes, sino también en la orquestación del ser colectivo, en dar un espacio en el mundo para el otro... El concepto de comunicación merece ser liberado de su formalidad y espiritualismo, su exigencia de precisión y acuerdo [@DurhamPeters2014: 52-53].
 
-Los conceptos de comunicación han dejado de atender meras estructuras formales para abordar su papel en la construcción de lo social. Así, el vínculo entre comunicación y acción social ha otorgado a la comunicación un carácter ontológico, como lo plantea Niklas Luhmann "\[l\]a comunicación es el sistema que engloba todas las comprensiones" [@Luhmann1998: 59], un proceso sistémico triple de informaciones, expresiones y comprensiones.
+Los conceptos de comunicación han dejado de atender meras estructuras formales para abordar su papel en la construcción de lo social. Así, el vínculo entre comunicación y acción social ha otorgado a la comunicación un carácter ontológico, como lo plantea Niklas Luhmann "la comunicación es el sistema que engloba todas las comprensiones" [@Luhmann1998: 59], un proceso sistémico triple de informaciones, expresiones y comprensiones.
 
 En otras acepciones, el énfasis en la significación como dimensión indisociable de la comunicación, implica considerar el tejido sígnico como una unidad de significación en el discurso: "un sistema sígnico complejo que solo se comprende si se asume la comunicación como entidad productora y reproductora de significado, que involucra sujetos capaces de participar de los procesos intersubjetivos y creativos de la sociedad" [@Pardo2012: 19] tesitura en la que comunicación es: "una compleja red de estructuras sígnicas, que dotan de sentido la experiencia humana y que permiten incorporar sistemas conceptuales articulados a las ideologías" [@Pardo2012: 22].
 
@@ -252,7 +252,7 @@ Así la expansión global de las redes de estructuras sígnicas en la que se enc
 
 En este sentido, la sociedad contemporánea se aleja de la idea de una totalidad cerrada y se entiende como una configuración fluida de ensamblajes de relaciones. De manera que la sociedad no se compone de elementos preexistentes, sino que se construye a partir de procesos relacionales abiertos, un relacionalismo semiótico-material que integra flujos de significado, tecnología y subjetividad [@GarciaSelgas2015: 69]. Los hechos, agentes e instituciones se fundamentan mediante una articulación semiótico-material abierta, contingente y una disputa "de relaciones que son parte y efecto de procesos constantes de (des)estabilización" [@GarciaSelgas2015: 76].
 
-La racionalidad del poder de la gubernamentalidad algorítmica configura y distribuye comunicación en la red de internet propiciando el despliegue de subjetividades y resistencias al poder, atendiendo a la racionalidad de una trama geoespacial anclada en la expansión financiera de la infraestructura tecnológica para la información y la comunicación. Así una multiplicidad de racionalidades se entrecruzan y transforman, de tal suerte que diversas fracturas, conflictos y confrontaciones generan rupturas y continuidades espacio-temporales en todos los planos de la vida al cortar transversalmente lo global y lo local, donde la relación entre el poder y la resistencia es recursiva, mostrando el carácter autoregulativo del poder, en una dinámica de relaciones de fuerza en un orden contingente, En este contexto, bien vale cerrar este escrito citando a John Durham Peters quien afirma:
+La racionalidad del poder de la gubernamentalidad algorítmica configura y distribuye comunicación en la red de internet propiciando el despliegue de subjetividades y resistencias al poder, atendiendo a la racionalidad de una trama geoespacial anclada en la expansión financiera de la infraestructura tecnológica para la información y la comunicación. Así una multiplicidad de racionalidades se entrecruzan y transforman, de tal suerte que diversas fracturas, conflictos y confrontaciones generan rupturas y continuidades espacio-temporales en todos los planos de la vida al cortar transversalmente lo global y lo local, donde la relación entre el poder y la resistencia es recursiva, mostrando el carácter autoregulativo del poder, en una dinámica de relaciones de fuerza en un orden contingente. En este contexto, bien vale cerrar este escrito citando a John Durham Peters quien afirma:
 
 El término 'comunicación' es un rico entramado de hebras intelectuales y culturales que codifica las confrontaciones de nuestra época consigo misma. Entender la comunicación es entender mucho más. Como una respuesta evidente a las divisiones dolorosas entre el yo y el otro, lo privado y lo público, el pensamiento interior y la palabra externa, la noción ilustra nuestras extrañas vidas en este momento de la historia. Es un remolino en el que parece verterse la mayor parte de nuestras esperanzas y temores [@DurhamPeters2014: 18-19].
 
