@@ -32,7 +32,7 @@ Quizá merece la pena hacer un impasse para preguntarnos cómo superar o enfrent
 
 De la misma manera, Wright @Mills1983 diría que trabajo y vida son las dos caras de lo mismo, ambas están en todo lo que hacemos, en nuestras actividades profesionales, los estudios que ponemos en marcha o los estudios que tenemos en proyecto. Quien investiga ejerce un trabajo intelectual, en él se ensayan sus ideas, se aceptan los riesgos intelectuales, desarrolla un pensamiento personal al generar nuevas ideas de cara a volverse aportes singulares. Estos aspectos que suelen ser menospreciados o que permanecen ocultos tras los resultados de la investigación y los libros publicados son la esencia de la práctica de un oficio: el del trabajo intelectual.
 
-## i) El trabajo intelectual como artesanía
+## El trabajo intelectual como artesanía  {.unnumbered .unlisted}
 
 La palabra artesano o artesana no se entiende aquí en el sentido común, no se trata de definir a una persona que tiene un oficio manual, sino hacer una mimesis de esta forma de trabajo por el modo y maestría de hacer las cosas y hacerlas con el riguroso desarrollo de su habilidad, como el cuidado en la aplicación de esas habilidades, con la pasión de quien ama el detalle.
 
@@ -40,7 +40,7 @@ Hanna @Arent2009, Wright @Mills1983 o Richard @Sennett2009 asumen que trabajar e
 
 El trabajo intelectual es la elección de una carrera o del trabajo de investigación y considerar esto como artesanía se devela por el modo en que este trabajador ejecuta y pone en marcha todas sus habilidades para ejercerlo, como la talla preciosa de una exquisita madera y es que el preciosismo con el que se ejecuten o desarrollen tales o cuales habilidades es el verdadero trabajo: mano, objeto, tacto, talla, vista, caricia, instrumento, escultura, síntesis, pensamiento, idea, esencia, sentimiento, forja, voz, escucha, satisfacción, frustración, cansancio, sensatez, conocimiento. Ninguna palabra sería suficiente para terminar de definir todo cuanto se pone en marcha en este trabajo artesanal. Con sus habilidades los artesanos forman su propio yo en la medida que perfeccionan, realizan, potencian y saben aprovechar todo cuanto se aparece en su camino para aprender a usar la experiencia de su vida en su trabajo intelectual, abriendo horizontes, expandiendo su mundo, examinándose y comprendiéndose. En este sentido la artesanía es su propio centro y está personalmente implicado en todo producto intelectual.
 
-## ii) Los artesanos cuidan de sí
+## Los artesanos cuidan de sí  {.unnumbered .unlisted}
 
 Hanna @Arent2009 apunta en su bello texto ***La condición humana*** que hay que poner especial interés en cómo hacemos o producimos las cosas, pues cuando no comprendemos lo que hacemos y producir de filo sin reparar en nuestra propia práctica nos condenarnos a la autodestrucción o autolesionarnos.
 
@@ -52,7 +52,7 @@ Esta ocupación y cuidado de sí es aquello que evitaría que el trabajo investi
 
 Este artesano intelectual ha de renovarse siempre así mismo mediante la perpetua reflexión de sí mismo, ha de cultivarse así mismo deshaciéndose para rehacerse constantemente. Ha de ser alguien que se irrumpa así mismo porque sólo desde ahí puede superarse, autoformarse o re-constituirse SER. Pero tiene también una función de lucha. Se dice esto porque finalmente el artesanado intelectual crea, la investigación ejemplar es su obra.
 
-## iii) Ser creándose-investigando siendo
+## Ser creándose-investigando siendo  {.unnumbered .unlisted}
 
 Los y las investigadores-artesanos son Dédalos o Leonardos, ingenian conceptos, construyen soluciones, diseñan conocimientos, crean artefactos sensibles y conceptuales, son capaces de transitar por diversos campos de conocimientos, herramientas, ideas, realidades, materiales. Perfil sensible y científico que dispone de un saber y de un saber-hacer extraordinarios y tiene además el tipo de inteligencia, de creatividad que se requiere para llevar a cabo una investigación ejemplar.
 
@@ -74,7 +74,7 @@ Para estimular la imaginación en la investigación, podríamos empezar haciénd
 
 4.  Desmontar la experiencia: investigar es abrirnos a nuevos horizontes, nos abrimos paso al mundo y ello requiere que tal apertura, un desmonte nuestra experiencia, de algún modo e invocado a Derrida, pues deconstruir nuestra experiencia no es destruir, sino cuestionarnos, descifrar los argumentos uno a uno y paso a paso. Tal desmontaje refuerza la idea de subvertir nuestros propios prejuicios o vicios. Este ejercicio subversivo apunta a un desmontaje de los prejuicios, preconcepciones y preconceptos que no son ganados desde la intuición y requieren ser suspendidos y revisados para no entronarnos en nuestros actos corruptos. Recordemos a Arent, para no autolesionarnos.
 
-## iv) El artesanado ejemplar
+## El artesanado ejemplar {.unnumbered .unlisted}
 
 Estas ideas no intentan ser un corolario ideológico o una palabrería que se tire por la borda, tampoco intentan trazar un deber ser, la intención es dirigir el trabajo del artesanado a crear investigaciones ejemplares. El ejemplar no es perfecto, único, acabado o cerrado. La ejemplaridad de una investigación no es un término arrogante o vanidoso del que se pueda presumir. Lo ejemplar se alcanza con el trabajo mismo. Foucault decía que *trabajar significa emprender el camino para pensar algo diferente de lo que hasta entonces se pensaba*.
 
@@ -100,4 +100,4 @@ Velásquez en las Meninas se pinta a sí mismo. Con ese acto se inaugura la proy
 
 *Artesanas y artesanos intelectuales: aspiremos, pues, a imaginar y construir aquello que nos libera, defendamos con vehemencia la dignidad, la experiencia-madurez, la imaginación-libertad de nuestra mismidad y tesón investigativo. Seamos artesanas y artesanos ejemplares.*
 
-\printbibliography[heading=subbibliography, title={Referencias Bibliográficas}]
+\printbibliography[heading=subbibliography, title={Trabajos Citados}]

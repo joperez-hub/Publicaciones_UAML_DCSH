@@ -1,0 +1,452 @@
+---
+title: "La importancia de la incorporación de la Perspectiva de género en el diseño de las políticas públicas para la búsqueda de mujeres desaparecidas no localizadas y ausentes en Toluca Estado de México"
+author:
+  - name: "Dora Luz Morales Roman"
+    affiliation: "Universidad Autónoma Metropolitana, unidad Lerma"
+    orcid: ""
+    email: "dmorales@cua.uam.mx"
+chapter-number: 7
+page-range: ""
+doi: ""
+resumen: |
+  Es fundamental plantear que México, es de los países que ha recibido el mayor número de recomendaciones por parte de la Corte Interamericana de Derechos Humanos, por la violación sistemática a los derechos de las víctimas directas e indirectas de este delito; aún con este precedente fue hasta el periodo del 2001 al 2006 que se empezó a utilizar la perspectiva de género en el plan nacional de desarrollo (PND, 2001), y con ello llego su incorporación al momento de legislar, y también en el diseño de las políticas públicas, además de que poner en marcha el programa Nacional para la Igualdad de Oportunidades y No Discriminación contra las Mujeres (PROIGUALDAD). Conocer el tema de la desaparición de mujeres en México es relevante debido al crecimiento de las cifras del número de casos de víctimas de este delito que se han reportado los últimos años en todo el país, aun que anteriormente se pensaba que eran casos aislados o que era una problemática de Estados del norte del país, por el impacto que causo la desaparición de mujeres en Ciudad Juárez, Chihuahua es una realidad a la que se enfrenta el país (Ferrer, 2011).
+keywords:
+  - "Persona Desaparecida"
+  - "Derechos Humanos"
+  - "Perspectiva de Género"
+  - "Políticas Públicas"
+type: chapter
+---
+
+\addtocontents{toc}{\protect\hspace{1.5em}Dora Luz Morales Roman\par}
+\markboth{Perspectiva de género y políticas públicas para la búsqueda de mujeres desaparecidas no localizadas y ausentes}{}
+
+\begin{flushright}
+\Large Dora Luz Morales Roman \footnote{ Contacto: \href{mailto:dmorales@cua.uam.mx}{dmorales@cua.uam.mx}}
+\end{flushright}
+
+## Introducción {.unnumbered .unlisted}
+
+El Estado de México es la identidad más poblada del país, cuenta con una población de 16,992,413 millones de habitantes con base en los datos obtenidos por el INEGI para el 2020. De los cuales corresponden a Toluca 819 mil 561 habitantes, la población está distribuida de la siguiente forma; 94% en la zona urbana y el 6% en la zona rural, el grado de escolaridad es de 10.26, 9.10 dentro del promedio estatal el 51.2% de la población está integrado por mujeres y un 48.8% son hombres, la densidad poblacional del municipio es de; 1,796.61 habitantes por kilómetro cuadrado  [@INEGI2020b] (INEGI, 2020).
+
+El tema central de este articulo radica en exponer las cifras desde el periodo del 2014 al 2020 a nivel nacional (por Estado) del número de personas desaparecidas que presentan las fuentes oficiales con el Registro Nacional de Desaparecidas y no localizadas (RNPED), para analizar los resultados de las políticas públicas con perspectiva de género que se han implementado para atender el problema social que representan las mujeres desaparecidas en el Estado de México, tomando cómo delimitación territorial el municipio de Toluca.
+
+En México, el concepto de perspectiva de género comenzó a tomar relevancia en los años 1980 y 1990, cuando se fue consolidando el movimiento feminista de una forma más organizada, teniendo como objetivo principal de la lucha el reconocimiento de los derechos de las mujeres. Durante este tiempo, la perspectiva de género se empezó a integrar en los discursos académicos, políticos y sociales, centrándose en las estructuras de poder y las normas sociales demostrando que afectan de manera diferente a los hombres y las mujeres.
+
+Uno de los momentos decisivos en esta evolución fue la denominada por las Naciones Unidas como la década de la Mujer que abarco el periodo de tiempo de 1976-1985, cuya finalidad fue el visibilizar las desigualdades entre los géneros en todo el mundo. Por parte del Estado mexicano tuvo una participación activa en este proceso y, a partir de entonces, comenzó a incorporar el análisis de género en diversas políticas públicas.
+
+A finales de los años 90, México se adhiere a de diversos tratados internacionales, por ejemplo, la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW) y también al Pacto Internacional de Derechos Civiles y Políticos, la perspectiva de género comenzó a cobrar relevancia formalmente en la legislación mexicana.
+
+La consolidación en el ámbito legislativo se consolidó en los inicios del siglo XXI, con las reformas realizadas a las leyes y las políticas que tienen como objetivo garantizar la igualdad de género. Un acontecimiento importante fue la Reforma realizada a la Constitución del año 2001, donde se establece la igualdad de derechos entre hombres y mujeres consagrado dentro de la Constitución mexicana.
+
+De esta forma, la perspectiva de género pasó de ser un tema exclusivo de activistas a un tema fundamental en el diseño de las políticas públicas en México. Al día de hoy, es uno de los ejes rectores para analizar, gestionar y abordar las desigualdades sistémicas entre los géneros dentro del país.
+
+La perspectiva de género busca entender y analizar las diferencias y desigualdades sociales, culturales, económicas y políticas que existen entre los géneros (generalmente entre hombres y mujeres). Este enfoque reconoce que las relaciones de poder entre los géneros están profundamente influenciadas por factores históricos, sociales y culturales, y que estas desigualdades afectan las oportunidades, derechos y roles de las personas en la sociedad.
+
+La introducción del término Perspectiva de género se toma en los años setentas después de las luchas y movimientos feministas de la época, uno de los resultados que se obtuvieron fue el comenzar a utilizar términos como perspectiva de género, lo cual no solo se tradujo como un concepto, si no como una visión diferente de abordar diferentes situaciones en el ámbito público y privado entre hombres y mujeres, el hablar de esta perspectiva es tomar en cuenta diferentes características, condiciones y contextos a la hora de evaluar conflictos en los que se involucran entre ambos géneros, donde se toman en cuenta diferentes características que no solo son físicas o las asignadas por roles de género.
+
+## Antecedentes {.unlisted .unnumbered}
+
+En materia de desaparición de personas, las instituciones gubernamentales, son las encargadas de realizar la búsqueda de personas desparecidas, con la finalidad de poder garantizar el Estado de Derecho de los ciudadanos; además haciendo alusión a los Derechos humanos que se tienen por el siempre hecho de ser personas, quien jurídicamente obtiene el reconocimiento de un sujeto de derechos y obligaciones, lo que significa que es capaz de tener derechos, pero también obligaciones, y está fundamentado en el Código Civil mexicano.
+
+
+En el caso del Estado mexicano, los derechos de las personas a su búsqueda y localización se encuentran contemplados en instrumentos como la Convención Internacional para la Protección de Todas las Personas contra las Desapariciones Forzadas, publicada en 2006; en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, publicada en 2017; y en su artículo 137, que reconoce que las víctimas directas de estos delitos tendrán derecho a la verdad, acceso a la justicia, a la reparación del daño, a las garantías de no repetición y a aquellos derechos contenidos en otros ordenamientos legales.
+
+Sin embargo, para las autoridades estatales y municipales es en quienes recae la responsabilidad tanto de evitar las desapariciones, cómo de buscar a las personas, si estas son víctimas de desaparición, pero se han encontrado diversos elementos que han obstaculizado la búsqueda de personas desaparecidas y son la falta de investigaciones homologadas, por parte de los ministerios públicos, la falta de los lineamientos específicos que marquen las directrices del protocolo de búsqueda, y la falta de profesionalización de las fiscalías o departamentos especializados de búsqueda  (@CNDH, 2017).
+
+## Justificación {.unlisted .unnumbered}
+
+En México el tema sobre la desaparición de personas dentro del territorio nacional, durante muchos años no tuvo mayor relevancia; sin embargo, en los últimos años se ha convertido en un problema público, el cual el gobierno no puede seguir siendo omiso hacia las demandas de los familiares de las personas víctimas de desaparición, que son quienes se han encargado de hacer visible y pública esta problemática.
+
+En el año 2014 México contaba con una población de 120 millones habitantes, de acuerdo con las estadísticas presentadas por Consejo Nacional de Población (CONAPO), el Estado de México, es quien concentra el mayor número de población dentro del territorio nacional.
+
+En ese mismo año el Sistema Nacional de Seguridad Pública presentó las cifras de personas desaparecidas, arrojando un resultado de 1,360 personas desaparecidas en el primer cuatrimestre del año, teniendo un promedio aproximado de once personas desaparecidas al día.
+
+El estado de Tamaulipas fue quien presentó el mayor índice de personas desaparecidas, no localizadas o ausentes con un total de cerca de cinco mil personas; El segundo lugar, lo tiene el Estado de México, quien además de presentar de los más altos índices de personas desaparecidas, el común denominador de estos casos trasciende porque son en su mayoría jóvenes y adolescentes con una edad promedio de entre 15 y 29 años, lo cual muestra una tendencia en el grupo al que se violenta de esta manera. Es importante resaltar que este fenómeno lejos de disminuir ha incrementado, pero además también se ha acrecentado el nivel de violencia con el que es cometido este delito, y el rango de edad disminuye.
+
+Es importante destacar que, antes del año 2007 no existen estadísticas o algún registro del número de personas que estaban desaparecidas en ese momento. Aunque el Estado Mexicano reconoce cómo Derecho Humano, a ser buscado, no cuenta con mecanismos claros para llevar a cabo las acciones de búsqueda de las personas, y por lo tanto los protocolos y legislaciones vigentes para la localización de las personas no resultan eficientes.
+
+La relación entre los Derechos Humanos y las obligaciones del Estado son estrechas e inseparables, porque se reconoce el derecho a ser buscado y el deber que tiene el estado con sus gobernados a buscarlos; incluso el no buscar o localizar a una persona, se puede convertir en una violación sistemática de los Derechos Humanos. El gobierno de México al formar parte de la Convención Americana de Derechos Humanos está obligado a garantizar el derecho a la vida, a la libertad, a salvaguardar la integridad física, además de no ser sometidos a torturas entre otros. Aunque existen mecanismos de carácter institucional y judicializados para la localización de las personas desaparecidas, también se han incrementado los llamados extrainstitucionales, que son conformados por colectivos de búsqueda que los integran mayormente familiares de víctimas de desaparición, esto por la falta de respuesta de las autoridades ante sus demandas.
+
+En 2015 el Comité Internacional de la Cruz Roja dio a conocer que en México se cuenta con diversos mecanismos de búsqueda de personas a nivel federal, y 53 a nivel local, sin embargo, determinó que no existe relación alguna entre unos y otros, lo cual dificulta una conexión para que puedan ejecutarse de manera simultánea y optimizar los resultados de la búsqueda, aprovechando estos mecanismos de búsqueda con los que se cuenta. Los tres órdenes de gobierno no están coordinados para la búsqueda de personas, haciendo evidente la falta de comunicación y coordinación entre las distintas autoridades para la localización de personas con reporte de desaparición  (CICR 2015).
+
+Al no tener un protocolo homologado para la búsqueda de personas, cada entidad federativa o municipio del país, desarrolla sus propios mecanismos de búsqueda, aunque en las legislaciones y políticas públicas establecidas para la búsqueda de personas son puntuales en el señalamiento de las acciones que el Estado (gobierno) deberán desarrollar para la localización de personas, cada entidad estatal o municipal las desarrolla según su propia interpretación; lo cual ha llevado a una crisis de seguridad para cada una de las personas que habita dentro de la República Mexicana.
+
+Al realizar un análisis de las políticas públicas establecidas para la búsqueda de mujeres desaparecidas, no localizadas o ausentes en Toluca Estado de México, puede ayudar a contribuir a la implementación de estas políticas de manera homologada, dependiendo del fracaso o el éxito que tengan al presentar los resultados de la implementación de estas políticas. Además de identificar los alcances que se han obtenido desde su implementación.
+
+En el caso de la desaparición de mujeres, es punto de referencia el caso de las mujeres desaparecidas de Ciudad Juárez, el caso González y Otras Vs el Gobierno Mexicano, mejor conocido como el campo algodonero (haciendo referencia al asesinato y desaparición de 8 mujeres), debido a que las víctimas fueron encontradas en un campo que anteriormente era utilizado para el cultivo de algodón [@MacGregorFerrer2011] (Ferrer, 2011)
+
+Con la llegada del trato de Libre comercio en el año 1992 (DOF), durante el gobierno de Carlos Salinas de Gortari, se abrieron las fronteras al comercio, y fue el crecimiento de las maquiladoras en la frontera norte de México con los Estados Unidos, lo cual resulto atractivo para la migración de personas originarias de estados principalmente del sureste cómo son; Veracruz, Oaxaca, Chiapas, incluso de Estados cómo Guerrero y Michoacán, en busca de mejores condiciones de vida, para ellos y sus familia (Rodríguez, 1996).
+
+Eventualmente con la apertura de la frontera, incrementó el tránsito de personas que venían de distintos Estados de la República, y también se convirtió en el cruce principal de los inmigrantes de otros países, porque las condiciones fronterizas les permitían estar ahí hasta que lograban cruzar. Pero no se puede dejar de lado que esto trajo también condiciones adversas para los habitantes de Ciudad Juárez, sino también para las personas que no buscaban quedarse a radicar ahí, si no cruzar el lado fronterizo con los Estados Unidos (Rodríguez, 1996).
+
+Así mismo se convirtió en un destino muy rentable para organizaciones del crimen organizado, quien encontró nuevas formas de generar ingresos, debido a que las personas que buscaba cruzar la frontera o los recién llegados se convirtieron en el principal objetivo de estas células del crimen, quienes comenzaron a comercializar ya no solo con armas y drogas, sino también con personas [@FernandezMarcos2006] (Fernández -- Rampal, 1998).
+
+Con la sentencia emitida de la Corte Interamericana de los Derechos Humanos, dejó en evidencia, la falta de compromiso por parte de las autoridades mexicanas para atender el problema de la desaparición de personas, el fallo fue emitido el 16 de Noviembre de 2009, otros de los elementos que le dan mayor relevancia, es el precedente que dejo marcado en el Derecho Internacional encaminado en alcanzar la igualdad ante la ley entre hombres y mujeres, fue el primer caso en haber sido juzgado con perspectiva de género, lo cual representa un gran avance en la impartición de justicia para las mujeres [@MacGregorFerrer2011] (Ferrer , 2011).
+
+### **Políticas Públicas en materia de Personas Desaparecidas, no localizadas o ausentes.** {.unlisted .unnumbered}
+
+La ONU en colaboración directa con la CNDH, mediante la aprobación del comité en el dieciseisavo periodo de sesiones que se llevó a cabo el 8 de abril de 2019. Se estableció que a búsqueda de personas desaparecidas debe regirse bajo políticas públicas. Se estableció que se llevaran acabo de la siguiente forma:
+
+1.- La búsqueda debe ser parte de una política pública integral en materia de desapariciones, en particular, en contextos en que la desaparición sea frecuente o masiva. Los objetivos de esa política integral, además de la búsqueda, deben ser la prevención de desapariciones forzadas, el esclarecimiento de las ya ocurridas, el justo castigo de los perpetradores y la adopción de medidas de protección de las víctimas, entre otras medidas que garanticen que no se vuelvan a cometer desapariciones forzadas.
+
+2.- La política pública en materia de desapariciones forzadas debe tener un enfoque diferencial, tal cómo se menciona en el principio 4, en todos sus programas y proyectos operativos y no solo en atención a su situación de vulnerabilidad o de víctimas.
+
+3.- La política pública específica sobre la búsqueda debe construirse con base en las obligaciones de los Estados de buscar, localizar, liberar, identificar y restituir los restos, según corresponda, de todas las personas sometidas a desaparición. Debe tomar en cuenta el análisis de las diversas modalidades y patrones criminales que generan desapariciones en el país.
+
+4.- La política pública sobre búsqueda debe ser integral, clara, transparente, visible y coherente. Debe promover la cooperación y colaboración de todas las instancias del Estado y también con otros Estados y organismos internacionales. Debe materializarse en medidas legislativas, administrativas y presupuestales adecuadas, así como en políticas educativas y otras políticas sectoriales relevantes.
+
+5.- La política pública sobre búsqueda debe construirse e implementarse, en todas sus etapas y todos sus alcances, con la participación de las víctimas y de todas las personas y organizaciones de la sociedad civil con experiencia y voluntad de cooperar con la construcción y/o implementación de esa política.
+
+6.- Un objetivo central de la política pública de búsqueda debe ser la protección y el apoyo amplio a las víctimas. Debe incluir la atención y el acompañamiento psicosocial a las víctimas y debe contener medidas que eviten su revictimización o victimización secundaria. Esta política pública debe incluir medidas de respeto a las víctimas, así como para prevenir y sancionar las estigmatizaciones de toda índole contra ellas.
+
+## Personas Desaparecidas No localizadas o ausentes  {.unlisted .unnumbered}
+
+Amnistía Internacional define a los "desaparecidos "cómo "aquellas personas que han sido detenidas por agentes del Estado, pero cuyo paradero y suerte se ocultan, y cuya detención se desmiente".
+
+Una definición parecida proviene de la Federación de Comités de familiares Latinoamericanos, la FEDEFAM. En esta definición se acentúa aún más fuerte que la de Amnistía Internacional, que una desaparición es una violación de los derechos humanos, también para los familiares que han quedado atrás: \"Una desaparición puede haber ocurrido las veces que fueron cometidos actos de omisión por agentes del gobierno o por individuos con el consentimiento o la complicidad del gobierno, con el propósito de intimidación y represión, las cuales violan los derechos humanos básicos con la intención de perjudicar a una persona o a sus allegados, y en las cuales las autoridades públicas ocultan la suerte de la víctima y niegan estar implicadas ellas mismas\".
+
+Es importante diferenciar el concepto de "desaparecido" con el de "perdido" en una desaparición puede o no actuar algún ente público o autoridad, su paradero se mantiene oculto o sin ser revelado, mientras que una persona se considera perdida después de que haya ocurrido alguna catástrofe, desastre natural o algún accidente. Persona desaparecida: Aquella cuyo paradero se desconoce y se presume, a partir de cualquier indicio, que su ausencia se relaciona con la comisión de un delito en su contra.
+
+Es importante recordar que, en México, el concepto de persona desaparecida es más amplio que en el resto del mundo e incluye a cualquier persona cuyo paradero se desconozca y respecto de quien se presuma que su desaparición o ausencia está relacionada con la comisión de un delito, es decir, que la persona desaparecida sea o haya sido víctima de cualquier delito (secuestro, trata de personas, feminicidio, homicidio, privación ilegal de la libertad, entre otros) y que, como consecuencia, esté desaparecida.
+
+En la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas se establece que una persona desaparecida se considera a la persona cuyo paradero se desconoce y se presuma, a partir de cualquier indicio, que su ausencia se relaciona con la comisión de un delito.
+
+Esta misma ley define a la Búsqueda de personas desaparecidas o no localizadas cómo Conjunto de acciones encaminadas a la obtención de información sobre el estado, la suerte y el paradero de una o más personas de paradero desconocido, a brindarles auxilio si se encuentran cautivas, extraviadas o en peligro, y en caso de que hayan perdido o sido privadas de la vida, a localizar sus restos, recuperarlos, identificarlos y restituirlos con dignidad a sus familiares.
+
+También establece el Derecho de toda persona a ser buscada; Toda persona cuyo paradero o ubicación se desconozca tiene el derecho a ser buscada por parte de las autoridades. Asimismo, los familiares y otras personas directamente afectadas por la ausencia tienen derecho a que se busque a la persona desaparecida o no localizada.
+
+Mientras que se considera Persona no localizada a toda aquella mayor de edad cuya ubicación es desconocida y que de acuerdo con la información que se reporte a la autoridad y el análisis de contexto, su ausencia no se relaciona con la probable comisión de algún delito. Esta condición no puede ser utilizada para negar la Búsqueda Inmediata. Pasadas 72 horas desde el último momento en que se tuvo contacto con la persona buscada, y con independencia de cualquier elemento del caso, siempre se presumirá la comisión de un delito, por lo que ya no puede ser considerada persona no localizada, sino desaparecida.
+
+Este Protocolo contempla la obligación de detonar una Búsqueda Inmediata de cualquier persona, independientemente de que se cumplan o no los supuestos que prevé la LGD para presumir la comisión de un delito en su contra (vid infra, 1.2), y de iniciar, además, una Búsqueda Individualizada en el instante en que se cumpla cualquiera de ellos (vid infra, 1.3, y 1.10). De este modo, no hay ningún caso en el que una persona cuya desaparición o no localización se reporte, denuncie o sea advertida en una noticia por la autoridad en que no exista la obligación de desencadenar sin demora un proceso de búsqueda (DOF: 06/10/2020).
+
+Persona Ausente: La Declaración de Ausencia y la Presunción de Muerte, se encuentran reguladas por el Código Civil Federal y Códigos Civiles Locales; la primera tiene cómo presupuesto que la ausencia de la persona se debía por voluntad o causas ajenas a dicha persona, pero no presuponía la comisión de un delito. Por su parte, la presunción de muerte no declara propiamente el fallecimiento, sino sólo la presume y se actualiza después de transcurrido cierto tiempo de la ausencia, así lo establece el Artículo 145 de la LGMDFP.
+
+La declaración de Ausencia de una persona es un gran avance, para el reconocimiento de los derechos y de la personalidad jurídica de las personas desaparecidas, además de que se extiende un mecanismo para el derecho de las familias de las víctimas; esta declaratoria pone en evidencia la problemática laboral, mercantil, civil, y patrimonial a las que se enfrentan las víctimas de desaparición, y sus familiares, debido a que se les afecta de forma directa.
+
+En respuesta a los mandatos Internacionales, y a los familiares de las víctimas de desaparición, se presenta la Declaración de Ausencia y Presunción de muerte (DEA) que cobro vigencia a partir del 22 de junio del 2018, esta ley tiene como objetivo principal darles continuidad a los derechos de las personas desaparecidas y sus familias (DOF: 22/06/2018).
+
+Esta ley cobra relevancia debido a que los familiares después de tres meses que su familiar cuente con reporte de desaparición, se puede solicitar que sea considerado cómo persona ausente, siempre y cuando cumpla con los requerimientos para que pueda ser declarado persona Ausente, es posible que pueda seguir conservando la personalidad jurídica. Con esta medida se busca darle mayor certeza a la persona desaparecida o no localizada, y a su familia.
+
+Anteriormente no se contaba con una ley que protegiera de esta manera a la víctima, lo cual generaba en algunos casos la pérdida del patrimonio de las víctimas o sus bienes materiales, sin que sus familias tuvieran la opción de poder proteger la propiedad de la víctima, incluso este recurso puede servir en caso de algún juicio mercantil o alguna diligencia jurídica pendiente o en proceso, de ser necesaria la presentación de la persona ausente este es un mecanismo alterno que las familias pueden solicitar, mientras las autoridades siguen con la búsqueda de su familiar, esta ley no exime a ninguna autoridad de frenar la búsqueda.
+
+En este momento no se cuenta con una base de datos que recopile o comparta la información de cuantas personas han sido declarado ausentes, porque se sigue considerando algo privado entre las autoridades que lo emiten y quienes lo solicitan, sin embargo, se espera que en un futuro haya alguna base de datos que sea publicada por alguna autoridad o dependencia gubernamental, para tener un registro y poder realizar algún análisis de estas cifras
+
+En el municipio de Toluca a pesar de los esfuerzos, los recursos y la implementación de políticas públicas que se han diseñado para la búsqueda de mujeres desaparecidas, este problema ha presentado un incremento considerable a lo largo de los años.
+
+```{r}
+#| label: fig-personas-desaparecidas-2020
+#| echo: false
+#| message: false
+#| warning: false
+#| fig-cap: "Personas desaparecidas durante el año 2020"
+#| fig-subcap: "Fuente: Secretaría de Gobernación (2016). Comisión Nacional de Búsqueda (2021)"
+#| fig-width: 9
+#| fig-height: 5.5
+
+suppressPackageStartupMessages({
+  library(ggplot2)
+  library(tidyr)
+  library(dplyr)
+})
+
+# 1. Crear el conjunto de datos exacto
+datos <- data.frame(
+  mes = factor(
+    c("ENERO", "FEBRERO", "MARZO", "ABRIL", "MAYO", "JUNIO", 
+      "JULIO", "AGOSTO", "SEPTIEMBRE", "OCTUBRE", "NOVIEMBRE", "DICIEMBRE"),
+    levels = c("ENERO", "FEBRERO", "MARZO", "ABRIL", "MAYO", "JUNIO", 
+               "JULIO", "AGOSTO", "SEPTIEMBRE", "OCTUBRE", "NOVIEMBRE", "DICIEMBRE")
+  ),
+  Hombre = c(1108, 1093, 1168, 977, 976, 1087, 1065, 1034, 805, 820, 799, 503),
+  Mujer = c(662, 754, 773, 579, 588, 636, 664, 633, 540, 662, 584, 308),
+  Indeterminado = c(4, 0, 1, 5, 3, 5, 8, 1, 0, 3, 0, 0)
+)
+
+# 2. Transformar a formato largo para ggplot
+datos_largos <- datos %>%
+  pivot_longer(
+    cols = c(Hombre, Mujer, Indeterminado),
+    names_to = "sexo",
+    values_to = "total"
+  ) %>%
+  mutate(sexo = factor(sexo, levels = c("Hombre", "Mujer", "Indeterminado")))
+
+# 3. Paleta de colores idéntica a la imagen original
+colores_originales <- c(
+  "Hombre" = "#1B5E82", 
+  "Mujer" = "#E66128", 
+  "Indeterminado" = "#2D7F36"
+)
+
+# 4. Generar la gráfica con agrupamiento (position_dodge)
+ggplot(datos_largos, aes(x = mes, y = total, fill = sexo)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.8), width = 0.7) +
+  geom_text(
+    aes(label = total),
+    position = position_dodge(width = 0.8),
+    vjust = -0.5,
+    size = 3.2,
+    color = "#333333"
+  ) +
+  scale_fill_manual(values = colores_originales) +
+  scale_y_continuous(limits = c(0, 1350), breaks = seq(0, 1400, by = 200)) +
+  theme_minimal(base_size = 11) +
+  theme(
+    legend.position = "bottom",
+    legend.title = element_blank(),
+    panel.grid.major.x = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.grid.major.y = element_line(color = "#E0E0E0", linewidth = 0.5),
+    axis.title = element_blank(),
+    axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1, color = "#333333", size = 9, face = "bold"),
+    axis.text.y = element_text(color = "#333333", size = 9),
+    plot.margin = margin(t = 10, r = 10, b = 10, l = 10)
+  )
+```
+
+
+Cómo ya se había comentado, en una revisión de las cifras a nivel nacional, el resultado que arroja es que desaparecen más hombres que mujeres, por eso es importante tomar un estudio de caso de un municipio, para ver las diferencias en el comportamiento de las cifras que presentan a nivel nacional.
+
+\begingroup
+\scriptsize
+
+::: {#tbl-1 tbl-cap="Número personas desaparecidas a nivel nacional del año 2020. Fuente: Secretaría de Gobernación (2016). Comisión Nacional de Búsqueda (2021)" tbl-location="H"}
+
++-----------------------+-----------------------+-----------------------+
+| **Categoría**         | **Total, de personas**| **Porcentajes**       |
++=======================+=======================+=======================+
+| Hombre                | 11,435                | 60.67%                |
++-----------------------+-----------------------+-----------------------+
+| Mujer                 | 7,383                 | 39.17%                |
++-----------------------+-----------------------+-----------------------+
+| Indeterminado         | 30                    | 0.16%                 |
++-----------------------+-----------------------+-----------------------+
+| Total                 | 18,884                | 100%                  |
++-----------------------+-----------------------+-----------------------+
+:::
+
+\endgroup
+
+El rango de edad es otro factor importante en la desaparición de personas, a diferencia de otros estados o municipios el rango de edad sobre todo de las mujeres que desaparecen son jóvenes entre 15 y 19 años mayormente, y los hombres en un rango de edad de 20 a los 24 años.
+
+\newpage
+
+```{r}
+#| label: fig-rango-edad-2020
+#| echo: false
+#| message: false
+#| warning: false
+#| fig-cap: "Rango de edad de personas desaparecidas 2020"
+#| fig-subcap: "Fuente: Secretaría de Gobernación (2016). Comisión Nacional de Búsqueda (2021)"
+#| fig-width: 9.5
+#| fig-height: 5.5
+
+suppressPackageStartupMessages({
+  library(ggplot2)
+  library(tidyr)
+  library(dplyr)
+})
+
+# 1. Base de datos con los valores exactos extraídos de la captura
+datos <- data.frame(
+  rango_edad = factor(
+    c("0-4", "5-9", "10-14", "15-19", "20-24", "25-29", "30-34", "35-39", 
+      "40-44", "45-49", "50-54", "55-59", "60-64", "65-69", "70-74", "75-79", 
+      "MÁS DE 80", "CIFRA SIN EDAD DET..."),
+    levels = c("0-4", "5-9", "10-14", "15-19", "20-24", "25-29", "30-34", "35-39", 
+               "40-44", "45-49", "50-54", "55-59", "60-64", "65-69", "70-74", "75-79", 
+               "MÁS DE 80", "CIFRA SIN EDAD DET...")
+  ),
+  Indeterminado = c(0, 0, 1, 1, 1, 2, 1, 0, 3, 2, 1, 0, 0, 3, 0, 0, 0, 18),
+  Mujer = c(213, 208, 1356, 2464, 776, 632, 436, 314, 212, 184, 101, 69, 55, 38, 34, 20, 40, 180),
+  Hombre = c(233, 216, 497, 1357, 1424, 1608, 1339, 1122, 887, 726, 485, 306, 225, 189, 152, 116, 108, 434)
+)
+
+# 2. Transformar a formato largo
+datos_largos <- datos %>%
+  pivot_longer(
+    cols = c(Indeterminado, Mujer, Hombre),
+    names_to = "sexo",
+    values_to = "total"
+  ) %>%
+  # El orden del factor determina cómo se apilan en el área
+  mutate(sexo = factor(sexo, levels = c("Indeterminado", "Mujer", "Hombre")))
+
+# Colors idénticos a la gráfica previa
+colores_originales <- c(
+  "Hombre" = "#1B5E82", 
+  "Mujer" = "#E66128", 
+  "Indeterminado" = "#2D7F36"
+)
+
+# 3. Generar la gráfica de Área Apilada
+ggplot(datos_largos, aes(x = rango_edad, y = total, fill = sexo, group = sexo)) +
+  geom_area(alpha = 0.9) +
+  scale_fill_manual(values = colores_originales) +
+  scale_y_continuous(limits = c(0, 4000), breaks = seq(0, 4000, by = 500)) +
+  theme_minimal(base_size = 11) +
+  theme(
+    legend.position = "bottom",
+    legend.title = element_blank(),
+    panel.grid.major.x = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.grid.major.y = element_line(color = "#E0E0E0", linewidth = 0.5),
+    axis.title = element_blank(),
+    axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1, color = "#333333", size = 8.5, face = "bold"),
+    axis.text.y = element_text(color = "#333333", size = 9),
+    plot.margin = margin(t = 10, r = 10, b = 10, l = 10)
+  )
+```
+
+
+\begingroup
+\scriptsize
+
+::: {#tbl-2 tbl-cap="A nivel nacional, el estado de México se posicionó dentro de los tres primeros lugares de personas desaparecidas. Fuente: Secretaría de Gobernación (2016). Comisión Nacional de Búsqueda (2021)" tbl-location="H"}
+
++---------------------+--------------------+--------------------+--------------------+
+| **Entidad**         | **Hombre**         | **Mujer**          | **Indeterminado**  |
++=====================+====================+====================+====================+
+| **Jalisco**         | 2452               | 905                | 0                  |
++---------------------+--------------------+--------------------+--------------------+
+| **Estado de México**| 1598               | 2064               | 2                  |
++---------------------+--------------------+--------------------+--------------------+
+| **Ciudad de México**| 1026               | 818                | 1                  |
++---------------------+--------------------+--------------------+--------------------+
+
+:::
+\endgroup
+
+En esta tabla se presenta el número de personas desparecidas, no localizadas a nivel nacional; cómo se puede apreciar los números van a en aumento.
+
+## Legislaciones  {.unlisted .unnumbered}
+
+En este apartado se muestra cuáles son las legislaciones que regulan la búsqueda de las personas desaparecidas, no localizadas y ausentes, se ejemplifica de qué manera se están llevando a cabo los ordenamientos Internacionales en las leyes para la localización de personas desaparecidas.
+
+De estos ordenamientos y legislaciones resulta la creación de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición cometida por particulares y del Sistema Nacional de Búsqueda de Personas que anteriormente no existía, además de que este delito no estaba tipificado en el código nacional de procedimientos penales. (DOF, 2017).
+
+El Comité contra la Desaparición Forzada de Personas de la Organización de las Naciones Unidas, el 18 de noviembre de 2018, reiteró su recomendación al estado mexicano para "armonizar las legislaciones locales con la nueva Ley General en la materia para su correcta implementación y crear todas las comisiones locales de búsqueda previstas, dotándoles de personal idóneo y presupuesto suficiente para su correcto funcionamiento". (Comité contra la Desaparición Forzada de la Organización de las Naciones Unidas, Observaciones finales sobre el informe presentado por México. (19 de noviembre de 2018).
+
+La creación de la ley en materia de desaparición forzada de personas y desaparición cometida por particulares para el Estado de México (DOF, 2020), establece el Protocolo Homologado para la búsqueda de personas desaparecidas y no localizadas (PHB, 2020), también el Sistema Nacional de búsqueda de Personas (SNB), el cual fue creado por el impulso de los familiares de las víctimas de desaparición.
+
+Los Principios Rectores para la Búsqueda de Personas Desaparecidas, aprobados por el Comité contra las Desapariciones Forzadas de la Organización de las Naciones Unidas (CED-ONU) en 2019, dan un marco importante, el cual debe ser traducido en acciones concretas de autoridades específicas que permitan garantizar, en la práctica, el derecho de toda persona desaparecida o no localizada a ser buscada, tanto en vida, cómo sin ella (DOF 2021).
+
+## Programas  {.unlisted .unnumbered}
+
+Las propuestas para dar una respuesta que se han presentado y se están llevando a cabo por parte de las autoridades federales, estales y locales, las cuales se encuentran estipuladas y publicadas en el Diario Oficial de la Federación son:
+
+I.  Protocolo Nacional de Alerta AMBER.
+
+II. Protocolo Homologado de Investigación para los Delitos de desaparición forzada y desaparición cometida por particulares.
+
+III. Protocolo para el Tratamiento e Identificación Forense.
+
+IV. Protocolos locales o estatales de búsqueda diferenciada de mujeres (Protocolo \"Alba\" Atención, Reacción y Coordinación en caso de Extravío de Mujeres y Niñas para Ciudad Juárez, Protocolo Alba para la Ciudad de México, Protocolo Alba Estado de México, etc.)
+
+V.  Acuerdo A/013/18 de la fiscalía general de la República por el que se crea la Fiscalía Especializada en Investigación de los Delitos de Desaparición Forzada.
+
+VI. Acuerdo A/012/18 de la fiscalía general de la República, por el que se reforma el diverso A/1174/15, por el que se crea la Unidad de Investigación de Delitos para Personas Migrantes y el Mecanismo de Apoyo Exterior de Búsqueda e Investigación.
+
+VII. Acuerdo SNBP/001/2019 por el que se aprueba la creación del Mecanismo Extraordinario de Identificación Forense.
+
+La jurisprudencia emitida por la Suprema Corte de Justicia de la Nación (SCJN) es vinculante para las autoridades mexicanas y debe aplicarse en la búsqueda de las personas desaparecidas y no localizadas.
+
+En referencia a los programas, mecanismos y legislaciones que se han presentado, en el Estado de México, siendo la demarcación que concentra el mayor número de desaparición de personas en el país, pero sobre todo el de mujeres, la Alerta de Violencia de Género contra las Mujeres por Desaparición es una de las políticas públicas donde se ha integrado la Perspectiva de Género, al momento de la búsqueda de mujeres, tiene como finalidad garantizar la seguridad a las mujeres dejando de lado cualquier trato desigual por su género, otro de los objetivos es disminuir o erradicar la violencia que sufren.
+
+Esta política pública además de haber sido diseñada para la búsqueda de mujeres desparecidas, también incluye a personas que se identifiquen dentro de la comunidad LGBTTI+.
+
+Otras de las leyes y las políticas establecidas para la atención de esta problemática son;
+
+-   Ley General para la Igualdad entre Mujeres y Hombres (2006).
+
+-   Ley General de Acceso de las Mujeres a una Vida Libre de Violencia (2007).
+
+-   Ley para Prevenir y Sancionar la Trata de Personas (2007).
+
+## Conclusiones  {.unlisted .unnumbered}
+
+La desaparición de personas en México es un asunto de todos, además para su atención se necesita el trabajo conjunto entre instituciones y población en general, además de organizaciones de la sociedad civil para que brinden el apoyo desde la experiencia de cada uno de estos actores en la búsqueda de desaparecidos y desaparecidas.
+
+En el caso mexicano, pero sobre todo en el Estado de México, es un fenómeno que se tiene que observar muy de cerca, aunque los patrones de desaparición son comunes. En algunos municipios resalta que desaparecen más mujeres que hombres, con esta investigación la finalidad no es argumentar que es más importante atender la desaparición entre unos y otros, si no mostrar que aun que el delito de desaparición de personas en específico de mujeres no se está atendiendo de manera adecuada, sería necesario incorporar la perspectiva de género desde el momento de su desaparición, no solo en las leyes, si no en los mecanismos y protocolos de búsqueda, es vital hacer esta distinción.
+
+En materia de seguridad hay avances, pero aún falta mucho para poder garantizar la seguridad a los ciudadanos, sin embargo, es fundamental resaltar que se está trabajando en el tema de desapariciones, para las autoridades e instituciones involucradas falta definir cuál es el papel que debe asumir cada quien en la búsqueda de personas desaparecidas.
+
+> Referencias bibliográficas
+
+Comisión Nacional de Búsqueda. (2019). Comisión Nacional de Búsqueda de Personas. 20 mayo de 2021, de Gobierno de México Sitio web: [[www.gob.mx/cbn/acciones-y-acciones]{.underline}](http://www.gob.mx/cbn/acciones-y-acciones)
+
+Comisión Nacional de Búsqueda. (2019). Comisión Nacional de Búsqueda de Personas. 20 mayo de 2021, de Gobierno de México Sitio web: [[www.gob.mx/cbn/acciones-y-acciones]{.underline}](http://www.gob.mx/cbn/acciones-y-acciones)
+
+Consejo Estatal de Población Estado de México. (2011). Cuaderno Estadístico Estado de México. 19 mayo de 2021, de COESPO Edomex Sitio web:
+
+> https://coespo.edomex.gob.mx/sites/coespo.edomex.gob.mx/files/files/coespo \_pdf_comic_ssr.pdf
+
+Defensoría del pueblo Colombia. (2014). Personas Desaparecidas en Colombia año
+
+2014\. 20 mayo de 2021, de Pulzo Sitio web:
+
+> [[https://www.defensoria.gov.co/es/nube/enlosmedios/2266/En-Colombia-sehan-reportado-4539-personas-presuntamente-desaparecidas-en-2014]{.underline}.](https://www.defensoria.gov.co/es/nube/enlosmedios/2266/En-Colombia-se-han-reportado-4539-personas-presuntamente-desaparecidas-en-2014)
+
+Fernández Marcos/Rampal Jean-Christophe. (2006). La Ciudad de las Muertas.
+
+> México: Grijalbo.
+
+Ferrajoli, Luigi (1999). "Derechos fundamentales", Derechos y garantías. La Ley del más débil, Trotta.
+
+Gobierno del Estado de México. (2019). Numeralia Municipal de Toluca. 20 mayo de
+
+2021, de Secretaria General de Gobierno Sitio web:
+
+> [[https://www.cva.itesm.mx/biblioteca/pagina_con_formato_version_oct/apaweb]{.underline} [.html]{.underline}](https://www.cva.itesm.mx/biblioteca/pagina_con_formato_version_oct/apaweb.html)
+
+Hernández Anabel. (2016). La Verdadera Noche de Iguala. Ciudad de México: Grijalbo.
+
+Instituto Nacional de Estadística y Geografía (INEGI). (2020). Cuéntame. 18 febrero
+
+2020, de INEGI Sitio web:
+
+> [[http://cuentame.inegi.org.mx/poblacion/habitantes.aspx?tema=P%20]{.underline}\]](http://cuentame.inegi.org.mx/poblacion/habitantes.aspx?tema=P%20)
+
+IPOMEX. (2021). Información Pública de Oficio Mexiquense. 18 Mayo de 2021, de H.
+
+Ayuntamiento de Toluca Sitio web:
+
+> [[https://www.ipomex.org.mx/ipo3/lgt/indice/toluca.web]{.underline}](https://www.ipomex.org.mx/ipo3/lgt/indice/toluca.web)
+
+Mac-Gregor Ferrer Eduardo, Fernando Silva García. (2011). Los feminicidios de ciudad Juárez ante la corte Interamericana de Derechos Humanos. México: Porrúa.
+
+Meny & Thoenig. (1992:195) Evaluación de Las políticas públicas; Fondo de Cultura Económica, 2009.
+
+Pisarello, Gerardo (2007). Los derechos sociales y sus garantías. Elementos para una reconstrucción. Madrid, Editorial Trotta.
+
+Ramírez Páez Diana Emilce, Segura Jaime Andrés. (2013). Comportamiento del fenómeno de la desaparición, Colombia,2013. Bogotá Colombia: Instituto Nacional de Medicina Legal y Ciencias Forenses.
+
+Redacción Aristegui Noticias. (3 septiembre de 2020). Nuestra tragedia humanitaria comenzó en el gobierno de Calderón; ocultó lista de desaparecidos: Corcuera. 23
+
+Romero Quiroz Javier. (1980). La Ciudad de Toluca sus nombres. Toluca de Lerdo México: Gobierno del Estado de México.
+
+Rodríguez González Sergio. (2006). Huesos en el Desierto. México: Anagrama.
+
+Roth Deubel, André-Nöel. (2014). Políticas Públicas: formulación, implementación y evaluación. Bogotá, Colombia: Aurora.
+
+Sabatier, P & Mazmanian D. (2007). LA IMPLEMENTACIÓN DE LA POLÍTICA PÚBLICA: UN MARCO DE ANÁLISIS. En La implementación de las políticas (pp. 323-372).
+
+> México: Miguel Ángel Porrúa.
+
+Sánchez García, Alfonso y Alfonso Sánchez Arteche. Toluca. Monografía municipal, Gobierno del Estado de México-Asociación Mexiquense de Cronistas
+
+> Municipales, A.C., Toluca, Méx, 1999.
+
+Secretaria de Gobernación. (2018). Comisión Nacional de Búsqueda. 20 mayo de
+
+2021, de Diario Oficial de la Federación Sitio web:
+
+[[https://www.dof.gob.mx/nota_detalle.php?codigo=5528534&fecha=21/06/2018]{.underline}](https://www.dof.gob.mx/nota_detalle.php?codigo=5528534&fecha=21/06/2018)
+
+Secretaria Técnica de la Presidencia Coordinación de Planeación. (2020). Estadística básica del municipio de Toluca. 18 de mayo de 2021, de Toluca Capital
+
+Secretaria de Gobernación. (2020). Acuerdo SNBP/002/2020 por el que se aprueba el Protocolo Homologado para la Búsqueda de Personas Desaparecidas y No Localizadas, el cual se anexa al presente Acuerdo y forma parte integrante del mismo. 28/08/2021, de Diario Oficial de la Federación Sitio web: [[https://dof.gob.mx/nota_detalle.php?codigo=5601905&fecha=06/10/2020&print]{.underline} [=true]{.underline}](https://dof.gob.mx/nota_detalle.php?codigo=5601905&fecha=06/10/2020&print=true)
+
+\printbibliography[heading=subbibliography, title={Trabajos Citados}]
+

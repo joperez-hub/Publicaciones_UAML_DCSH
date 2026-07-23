@@ -1,5 +1,5 @@
 ---
-title: "El Sistema Producto Barbacoa de Capulhuac como manifestación del capitaloceano y la economía circular"
+title: "El Sistema Producto Barbacoa de Capulhuac como manifestación del capitaloceno y la economía circular"
 author:
   - name: "Omar Miranda-Gómez"
     affiliation: "Universidad Autónoma Metropolitana, unidad Lerma"
@@ -21,7 +21,15 @@ keywords:
 type: chapter
 ---
 
-## Introducción
+\addtocontents{toc}{\protect\hspace{1.5em}Omar Miranda-Gómez e Ignacio López Moreno\par}
+\markboth{El Sistema Producto Barbacoa de Capulhuac como manifestación del capitaloceno}{}
+
+\begin{flushright}
+\Large Omar Miranda-Gómez \footnote{ Contacto: \href{mailto:o\_miranda@correo.ler.uam.mx }{o\_miranda@correo.ler.uam.mx}} \\
+\Large Ignacio López Moreno \footnote{ Contacto: \href{mailto:i.lopez@correo.ler.uam.mx }{i.lopez@correo.ler.uam.mx}}
+\end{flushright}
+
+## Introducción {.unlisted .unnumbered}
 
 > _El pecado mayor del ambientalismo, el conjunto de movimientos en defensa de la naturaleza y sus autores, fue habernos hecho creer que los culpables de la destrucción del mundo natural éramos todos los seres humanos sin excepción_
 > 
@@ -33,7 +41,7 @@ Capulhuac, en el Estado de México es un territorio de fundación matlatzinca de
 
 El documento se estructura en cinco partes. En primer lugar, se habla sobre el origen de la barbacoa y su importancia económica en el municipio. Después, se expone cómo es que el proceso de transformación socioeconómica se orienta a lógicas capitalistas que fomentan un desarrollo poco sustentable de su entorno. Seguido de ello, se habla sobre la economía circular en el contexto del capitaloceno. Posteriormente, se discuten los elementos más relevantes que permiten la transformación de este territorio, asociados a la implementación de una economía circular y se exponen una serie de retos y futuras líneas de investigación derivadas del proceso analítico. Por último, se enuncian algunas consideraciones finales derivadas de este proceso de reflexión.
 
-## La barbacoa: Un platillo de impacto regional en Capulhuac
+## La barbacoa: Un platillo de impacto regional en Capulhuac {.unlisted .unnumbered}
 
 La gastronomía mexicana ha sido considerada un regalo para el mundo, pues desde la época prehispánica la preparación culinaria de los alimentos era distinta a la conocida por los habitantes del continente europeo. Los antiguos pueblos se alimentaban principalmente de frutas, calabazas, frijol, chile y maíz, de este último se hacían distintos tipos de tortillas, tamales, varias especies de aves, conejos, venados, liebres, armadillos, peces, ranas, ajolotes, hormigas, gusanos de maguey, tomaban atoles, chocolate y pulque, [@DeSahagun1540a: 297-310]. La preparación de la carne se podía hacer a través del asado a fuego directo de la misma, su cocimiento al vapor, guisada con chiles, tomates o pepitas, y por supuesto se asaba bajo la tierra en un horno subterráneo (barbacoa) [@DeSahagun1540b: 55; @Iturriaga2013: 13].
 
@@ -61,7 +69,7 @@ En cuanto a la producción ovina a nivel nacional, los estados de México e Hida
 
 Según los datos que hemos podido levantar en nuestro trabajo de campo, en Capulhuac se sacrifican entre 10 y 15 mil borregos semanales, siendo la gran mayoría importados de estados como, Jalisco, Zacatecas y Chihuahua. Este volumen semanal puede ser traducido a 30 mil toneladas al año de borrego vivo, y unas 13 mil en canal. Todo este enorme volumen de carne es procesado por unas 4 mil familias residentes en Capulhuac. En tal sentido, estos números nos hablan de magnitudes que imposibilitan una relación sociedad-naturaleza sustentable, y cuyo impacto se extiende más allá del mismo municipio de Capulhuac a través de las cadenas de importación de bienes necesarios para mantener el sistema. A continuación, se discute el concepto de capitaloceno como un proceso que genera transformaciones ambientales como resultado de lógicas económicas asociadas con el capitalismo.
 
-## El capitaloceno como manifestación de la degradación ambiental en Capulhuac
+## El capitaloceno como manifestación de la degradación ambiental en Capulhuac {.unlisted .unnumbered}
 
 Anteriormente se había planteado el concepto de antropoceno para hablar de una fase de grave crisis ecológica global, que consideraba a la humanidad como el principal catalizador de este proceso. Sin embargo, éste presenta críticas como su falta de perspectiva histórica, pues su concepción homogeniza a toda la humanidad, como si todos los seres humanos contribuyeran de igual modo en la creación de los actuales problemas socioecológicos [@Herrero2017].
 
@@ -79,7 +87,7 @@ La escala de producción es tan alta que su ambiente próximo no puede generar c
 
 En los últimos años la soberanía alimentaria y la justicia ambiental son temas en auge que afortunadamente han entrado en la agenda social y académica. Estos dos conceptos nos permiten observar y analizar dinámicas producidas por el capitaloceno. El capitaloceno, entendido como la era actual en la que un sistema económico construye la realidad con base en su lógica de apropiación y explotación de la naturaleza y la sociedad, se manifiesta también en los sistemas agroalimentarios. Si bien existen ejemplos de alternativas interesantes, muchos otros muestran las consecuencias de la penetración de la lógica del mercado en nuestros agroecosistemas.
 
-## Economía circular en el contexto del capitaloceno
+## Economía circular en el contexto del capitaloceno {.unlisted .unnumbered}
 
 La intensificación del sistema capitalista trae consigo amenazas que rebasan las fronteras ecológicas cuyo proceso impacta de manera negativa la biosfera [@Escalera2018]. La relación entre el capitaloceno y la economía circular es compleja, ya que ambos conceptos abordan la interacción entre los sistemas económicos y la sostenibilidad ambiental. Por un lado, e capitaloceno critica el papel del capitalismo en la degradación ecológica, mientras que la economía circular propone un modelo orientado a la eficiencia de los recursos y la sostenibilidad.
 
@@ -103,7 +111,7 @@ En este sentido, es oportuno aplicar políticas públicas que no solo promuevan 
 
 Finalmente, la economía circular debe ir acompañada de un proceso de concienciación colectiva sobre la importancia de cambiar nuestra relación con el medio ambiente. Es necesario impulsar una cultura de consumo responsable y una revalorización de los recursos naturales, que permita no solo la sostenibilidad ecológica, sino también una mayor equidad social.
 
-## Discusión y análisis prospectivo
+## Discusión y análisis prospectivo {.unlisted .unnumbered}
 
 El mercado agroalimentario y la gastronomía han cobrado importancia y se ha reconocido como una herramienta de desarrollo capitalista y de generación de rentas elevadas [@VanDerPloeg2010]. Este auge ha sido promovido por una constante innovación organizativa y mercadotécnica que ha permitido generar un alto valor agregado a alimentos que formaban parte de tradiciones locales. Dentro de las estrategias para la generación de valor agregado destacan aquellas que pasan por vincular un producto a un territorio y un imaginario colectivo positivo [@EspeitxBernat1996].
 
@@ -127,7 +135,7 @@ La economía circular ofrece una vía para replantear estas dinámicas, promovie
 
 Otra línea de investigación, deberá abordar la importancia del consumo responsable por parte de los compradores de barbacoa, lo que ayudaría a mitigar el impacto ambiental de este producto. En este sentido, el fomento de estrategias de consumo responsable por parte de los compradores de barbacoa, reduciría el desperdicio de alimentos, así como el uso de materiales no perecederos como los desechables.
 
-## Consideraciones finales
+## Consideraciones finales {.unlisted .unnumbered}
 
 Nuestro ensayo buscó acercar un caso paradigmático de industrialización de la gastronomía tradicional como parte del fenómeno del capitaloceno. La barbacoa, en un proceso de transición, marcado por los cambios en su contexto y los saberes de las familias de Capulhuac, se convirtió en un fenómeno estructurador de la vida cotidiana de miles de personas. Las prácticas, lógicas y escalas de este sistema producto tienen un impacto directo sobre el municipio de Capulhuac y los espacios con los que se articula. El uso de los mercados y las energías fósiles permitió aumentar la escala productiva a un nivel insostenible. El sistema producto barbacoa de Capulhuac necesita repensarse y reorientarse hacia formas económicas más sustentables de manera progresiva para poder continuar existiendo. Existen múltiples limitaciones y dificultades para una transición hacia la sustentabilidad, pero desde la academia podemos compartir nuestros conocimientos e incidir en las familias para la búsqueda de alternativas graduales que generen nuevas lógicas de interacción alternativas al capitalismo.
 
@@ -139,4 +147,4 @@ Se hace patente la necesidad de implementar estrategias más sustentables en cua
 
 Entre los desafíos se encuentra la adopción de prácticas amigables con el medio ambiente, como los modelos de economía circular; sin embargo, hay quienes critican los modelos de economía circular porque la consideran como una alternativa que potencia el modelo capitalista imperante. Reconocen tanto las limitaciones como las oportunidades que presenta este modelo para abordar la crisis climática y promover prácticas sustentables.
 
-\printbibliography[heading=subbibliography, title={Referencias Bibliográficas}]
+\printbibliography[heading=subbibliography, title={Trabajos Citados}]

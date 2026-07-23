@@ -11,10 +11,10 @@ project:
 # 2. METADATOS EDITORIALES Y DE PUBLICACIÓN
 #===============================================================================
 book:
-  title: "Título de la obra"
-  subtitle: "Subtítulo de la obra"
+  title: "Artesanías Intelectuales"
+  subtitle: "El oficio de abrir las ciencias sociales"
   editor:
-    - name: "Nombre del Coordinador"
+    - name: "José Omar Pérez Baños"
       affiliation: "Universidad Autónoma Metropolitana, Unidad Lerma"
       email: "correo.del.coordinador@institución.com"
       orcid: ""
@@ -27,22 +27,22 @@ book:
   
   chapters:
     - index.qmd
-    - part: CONTENIDO DEL LIBRO
+    - part: ECOLOGÍAS, COMPLEJIDAD Y TERRITORIOS
       chapters:
-        - capitulo_00.qmd
-        - capitulo_01.qmd
-        - capitulo_02.qmd
-        #- capitulo_03.qmd
-        #- capitulo_04.qmd
-        #- capitulo_05.qmd
-        #- capitulo_06.qmd
-        #- capitulo_07.qmd
+        - capitulo_00.qmd # Artesanías intelectuales - Claudia Mosqueda
+        - capitulo_01.qmd # Barbacoa - Omar Miranda e Ignacio López
+        - capitulo_02.qmd # Bienestar urbano - Juan López Sauceda
+        #- capitulo_03.qmd No respondió a la convocatoria
+        - capitulo_05.qmd # Estrategias colectivas - Esmeralda Pliego y Emilia Lara Wlle
+    - part: INTERSECCIONALIDADES DEL CUERPO, EL CUIDADO Y LA JUSTICIA
+      chapters:
+        - capitulo_04.qmd # Interseccionalidad en Programas Públicos Municipales - Guillermo Aldair y Ricardo astorga
+        - capitulo_06.qmd # El sistema penitenciario - Daniel Yuliet Peña
+        - capitulo_07.qmd # Perspectiva de género - Dora Luz Morales 
+        - reseña.qmd
     #- part: ENTREVISTA
       #chapters:
         #- entrevista.qmd
-    #- part: RESEÑA
-      #chapters:
-        #- reseña.qmd
     - colofon.qmd
 
 #===============================================================================

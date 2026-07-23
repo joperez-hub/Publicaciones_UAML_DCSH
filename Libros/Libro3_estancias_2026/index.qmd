@@ -26,4 +26,40 @@ type: chapter
 
 ## Introducción {.unnumbered .unlisted}
 
-El cuerpo del texto...
+PARTADO I: "Reencantar el mundo: ecologías, complejidad y territorios"
+Capítulos incluidos:
+Cap. 1 — Barbacoa de Capulhuac y Capitaloceno (Miranda Gómez)
+Cap. 2 — Bienestar visual urbano y entropía (López Sauceda)
+Cap. 3 — Actores, actantes y antropología de lo vivo
+Cap. 5 — Territorio hidrosocial de Lerma (Lara Walle y Pliego)
+Eje articulador:
+Este apartado materializa el llamado de Wallerstein al "reencantamiento del mundo" y al derrumbe de las dos culturas. Los cuatro textos comparten:
+Ruptura de la barrera naturaleza/cultura: la barbacoa como nodo de la ecología-mundo; la ciudad como organismo tan complejo como un arrecife; los actantes no-humanos con agencia; el río Lerma como ente afectivo y memorial.
+La complejidad como método: entropía de Shannon, teoría del Actor-Red, territorio hidrosocial, Capitaloceno.
+El territorio como variable constitutiva: no es un contenedor inerte, sino un campo de batalla socioecológico (la cuenca, el sistema-producto, la anatomía urbana).
+Rechazo al antropocentrismo y al estadocentrismo: los cuatro textos desplazan el foco del Estado-nación hacia escalas alternativas (la cuenca, la red global, el sistema-mundo local).
+Título sugerido para el apartado:
+"Reencantar el mundo: ecologías, complejidad y territorios"
+o bien: "Aperturas ecológicas: del Capitaloceno a los territorios hidrosociales"
+📙 APARTADO II: "Interseccionalidades del cuerpo, el cuidado y la justicia"
+Capítulos incluidos:
+Cap. 4 — Interseccionalidad en políticas públicas municipales (Villegas)
+Cap. 6 — Sistema penitenciario del Estado de México (Peña Miranda)
+Cap. 7 — Desaparición de mujeres en Toluca
+Cap. 8 — La sociedad del cuidado (Melgarito Rocha, reseña)
+Eje articulador:
+Este apartado encarna el llamado de Wallerstein al universalismo pluralista y a la inclusión de voces excluidas, filtrado por la ética del cuidado de Mosqued. Los cuatro textos comparten:
+Crisis institucional y falla del Estado como contenedor: el municipio como laboratorio (Cap. 4), la prisión como espejo de la crisis penal (Cap. 6), la búsqueda extrainstitucional (Cap. 7), los cuidados más allá del mercado y el Estado focalizado (Cap. 8).
+Perspectiva de género e interseccionalidad como praxis: los cuatro textos abordan cómo las identidades múltiples (género, raza, clase, condición de PPL, edad) configuran experiencias únicas de opresión o cuidado.
+Ética del cuidado y justicia restaurativa: el "cuidado de sí" del artesano intelectual se vuelve "cuidado del otro" —las mujeres desaparecidas, las PPL, las trabajadoras migrantes, las comunidades interseccionales.
+Voces excluidas como centro epistemológico: los colectivos de búsqueda, las PPL, las trabajadoras domésticas migrantes, las mujeres en interseccionalidad.
+Título sugerido para el apartado:
+"Interseccionalidades del cuerpo, el cuidado y la justicia"
+o bien: "Éticas de la vida: género, justicia y sociedad del cuidado"
+🔗 PIEZA TRANSVERSAL: La entrevista a Eugenio Tisselli
+Ubicación sugerida: Como epílogo o pieza de cierre del dossier, o bien como prólogo metodológico si se desea que funcione como horizonte de expectativas.
+Justificación:
+La entrevista con Tisselli dialoga con ambos apartados y funciona como una síntesis viva de la premisa del dossier:
+Con el Apartado I: comparte la crítica al antropocentrismo, la validación de las tecnologías del Sur global (maíz/milpa como tecnologías de la vida), y la visión sistémica/agroecológica.
+Con el Apartado II: comparte la ética del cuidado comunitario, la reescritura tecnológica como acto de justicia, y la agencia de las comunidades frente a la "mega-máquina".
+Síntesis epistemológica: Tisselli encarna al artesano intelectual perfecto (Mosqued) que ejerce la apertura de las ciencias sociales (Wallerstein) al disolver las fronteras entre código y poesía, Norte y Sur, tecnología y vida.
