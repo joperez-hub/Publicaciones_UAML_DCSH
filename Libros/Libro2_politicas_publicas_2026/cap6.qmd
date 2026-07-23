@@ -80,7 +80,11 @@ La segunda etapa incrementó los recorridos en campo y las visitas diarias en at
 Finalmente la tercera etapa comprendió el cierre de las conciliaciones y la toma de posesión de los predios involucrados. Este proceso incluyó la indemnización de la tierra, el avalúo de la construcción y el avalúo de los Bienes Distintos a la Tierra (BDTS). Durante la conciliación al propietario/poseedor se le informó que el costo de su propiedad se estableció conforme al tabulador del INDABIN[^c6_7]. Respecto a los tiempos de desocupación y de mudanza, estos fueron establecidos el equipo de liberación de vía. A las personas que no contaban con documentación, se les acreditó la calidad de propietarios y se les brindó una solución para conciliar. No hubo desalojo, pero tampoco reubicación para ningún afectado.
 
 
-Durante los recorridos diarios en el "Tramo III", se observaron los cambios y las dinámicas sociales que se desprendían durante el proceso de socialización. Esto permitió identificar los rezagos sociales y económicos de las familias, sobre todo de aquellas que habitaban muy cerca del muro fronterizo. La pobreza y desigualdad que les caracterizaba se contrastó con los indicadores del @CONEVAL2012 a través de la "Metodología para la medición multidimensional de la pobreza en México"[^c6_8]. Este ejercicio tenía como finalidad, abonar a las estrategias de conciliación a través de los avalúos de las propiedades. Los indicadores que a continuación se presentan, permitieron identificar que, personas del borde de la colonia Libertad vivían en condición de pobreza extrema:
+Durante los recorridos diarios en el "Tramo III", se observaron los cambios y las dinámicas sociales que se desprendían durante el proceso de socialización. Esto permitió identificar los rezagos sociales y económicos de las familias, sobre todo de aquellas que habitaban muy cerca del muro fronterizo.
+
+![Condiciones de vida en el límite del muro fronterizo de la colonia Libertad, Tijuana. Fotografía de la autora.](images/cap6libro2imagenA2026.JPG){#fig-1 fig-align="center" width="85%"}
+
+La pobreza y desigualdad que les caracterizaba se contrastó con los indicadores del @CONEVAL2012 a través de la "Metodología para la medición multidimensional de la pobreza en México"[^c6_8]. Este ejercicio tenía como finalidad, abonar a las estrategias de conciliación a través de los avalúos de las propiedades. Los indicadores que a continuación se presentan, permitieron identificar que, personas del borde de la colonia Libertad vivían en condición de pobreza extrema:
 
 
 a)  **Por ingresos**: el 40% de las familias afectadas no contaban con recursos suficientes para adquirir los bienes y servicios que se requieren para satisfacer sus necesidades (alimentarias y no alimentarias).
@@ -93,7 +97,6 @@ d)  **Acceso a servicios básicos.** Las familias que habitaban en Avenida Vía 
 
 e)  **Del contexto territorial**. El borde de la colonia libertad destacaba por ser un lugar no pavimentado; en el caso de los vecinos de la Avenida Vía de la Juventud, estos habitaban a un costado del canal de desagüe. Esa parte de la colonia Libertad se considerada "zona de paso de polleros". Durante el mes de mayo del 2023 se encontró un narco túnel en uno de los predios involucrados y semanas después el dueño fue asesinado a unas calles de su propiedad. Durante el mes de mayo y septiembre, dos posesionarios involucrados en el Proyecto fueron asesinados dentro de sus hogares por motivos
 
-![](images/cap6libro2imagenA2026.JPG)
 
 ## Contexto histórico de la colonia Libertad {.unnumbered .unlisted}
 
@@ -112,37 +115,36 @@ La persecución que sufría este grupo de trabajadores y sus familias llamó la 
 
 Los Pequeños Poseedores organizaron expediciones a los basureros en busca de material para construir sus viviendas. Domingo García, autor del nombre "Libertad", sugirió contratar a un ingeniero para diseñar el trazo de lo que sería la colonia. Bustamante puntualizó que, en ese plano se dibujaron los lotes en figuras regulares de 16 x 45 metros, con los nombres de las familias que los ocuparían.
 
+![Vivienda autoconstruida y espacio habitacional contiguo al muro de acero en el borde de la colonia Libertad. Fotografía de la colección de la autora.](images/cap6libro2imagenB2026.JPG){#fig-2 fig-align="center" width="85%"}
+
 La primera piedra se colocó en 1930. El dibujo del trazo, la alineación de calles, la distribución de lotes, la construcción de viviendas y la provisión de servicios fue iniciativa de particulares. La colonia Libertad se expandió tras la llegada de mexicanos que fueron expulsados de Estados Unidos durante la década de los treinta, familias que decidieron asentarse en la colonia Libertad para mantenerse cerca de los EUA.
 
 Este pasaje histórico, autoría de Jorge @Bustamante1990 continúa presente en la identidad de quienes viven en la colonia Libertad, asumiéndose como personas que luchan. Sin embargo ese ímpetu se disipa horizontalmente; el crecimiento de esta colonia fue desigual. Esa desigualdad se alberga en un espacio segregado marcado por el muro entre México y EUA, al que en este artículo se le denominará "borde", espacio que continúa siendo el refugio de familias migrantes de escasos recursos.
-
-![](images/cap6libro2imagenB2026.JPG)
 
 ## Apartado metodológico: la categoría borde y la importancia de las historias de vida {.unnumbered .unlisted}
 
 Las características espaciales y de interacción social que se configuraron en el tramo de la colonia Libertad afectado por el viaducto, deben entenderse desde la categoría *borde*, un espacio geográfico entre los límites de México y EUA. Lo particular de este borde es que, este se impuso en la cotidianidad de sus habitantes, tras la construcción del muro. Para comprender la propuesta central de este artículo, dialogaré con las aportaciones de autores que brindan interpretaciones de la categoría borde, entendido no solo como un espacio geográfico que adquiere valor simbólico dependiendo del momento histórico en el que se aborde, sino que va configurando un cúmulo de experiencias que, en su mayoría, se desarrollan en contextos precarios.
 
-Autores como Santiago Castro Gómez entienden la frontera/borde como: "(...) la zona intermedia, o el espacio entre dos mundos que surge de un encuentro asimétrico (...) forjando un sistema de jerarquías" [@Gomez2021Pág]. Para Castro Gómez los bordes son el resultado de los proyectos de modernidad, en los cuales las y los sujetos tienen a reconfigurar sus dinámicas para resistir a los cambios y a la imposición de nuevas jerarquías.
+Autores como Santiago Castro Gómez entienden la frontera/borde como: "(...) la zona intermedia, o el espacio entre dos mundos que surge de un encuentro asimétrico (...) forjando un sistema de jerarquías" [@Castro2007: 12]. Para Castro Gómez los bordes son el resultado de los proyectos de modernidad, en los cuales las y los sujetos tienen a reconfigurar sus dinámicas para resistir a los cambios y a la imposición de nuevas jerarquías.
 
-La socióloga Mariana Wagner explica que: "(...) la construcción de bordes engendra un sentido en las personas de estar dentro o fuera de un lugar (...) los bordes concretizan el territorio y lo que estos territorios significan. Los bordes señalan, y a la vez unen y contienen: personas, ideas, prejuicios, formas de vida, bienes, sistemas, etcétera" [@Wagner2016: PÁG.]. Esta idea me lleva a retomar las aportaciones de Walter Mignolo y el surgimiento de nuevas epistemologías en los bordes, esto como resultado de los procesos de modernización que construyen y albergan nuevas experiencias que se van interiorizando en las personas, lenguajes, religiones y conocimientos. Mignolo resalta la importancia "(...) no solamente de entender el borde como un espacio geográfico, sino también como nuevas formas de política, subjetividades y epistemes" [@Mignolo2015: 315].
+La socióloga Mariana Wagner explica que: "(...) la construcción de bordes engendra un sentido en las personas de estar dentro o fuera de un lugar (...) los bordes concretizan el territorio y lo que estos territorios significan. Los bordes señalan, y a la vez unen y contienen: personas, ideas, prejuicios, formas de vida, bienes, sistemas, etcétera" [@Wagner2016: 180]. Esta idea me lleva a retomar las aportaciones de Walter Mignolo y el surgimiento de nuevas epistemologías en los bordes, esto como resultado de los procesos de modernización que construyen y albergan nuevas experiencias que se van interiorizando en las personas, lenguajes, religiones y conocimientos. Mignolo resalta la importancia "(...) no solamente de entender el borde como un espacio geográfico, sino también como nuevas formas de política, subjetividades y epistemes" [@Mignolo2015: 315].
 
-Esta idea dialoga con las experiencias de los habitantes que permanecían/permanecen en el borde de la colonia Libertad. Personas que configuraron sus subjetividades y cotidianidades conforme a los cambios físicos del muro fronterizo, construyendo sus lógicas de pensamiento desde un espacio lleno de desigualdad, pero que enaltecían por el hecho de vivir a escasos metros del país vecino. Por ello la importancia de registrar sus historias y sus vivencias, porque estas permitirán comprender sus entramados sociales en diferentes momentos históricos. Esto me lleva a retomar el trabajo del antropólogo Guillermo Alonso Meneses, quien desarrolló los hechos que posibilitaron la construcción del muro como se le conoce internacionalmente:
+Esta idea dialoga con las experi  encias de los habitantes que permanecían/permanecen en el borde de la colonia Libertad. Personas que configuraron sus subjetividades y cotidianidades conforme a los cambios físicos del muro fronterizo, construyendo sus lógicas de pensamiento desde un espacio lleno de desigualdad, pero que enaltecían por el hecho de vivir a escasos metros del país vecino. Por ello la importancia de registrar sus historias y sus vivencias, porque estas permitirán comprender sus entramados sociales en diferentes momentos históricos. Esto me lleva a retomar el trabajo del antropólogo Guillermo Alonso Meneses, quien desarrolló los hechos que posibilitaron la construcción del muro como se le conoce internacionalmente:
 
-> (...) fue a finales de 1989 cuando los grupos de civiles, jubilados y veteranos molestos por "el caos" que les causaba la migración en los límites de San Diego, impulsaron la campaña *"Lights up the Border".* La repercusión mediática que tuvo la acción de estos vigilantes fronterizos y su odio hacia los mexicanos permitieron la construcción del muro metálico con el fin de contener el flujo migratorio. En 1991, la administración del entonces presidente de EUA, George Herbert Walker Bush, comenzó a levantar una barda de acero entre la playa de Tijuana y la Garita de San Ysidro; para su construcción se utilizaron planchas metálicas de 2.4 metros de altura dispuestas en vertical: plataformas viejas y oxidadas para helipuertos portátiles y caminos que se ensamblaban, usadas en la guerra de Vietnam hasta 1975" [@Meneses2023: PÁG.].
+> (...) fue a finales de 1989 cuando los grupos de civiles, jubilados y veteranos molestos por "el caos" que les causaba la migración en los límites de San Diego, impulsaron la campaña *"Lights up the Border".* La repercusión mediática que tuvo la acción de estos vigilantes fronterizos y su odio hacia los mexicanos permitieron la construcción del muro metálico con el fin de contener el flujo migratorio. En 1991, la administración del entonces presidente de EUA, George Herbert Walker Bush, comenzó a levantar una barda de acero entre la playa de Tijuana y la Garita de San Ysidro; para su construcción se utilizaron planchas metálicas de 2.4 metros de altura dispuestas en vertical: plataformas viejas y oxidadas para helipuertos portátiles y caminos que se ensamblaban, usadas en la guerra de Vietnam hasta 1975" [@Meneses2023: 265].
 
-El muro que divide México de EUA no solo se trata de una barrera física que impide el paso de migrantes, o que intenta "proteger" al país vecino de agentes extraños[^c6_10] [@Simmel2014a]. El muro como un dispositivo de control [@Foucault1984] construyó narrativas de distinción que reafirman la supremacía blanca, su ideología de superioridad racial, social y económica frente a los países del sur[^c6_11].
-
+El muro que divide México de EUA no solo se trata de una barrera física que impide el paso de migrantes, o que intenta "proteger" al país vecino de agentes extraños[^c6_10] [@Simmel2014a]. El muro como un dispositivo de control [@Foucault1976] construyó narrativas de distinción que reafirman la supremacía blanca, su ideología de superioridad racial, social y económica frente a los países del sur[^c6_11].
 
 
 El análisis cualitativo de los datos contempló las historias de vida como el recurso metodológico para abordar e identificar las problemáticas y el sentir de las y los propietarios afectados. Sus historias permitieron conocer e interpretar la realidad del borde de la colonia Libertad, identificar el valor simbólico que construyó sus subjetividades y cómo el muro fronterizo había influido en su cotidianidad. Por esto se recurre a las aportaciones del sociólogo Franco @Ferrarotti2012, quien describe las historias de vida como un método cualitativo que involucra la confianza y la construcción de empatía entre interlocutores y el investigador:
 
-> es justo la comprensión profunda, y no sólo a la descripción de los contornos externos, para lo que sirven las historias de vida (...) estas tienen un precio que obligan a ganarse la confianza de los interlocutores (...) ayudan a comprender que la persona que investiga también es "investigado" [@Ferrarotti2012: PÁG.].
+> es justo la comprensión profunda, y no sólo a la descripción de los contornos externos, para lo que sirven las historias de vida (...) estas tienen un precio que obligan a ganarse la confianza de los interlocutores (...) ayudan a comprender que la persona que investiga también es "investigado" [@Ferrarotti2012: 17].
 
 En tanto que, las historias de vida como método cualitativo brindan un marco interpretativo que da sentido a las experiencias humanas. A través de los relatos personales de las y los afectados por el Proyecto Viaducto Elevando Tijuana, se logró entender sus acciones: su rechazo en contra del proyecto o su interés por vender sus propiedades. Los datos obtenidos en las historias de vida permitieron analizar cómo era su relación con el borde de la colonia Libertad y el significado le daban a su cotidianidad a partir de la transformación geográfica, física y social de este espacio, todo en relación con el muro fronterizo.
 
 Al identificar el valor histórico de los relatos, me permití continuar con el registro de las historias, con el fin de preservar la memoria colectiva de las personas que, involuntariamente, construyeron/habitaron el borde de la colonia Libertad y que se vieron en la obligación de vender sus hogares.
 
-![](images/cap6libro2imagenC2026.JPG)
+![Transformación del paisaje y vestigios de la memoria habitacional junto al cerco fronterizo. Fotografía de la colección de la autora.](images/cap6libro2imagenC2026.JPG){#fig-3 fig-align="center" width="85%"}
 
 ## La construcción del Borde de la colonia Libertad {.unnumbered .unlisted}
 
@@ -197,7 +199,7 @@ Florencia fue otra de las vecinas que llegó a vivir en el borde cuando el terri
 >
 > > Fragmento de entrevista. Mayo 2023
 
-![](images/cap6libro2imagenD2026-02.jpg)
+![Convivencia en las inmediaciones del cerco internacional en la colonia Libertad. Fotografía de la colección de la autora.](images/cap6libro2imagenD2026-02.jpg){#fig-4 fig-align="center" width="85%"}
 
 ## Patrimonio irregular: violencia e incertidumbre {.unnumbered .unlisted}
 
@@ -264,7 +266,7 @@ La construcción del viaducto permitió observar la facilidad con la que, espaci
 
 Semanas después de aquella visita, Javier y su esposa fueron asesinados con un arma de fuego. Tras el deceso de Jaime se descubrió que él ocupaba el predio para esconder a migrantes y el incidente fue un ajuste de cuentas con los polleros de la zona. Vecinos explicaron que la niña de 9 años salió huyendo y fueron los mismos vecinos quienes la apoyaron por un par de días. Al no contar con más familiares, la pequeña fue trasladada al DIF estatal de Baja California.
 
-![](images/cap6libro2imagenE2026.jpg)
+![El borde de la colonia Libertad. Fotografía de la colección de la autora.](images/cap6libro2imagenE2026.jpg){#fig-5 fig-align="center" width="85%"}
 
 ## Un borde de polleros {.unnumbered .unlisted}
 
@@ -290,9 +292,9 @@ El olvido institucional que históricamente ha marcó a los habitantes del borde
 
 La única vez que vieron actuando de forma tajante al Gobierno Federal, fue cuando se les informó que tenían que vender sus propiedades y que si no conciliaban con el equipo encargado de liberar la vía, tenían que hacerlo directamente con la SEDENA. Ningún propietario quiso conciliar con soldados.
 
-![](images/cap6libro2imagenG2026.jpg)
-
 Genuinamente y para lograr la conciliación, se puso en marcha un método de análisis biográfico que estableció las estrategias de negociación. Después de cada visita en campo, se sugirió a los cuatro abogados platicar sobre lo que habían visto: la percepción de los propietarios, quejas, sugerencias, miedos o amenazas. Aunque las charlas se tornaban coloquiales, dentro de las conversaciones se confeccionaron las tácticas para abordar a cada propietario, prestando atención al valor emocional que las personas sentían por el hecho de no querer vender sus propiedades.
+
+![La vida cotidiana en el borde de la colonia Libertad](images/cap6libro2imagenG2026.jpg){#fig-6 fig-align="center" width="85%"}
 
 Durante los recorridos de socialización y reconocimiento del lugar, los propietarios explicaron que algunos de sus familiares habían sido asesinados a unos pasos de sus hogares; que los asaltos, levantones, venta de drogas y violaciones les hacían reformular sus horarios fuera de casa. Aunque a lo largo del articulo no se profundizó en los eventos que marcaron al equipo de liberación de vía en los trabajos de campo, me permito mencionar (solo como un indicador para enfatizar en la violencia que se vivía en el borde) que en un lapso de seis meses se presenció el descubrimiento de un narco túnel en una casa afectada por el viaducto y se nos informó de dos asesinatos de posesionarios con quienes se había entablado un lazo de amistad. Por ello se advertía al equipo sobre tener cuidado en el borde y evitar transitarlo después de las 5 de la tarde.
 

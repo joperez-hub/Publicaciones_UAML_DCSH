@@ -54,7 +54,7 @@ format:
     fontsize: 11pt
     geometry: "left=3cm,right=3cm,top=3cm,bottom=4cm"
     cite-method: biblatex
-    bibliography: 1libro22026.bib
+    bibliography: Libro.bib
     biblatexoptions: 
       - refsection=chapter
       - style=apa # O el estilo que prefieras (numeric, harvard, etc.)
