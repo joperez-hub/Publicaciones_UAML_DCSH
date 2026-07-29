@@ -11,7 +11,7 @@ project:
 #===============================================================================
 # Contiene la información paratextual esencial para la catalogación y derechos de autor.
 book:
-  title: "Experimentación Formal en Internet o de cómo las ciencias sociales habitan la galaxia"
+  title: "Experimentación Formal en Internet o de cómo las Ciencias Sociales habitan la galaxia"
   subtitle: "Convergencias, algoritmos y narrativas emergentes"
   editor:
     - name: "Fernando Rodrigo Beltrán Nieves"
@@ -86,7 +86,7 @@ format:
     lot: false                       # Desactivado (cambiar a true si el libro contiene tablas numeradas).
 
    # --- CONFIGURACIÓN DE COLORES PARA ENLACES Y CITAS ---
-    link-citations: true
-    citecolor: "blue"      # Esto pintará todas las citas de color rojo vivo
-    linkcolor: "red"     # Los números de página en el índice serán azules
-    urlcolor: "green"   # Los links a páginas web
+    #link-citations: true
+    #citecolor: "blue"      # Esto pintará todas las citas de color rojo vivo
+    #linkcolor: "red"     # Los números de página en el índice serán azules
+    #urlcolor: "green"   # Los links a páginas web

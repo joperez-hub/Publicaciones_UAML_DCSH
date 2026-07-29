@@ -82,7 +82,7 @@ format:
     lot: false                       # Desactivado (cambiar a true si el libro contiene tablas numeradas).
 
        # --- CONFIGURACIÓN DE COLORES PARA ENLACES Y CITAS ---
-    link-citations: true
-    citecolor: "blue"      # Esto pintará todas las citas de color rojo vivo
-    linkcolor: "red"     # Los números de página en el índice serán azules
-    urlcolor: "green"   # Los links a páginas web
+    #link-citations: true
+   # citecolor: "blue"      # Esto pintará todas las citas de color rojo vivo
+    #linkcolor: "red"     # Los números de página en el índice serán azules
+   # urlcolor: "green"   # Los links a páginas web

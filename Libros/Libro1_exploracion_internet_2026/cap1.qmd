@@ -6,7 +6,7 @@ title: "Capitalismo cognitivo, gubernamentalidad algorítmica y abordajes de la 
 subtitle: ""
 
 author:
-  - name: "Miguel Àngel Mata Salazar"
+  - name: "Miguel Ángel Mata Salazar"
     affiliation: "Facultad de Estudios Superiores Aragón, UNAM"
     orcid: ""
     email: "anomjo@yahoo.com.mx" 
@@ -37,11 +37,11 @@ footer-note: |
   \newcommand{\articuloTitulo}{[Capitalismo Cognitivo}
 ---
 
-\addtocontents{toc}{\protect\hspace{1.5em}Miguel Àngel Mata Salazar\par}
+\addtocontents{toc}{\protect\hspace{1.5em}Miguel Ángel Mata Salazar\par}
 \markboth{Capitalismo Cognitivo}{}
 
 \begin{flushright}
-\Large Miguel Àngel Mata Salazar \footnote{Facultad de Estudios Superiores Aragón, UNAM. Contacto: \href{anomjo@yaho.com.mx}{anomjo@yaho.com.mx}}
+\Large Miguel Ángel Mata Salazar \footnote{Facultad de Estudios Superiores Aragón, UNAM. Contacto: \href{anomjo@yaho.com.mx}{anomjo@yaho.com.mx}}
 \end{flushright}
 
 ## Introducción. Fases Históricas del capitalismo {.unnumbered .unlisted}
