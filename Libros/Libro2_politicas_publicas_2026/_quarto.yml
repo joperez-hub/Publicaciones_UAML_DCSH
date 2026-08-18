@@ -24,17 +24,15 @@ book:
   license: "CC BY-NC-SA 4.0"  # o la que corresponda
   chapters:
     - index.qmd
-    - part: Mirando desde y cómo el Estado
-      chapters:
-      - cap1.qmd
-      - cap2.qmd
-      - cap3.qmd
-      - cap4.qmd
-      - cap5.qmd
-      - cap6.qmd
-      - cap7.qmd
-      - cap8.qmd
-      - cap9.qmd
+    - cap1.qmd
+    - cap2.qmd
+    - cap3.qmd
+    - cap4.qmd
+    - cap5.qmd
+    - cap6.qmd
+    - cap7.qmd
+    - cap8.qmd
+    - cap9.qmd
     - part: Entrevista
       chapters:
       - entrevista.qmd

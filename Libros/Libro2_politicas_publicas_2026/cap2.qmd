@@ -47,9 +47,9 @@ footer-note: |
 
 ## Introducción {.unnumbered .unlisted}
 
-El objetivo de este artículo fue desarrollar un análisis y propuesta de alineación de los programas sociales federales hacia la población que trabaja de manera formal e informal en los sistemas de gestión de residuos sólidos urbanos en las ciudades de Acapulco, Oaxaca y Tlaxcala, todas capitales de sus estados, así como el municipio de Cuetzalan, que tiene un carácter rural e indígena[^1].
+El objetivo de este artículo fue desarrollar un análisis y propuesta de alineación de los programas sociales federales hacia la población que trabaja de manera formal e informal en los sistemas de gestión de residuos sólidos urbanos en las ciudades de Acapulco, Oaxaca y Tlaxcala, todas capitales de sus estados, así como el municipio de Cuetzalan, que tiene un carácter rural e indígena[^c2_1].
 
-[^1]: Esta investigación formó parte del proyecto nacional de investigación e incidencia “Estrategia transdisciplinaria de investigación y resolución en la problemática de los residuos sólidos urbanos, aplicada en 6 ciudades mexicanas" del CIESAS unidad Golfo; apoyado por el Consejo Nacional de Humanidades, Ciencias y Tecnologías (Conahcyt) en el marco de las actividades del Programa Nacional Estratégico (PRONACES) Agentes Tóxicos y Procesos Contaminantes. Número de proyecto 321379.
+[^c2_1]: Esta investigación formó parte del proyecto nacional de investigación e incidencia “Estrategia transdisciplinaria de investigación y resolución en la problemática de los residuos sólidos urbanos, aplicada en 6 ciudades mexicanas" del CIESAS unidad Golfo; apoyado por el Consejo Nacional de Humanidades, Ciencias y Tecnologías (Conahcyt) en el marco de las actividades del Programa Nacional Estratégico (PRONACES) Agentes Tóxicos y Procesos Contaminantes. Número de proyecto 321379.
 
 Aunque Acapulco (Guerrero), Oaxaca de Juárez (Oaxaca), Tlaxcala (Tlaxcala) y Cuetzalan del Progreso (Puebla) no conforman una región geográfica o administrativa unificada, su inclusión en este estudio se sustenta en un enfoque comparativo que busca capturar la diversidad territorial y sociolaboral del personal empleado en el sector de los residuos en México. Estos municipios representan distintos tipos de contexto —urbano turístico, ciudad patrimonial, intermedio-industrial y rural-indígena— que permiten analizar si la precariedad laboral se configura en función del tipo de territorio y su estructura socioeconómica.
 
@@ -63,9 +63,9 @@ México, al igual que otros países, ha adoptado políticas neoliberales que han
 
 En el ámbito formal, las personas trabajadoras suelen estar vinculadas a sistemas municipales o empresas concesionarias que operan bajo un marco legal. Sin embargo, @Espinosa2013 advierte que estas regulaciones no garantizan condiciones laborales dignas. A pesar de contar con un empleo público, enfrentan contratos inestables, ingresos insuficientes y carencia de equipos de protección personal. Sin embargo, esta situación no es exclusiva de México, en América Latina, @Acurio1997 encontraron que la población trabajadora formal del sector rara vez acceden a prestaciones laborales plenas, lo que la sitúa en desventaja económica y social; pero al comparar las condiciones de esta población laboral mexicana con aquella de ciudades como Sao Paulo o Buenos Aires, @Villanova2012 señala que los ingresos de los connacionales son más bajos, lo que exacerba su vulnerabilidad.
 
-Por otro lado, el sector informal de residuos, conformado por personas recolectoras independientes y recuperadoras de base, opera al margen de una relación contractual y corresponde a una estrategia de sobrevivencia en respuesta a la pobreza urbana @Tevera1993. El Programa de las Naciones Unidas para el Medio Ambiente [@ONUMedioAmbiente2018] apunta que una característica común en los países de América Latina es la presencia de estas personas trabajadoras, a quienes considera consecuencia de las crisis económicas y políticas habituales en la región que arrojan a un sinnúmero de personas a la pobreza. Por ejemplo, en Argentina, @Perelman2010 identificaron cómo las crisis económicas de principios de los años 2000 llevaron un número significativo de personas a dedicarse a la recuperación de residuos en las calles como alternativa para su supervivencia. Y aunque desempeñan un papel crucial en la recuperación de residuos valorizables, el trabajo de estas personas carece de reconocimiento formal, lo que se traduce en la ausencia de derechos laborales, acceso a servicios de salud o vivienda y protección social [@Espinosa2013]. @Valente2019 incluso destacan que los gobiernos municipales aprovechan frecuentemente la labor de estas personas sin reconocer su contribución, perpetuando su precarización. Quienes, además enfrentan condiciones insalubres, estigmatización social y la amenaza de desplazamiento por iniciativas de formalización que no consideran sus necesidades específicas [@Favela2013] [^2]. En suma, el personal laboral formal e informal del sector de los residuos comparte problemas estructurales que limitan su desarrollo vital. Entre estas problemáticas se encuentran la inestabilidad en el empleo, bajos salarios, falta de protección social y jornadas laborales prolongadas. Pero también, se le puede señalar como parte de grupos sociales o minorías marginadas y sin escolaridad [@Besiou2011]. Estas condiciones reflejan una precarización generalizada en el sector de los residuos, lo que les impide ejercer plenamente su ciudadanía económica, política y social.
+Por otro lado, el sector informal de residuos, conformado por personas recolectoras independientes y recuperadoras de base, opera al margen de una relación contractual y corresponde a una estrategia de sobrevivencia en respuesta a la pobreza urbana @Tevera1993. El Programa de las Naciones Unidas para el Medio Ambiente [@ONUMedioAmbiente2018] apunta que una característica común en los países de América Latina es la presencia de estas personas trabajadoras, a quienes considera consecuencia de las crisis económicas y políticas habituales en la región que arrojan a un sinnúmero de personas a la pobreza. Por ejemplo, en Argentina, @Perelman2010 identificaron cómo las crisis económicas de principios de los años 2000 llevaron un número significativo de personas a dedicarse a la recuperación de residuos en las calles como alternativa para su supervivencia. Y aunque desempeñan un papel crucial en la recuperación de residuos valorizables, el trabajo de estas personas carece de reconocimiento formal, lo que se traduce en la ausencia de derechos laborales, acceso a servicios de salud o vivienda y protección social [@Espinosa2013]. @Valente2019 incluso destacan que los gobiernos municipales aprovechan frecuentemente la labor de estas personas sin reconocer su contribución, perpetuando su precarización. Quienes, además enfrentan condiciones insalubres, estigmatización social y la amenaza de desplazamiento por iniciativas de formalización que no consideran sus necesidades específicas [@Favela2013] [^c2_2]. En suma, el personal laboral formal e informal del sector de los residuos comparte problemas estructurales que limitan su desarrollo vital. Entre estas problemáticas se encuentran la inestabilidad en el empleo, bajos salarios, falta de protección social y jornadas laborales prolongadas. Pero también, se le puede señalar como parte de grupos sociales o minorías marginadas y sin escolaridad [@Besiou2011]. Estas condiciones reflejan una precarización generalizada en el sector de los residuos, lo que les impide ejercer plenamente su ciudadanía económica, política y social.
 
-[^2]: En este trabajo se consideraron trabajadoras informales a las personas que por cuenta propia recorren las calles a pie, previo al paso del camión recolector y se dedican a la pepena o recuperación de materiales depositados en las bolsas de basura para venderlos y obtener un ingreso; así como a las personas que, con el mismo fin, extraen residuos valorizables en estaciones de transferencia o sitios de disposición final.
+[^c2_2]: En este trabajo se consideraron trabajadoras informales a las personas que por cuenta propia recorren las calles a pie, previo al paso del camión recolector y se dedican a la pepena o recuperación de materiales depositados en las bolsas de basura para venderlos y obtener un ingreso; así como a las personas que, con el mismo fin, extraen residuos valorizables en estaciones de transferencia o sitios de disposición final.
 
 Este escenario cobra relevancia en un contexto donde la política social de la Cuarta Transformación, diseñada bajo principios de universalidad, busca garantizar el acceso a programas sociales sin condicionamientos previos [@GobiernoDeMexico2019]. A pesar de los principios de universalidad, la cobertura de los programas sociales federales no ha sido analizada en su capacidad para incluir al personal laboral formal e informal del sector residuos; es decir, para dilucidar qué tanto esa universalidad les acerca los beneficios de la política social y en todo caso, avizorar de qué forma podría orientarse a su favor.
 
@@ -140,11 +140,80 @@ Entre las personas trabajadoras formales, la antigüedad promedio en el empleo e
 
 Además, se identificaron diferencias en la duración de la jornada laboral. Por ejemplo, se identificó que 61% del personal formal trabaja en promedio entre 7 y 8 horas al día y 26% trabaja más de 40 horas semanales. En contraste, los horarios de trabajo de la población informal son más extendidos: 33% trabaja 11 horas diarias y 62% labora más de 40 horas por semana (@fig-1).
 
-![Comparación de jornadas laborales (horas semanales). Elaboración propia](images/cap2libro2imagenA.png){#fig-1}
+```{r}
+#| label: fig-1
+#| echo: false
+#| message: false
+#| warning: false
+#| fig-cap: "Comparación de jornadas laborales (horas semanales). Elaboración propia"
+#| fig-width: 8
+#| fig-height: 5
 
-Finalmente, las condiciones de contratación destacan que hay inestabilidad laboral incluso entre el personal formal[^3], ya que únicamente 28% tiene contrato fijo o base, el resto tiene contratos temporales que renuevan cada tres meses (24%), semestralmente (4%), anualmente (7%) y 37% no tiene una duración definida. Esta situación reafirma los datos oficiales del INEGI y da cuenta que la precariedad laboral que padece la fuerza laboral formal en el sector de los residuos es más acentuada en los municipios de estudio.
+suppressPackageStartupMessages({
+  library(ggplot2)
+  library(tidyr)
+  library(dplyr)
+})
 
-[^3]: El corporativismo sindical presente en el sector puede explicar parcialmente la precarización laboral de la población trabajadora formal. Por una parte, algunos sindicatos estuvieron ligados al Estado en un plano de subordinación, de tal suerte que sirvieron más para priorizar el control político o la estabilidad del régimen que para representar o defender los derechos de la base trabajadora; sin embargo, el neoliberalismo también erosionó estas estructuras, y ha dado paso a que estos sean más una figura de choque frente al Estado y de simulación de representación, que toleran o se benefician de las subcontrataciones o el outsourcing. De acuerdo con nuestros resultados, del personal formal únicamente 18% tiene un empleo de base (todos varones mayores de 38 años), en 9 de cada 10 trabajadores, este empleo fue posible gracias al sindicato, aunque se indicaron como principales formas de obtención de esa plaza a: recomendaciones (49%), herencia (18%) y solicitud (11%). Para el 82% de trabajadores sin una plaza fija, el mecanismo para obtener su empleo fue a partir de negociaciones directas con el ayuntamiento.
+# 1. Crear el conjunto de datos exacto de la imagen
+datos <- data.frame(
+  horas = factor(
+    c("7-8 horas", "9-10horas", "11 horas o más", "sin horario fijo"),
+    levels = c("7-8 horas", "9-10horas", "11 horas o más", "sin horario fijo")
+  ),
+  Formal = c(61, 26, 13, 0),
+  informal = c(19, 20, 43, 19)
+)
+
+# 2. Transformar a formato largo
+datos_largos <- datos %>%
+  pivot_longer(
+    cols = c(Formal, informal),
+    names_to = "sector",
+    values_to = "porcentaje"
+  ) %>%
+  mutate(sector = factor(sector, levels = c("Formal", "informal")))
+
+# 3. Colores idénticos a los de la gráfica original (Naranja / Azul)
+colores_originales <- c(
+  "Formal" = "#E66128",
+  "informal" = "#00A0DC"
+)
+
+# 4. Generar la gráfica
+ggplot(datos_largos, aes(x = horas, y = porcentaje, fill = sector)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.7), width = 0.6) +
+  geom_text(
+    aes(label = porcentaje),
+    position = position_dodge(width = 0.7),
+    vjust = -0.5,
+    size = 3.8,
+    color = "#333333"
+  ) +
+  scale_fill_manual(values = colores_originales) +
+  scale_y_continuous(limits = c(0, 75), breaks = seq(0, 70, by = 10)) +
+  labs(
+    x = "Horas laboradas",
+    y = "Porcentaje de personal"
+  ) +
+  theme_minimal(base_size = 11) +
+  theme(
+    legend.position = "right",
+    legend.title = element_blank(),
+    panel.grid.major.x = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.grid.major.y = element_line(color = "#E0E0E0", linewidth = 0.5),
+    axis.title.x = element_text(color = "#333333", size = 10, margin = margin(t = 10)),
+    axis.title.y = element_text(color = "#333333", size = 10, margin = margin(r = 10)),
+    axis.text = element_text(color = "#333333", size = 10),
+    plot.margin = margin(t = 10, r = 10, b = 10, l = 10)
+  )
+```
+
+
+Finalmente, las condiciones de contratación destacan que hay inestabilidad laboral incluso entre el personal formal[^c2_3], ya que únicamente 28% tiene contrato fijo o base, el resto tiene contratos temporales que renuevan cada tres meses (24%), semestralmente (4%), anualmente (7%) y 37% no tiene una duración definida. Esta situación reafirma los datos oficiales del INEGI y da cuenta que la precariedad laboral que padece la fuerza laboral formal en el sector de los residuos es más acentuada en los municipios de estudio.
+
+[^c2_3]: El corporativismo sindical presente en el sector puede explicar parcialmente la precarización laboral de la población trabajadora formal. Por una parte, algunos sindicatos estuvieron ligados al Estado en un plano de subordinación, de tal suerte que sirvieron más para priorizar el control político o la estabilidad del régimen que para representar o defender los derechos de la base trabajadora; sin embargo, el neoliberalismo también erosionó estas estructuras, y ha dado paso a que estos sean más una figura de choque frente al Estado y de simulación de representación, que toleran o se benefician de las subcontrataciones o el outsourcing. De acuerdo con nuestros resultados, del personal formal únicamente 18% tiene un empleo de base (todos varones mayores de 38 años), en 9 de cada 10 trabajadores, este empleo fue posible gracias al sindicato, aunque se indicaron como principales formas de obtención de esa plaza a: recomendaciones (49%), herencia (18%) y solicitud (11%). Para el 82% de trabajadores sin una plaza fija, el mecanismo para obtener su empleo fue a partir de negociaciones directas con el ayuntamiento.
 
 De acuerdo con los resultados de la investigación empírica no fhay manera de establecer comparaciones y determinar diferencias entre los municipios; en la jornada laboral un municipio puede tener mejores condiciones que otro; sin embargo tiene mayores restricciones en las prestaciones laborales o la estabilidad contractual que otro; es decir, no encontramos evidencia de que la estructura económica del municipio o la vocación del territorio apunte a configurar mayores o menores dimensiones de la precariedad laboral que padece el personal ocupado del sector de los residuos.
 
@@ -156,7 +225,77 @@ Sin embargo, las poblaciones encuestadas señalan que hay programas sociales que
 
 Los programas sociales federales que benefician a las familias del personal formal son: Pensión para el bienestar de las personas adultas mayores (41%), Becas para el bienestar Benito Juárez (41%), Jóvenes construyendo el futuro (10%), Pensión para el Bienestar de las Personas con discapacidad permanente (3%) y Sembrando vida (3%). En el caso de las familias del personal informal, se benefician del Programa Pensión para el bienestar de las personas adultas mayores (60%), Becas para el bienestar Benito Juárez (20%), Pensión para el bienestar de las personas con discapacidad permanente (20%). Como se muestra en la @fig-2.
 
-![Programas sociales que benefician a las familias del personal laboral del sector residuos. Elaboración propia.](images/cap2libro2imagenB.png){#fig-2}
+```{r}
+#| label: fig-2
+#| echo: false
+#| message: false
+#| warning: false
+#| fig-cap: "Programas sociales que benefician a las familias del personal laboral del sector residuos. Elaboración propia"
+#| fig-width: 8.5
+#| fig-height: 5
+
+suppressPackageStartupMessages({
+  library(ggplot2)
+  library(tidyr)
+  library(dplyr)
+  library(stringr)
+})
+
+# 1. Crear el conjunto de datos con la información de la imagen
+datos <- data.frame(
+  programa = factor(
+    c("Adultos mayores", "Jóvenes Construyendo el Futuro", "Discapacidad Permanente", "Sembrando Vida", "Becas \"Benito Juárez\""),
+    levels = c("Adultos mayores", "Jóvenes Construyendo el Futuro", "Discapacidad Permanente", "Sembrando Vida", "Becas \"Benito Juárez\"")
+  ),
+  Formal = c(41, 10, 3, 3, 41),
+  Informal = c(60, 0, 20, 0, 20)
+)
+
+# 2. Transformar a formato largo
+datos_largos <- datos %>%
+  pivot_longer(
+    cols = c(Formal, Informal),
+    names_to = "sector",
+    values_to = "porcentaje"
+  ) %>%
+  mutate(sector = factor(sector, levels = c("Formal", "Informal")))
+
+# Colores idénticos (Naranja / Azul)
+colores_originales <- c(
+  "Formal" = "#E66128",
+  "Informal" = "#00A0DC"
+)
+
+# 3. Generar la gráfica
+ggplot(datos_largos, aes(x = programa, y = porcentaje, fill = sector)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.7), width = 0.6) +
+  geom_text(
+    aes(label = ifelse(porcentaje > 0, porcentaje, "")),
+    position = position_dodge(width = 0.7),
+    vjust = -0.5,
+    size = 3.8,
+    color = "#333333"
+  ) +
+  scale_fill_manual(values = colores_originales) +
+  scale_x_discrete(labels = function(x) str_wrap(x, width = 12)) +
+  scale_y_continuous(limits = c(0, 70), breaks = seq(0, 70, by = 10)) +
+  labs(
+    x = "Programas sociales federales",
+    y = "Porcentaje de cobertura"
+  ) +
+  theme_minimal(base_size = 11) +
+  theme(
+    legend.position = "right",
+    legend.title = element_blank(),
+    panel.grid.major.x = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.grid.major.y = element_line(color = "#E0E0E0", linewidth = 0.5),
+    axis.title.x = element_text(color = "#333333", size = 10, margin = margin(t = 10)),
+    axis.title.y = element_text(color = "#333333", size = 10, margin = margin(r = 10)),
+    axis.text = element_text(color = "#333333", size = 9.5),
+    plot.margin = margin(t = 10, r = 10, b = 10, l = 10)
+  )
+```
 
 Finalmente, se destaca que 18% de las personas trabajadoras formales o sus familiares han buscado beneficiarse de los distintos programas sociales, principalmente de las Becas para el bienestar Benito Juárez y el Programa de apoyo para el bienestar de las niñas y niños, hijos de madres trabajadoras, pero han enfrentado obstáculos para hacerlo; además se señaló la recurrencia a ser beneficiarios del Programa de apoyos directos al campo, actualmente denominado PROCAMPO Productivo; sin embargo, no haberlo conseguido. Por otro lado, llama la atención que un menor porcentaje de personas trabajadoras informales o sus familiares han buscado ser beneficiarios de la política social (14%) en comparación con los familiares o personal formal, siendo las Becas para el bienestar Benito Juárez el principal instrumento al que buscan adherirse. De acuerdo con los datos recabados, la falta de documentos es el principal obstáculo que los limita a acceder a ese apoyo.
 
