@@ -26,7 +26,7 @@ type: chapter
 
 ## Introducción {.unnumbered .unlisted}
 
-PARTADO I: "Reencantar el mundo: ecologías, complejidad y territorios"
+APARTADO I: "Reencantar el mundo: ecologías, complejidad y territorios"
 Capítulos incluidos:
 Cap. 1 — Barbacoa de Capulhuac y Capitaloceno (Miranda Gómez)
 Cap. 2 — Bienestar visual urbano y entropía (López Sauceda)

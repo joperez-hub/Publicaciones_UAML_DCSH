@@ -21,7 +21,7 @@ type: chapter
 \markboth{El Artesano Intelectual}{}
 
 \begin{flushright}
-\Large Claudia Mosqueda Gómez \footnote{asghrt}
+\Large Claudia Mosqueda Gómez \footnote{Semblanza.}
 \end{flushright}
 
 ## Introducción {.unnumbered .unlisted}

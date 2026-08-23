@@ -39,10 +39,12 @@ book:
         - capitulo_04.qmd # Interseccionalidad en Programas Públicos Municipales - Guillermo Aldair y Ricardo astorga
         - capitulo_06.qmd # El sistema penitenciario - Daniel Yuliet Peña
         - capitulo_07.qmd # Perspectiva de género - Dora Luz Morales 
-        - reseña.qmd
-    #- part: ENTREVISTA
-      #chapters:
-        #- entrevista.qmd
+    - part: ENTREVISTA 
+      chapters:
+        - entrevista.qmd
+    - part: RESEÑA
+      chapters:
+        - reseña.qmd # La sociedad del cuidado - Estela Melgarito
     - colofon.qmd
 
 #===============================================================================
