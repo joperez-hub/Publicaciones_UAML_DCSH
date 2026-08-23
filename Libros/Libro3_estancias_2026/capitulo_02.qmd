@@ -51,13 +51,13 @@ La teoría de redes se basa en las propiedades lógico-matemáticas de grafos, s
 
 [^c1_7]: En el ámbito de la redes urbanas una metared es una redes de redes, o multiplex, que también puede incorporar varias capas de información.
 
-![Una representación de la ciudad de Catál Huyúk.](images/cap6libro32026imgA.jpg){#fig-1}
+![Una representación de la ciudad de Catál Huyúk.](assets/imagenes/cap6libro32026imgA.jpg){#fig-1}
 
-![Antropósfera y tecnosfera. La fotografía derecha es una muestra mínimamente representativa de materia modificada por la humanidad y que compone parte de la antroposfera. Aunque hay autores que incluyen a la tecnosfera como parte de esta antropósfera, en la fotografía del lado izquierdo resulta evidente que existe información fluyendo más allá de la materia que compone a los cables y circuitos que se encuentran en los postes de las calles. Estos flujos de información están compuestos por servidores, micro-circuitos, cables, así como servicios de electricidad, internet y telefonía los cuales determinan la era de la información.](images/cap6libro32026imgB.png){#fig-2}
+![Antropósfera y tecnosfera. La fotografía derecha es una muestra mínimamente representativa de materia modificada por la humanidad y que compone parte de la antroposfera. Aunque hay autores que incluyen a la tecnosfera como parte de esta antropósfera, en la fotografía del lado izquierdo resulta evidente que existe información fluyendo más allá de la materia que compone a los cables y circuitos que se encuentran en los postes de las calles. Estos flujos de información están compuestos por servidores, micro-circuitos, cables, así como servicios de electricidad, internet y telefonía los cuales determinan la era de la información.](assets/imagenes/cap6libro32026imgB.png){#fig-2}
 
-![Redes y sus elementos. a) Grafo de una red aleatoria con 24 nodos y 178 enlaces con la distribución de frecuencia del grado de enlace de los nodos en el eje de las x. b) Grafo de una red libre de escala y la distribución de frecuencia del grado de enlace de los nodos. El grado de conexión de los nodos (x) es el número de enlaces por nodo y la frecuencia de nodos, de acuerdo a su grado de conexión (y)[@Newman2010].](images/cap6libro32026imgC.png){#fig-3}
+![Redes y sus elementos. a) Grafo de una red aleatoria con 24 nodos y 178 enlaces con la distribución de frecuencia del grado de enlace de los nodos en el eje de las x. b) Grafo de una red libre de escala y la distribución de frecuencia del grado de enlace de los nodos. El grado de conexión de los nodos (x) es el número de enlaces por nodo y la frecuencia de nodos, de acuerdo a su grado de conexión (y). Adaptado a partir del trabajo de @Newman2010.](assets/imagenes/cap6libro32026imgC.png){#fig-3}
 
-![Diagrama de flujo de acciones para el desarrollo de la comprensión de la evolución de una estructura urbana. Modificado de @Tang2022a.](images/cap6libro32026imgD.jpg){#fig-4}
+![Diagrama de flujo de acciones para el desarrollo de la comprensión de la evolución de una estructura urbana. Modificado de @Tang2022a.](assets/imagenes/cap6libro32026imgD.jpg){#fig-4}
 
 ### Redes de redes, el caso de las ciudades de Beijing, Guaangzhou y Shanghai en China. {.unnumbered .unlisted}
 
@@ -69,7 +69,7 @@ Para explicar la evolución de una red urbana y sus propiedades tomaremos como e
 
 [^c1_9]: Esto se puede deber al momento histórico en el que nos encontramos (2025), ya que ahora es cuando los metadatos se han vuelto ampliamente accesibles a la sociedad.
 
-![De izquierda a derecha, cambios en el tiempo en redes económicas y de innovación en diferentes ciudades en China. Modificado de @Tang2022a.](images/cap6libro32026imgE.jpg){#fig-5}
+![De izquierda a derecha, cambios en el tiempo en redes económicas y de innovación en diferentes ciudades en China. Modificado de @Tang2022a.](assets/imagenes/cap6libro32026imgE.jpg){#fig-5}
 
 De acuerdo a lo obtenido por @Tang2022a una red de ciudades evoluciona incrementando sus niveles de conexión, acarreando niveles de estratificación socioeconómicas permanentes, lo cual en términos más simples se traduce en desigualdades geográficas de los **estándares de vida**[^c1_10]. En contraste, y como se aprecia en el apartado *3.d*, la calidad de vida no necesariamente se encuentra limitada a los estándares de vida, lo cual en este trabajo asociamos con la cantidad de información de un entorno urbano particular. Las redes de ciudades también exhiben una prevalencia de aglomeración espacial y prioridad en conexiones; de acuerdo al nivel de conexión económica y de innovaciones de las entidades urbanas, incrementándose así durante el tiempo como efecto evidente. Otro efecto interesante es como en términos de distribución geográfica (en el EDL) de nodos, las redes económicas y de innovación forman centros de aglomeración en varios centros urbanos estratégicos. Esos centros urbanos estratégicos estuvieron polarizados en China durante 2006. Es decir, hay una aglutinación en torno a las fuentes de innovación y de alto flujo económico, lo cual tiene como consecuencia un incremento en el estándar de vida. La red urbana como estructura empieza a generar “ganglios de información, materia y energía, GaiM”. De hecho, en @Tang2022a se expone que en China están geográficamente ubicados 3 GaiM’s en tres regiones (este, oeste, y parte central; @fig-5). Finalmente, estos GaiM también reflejan tendencias de aglomeración hacia las zonas de Beijing, Shanghai y Guaangzhou, lo cual finalmente establece “ductos de información, materia y energía, DaiM” en el EDL pero también en el EFC. De hecho, esto se puede corroborar, ya que de acuerdo a @Tang2022a la proximidad institucional, social y cultural contribuyen significativamente a la evolución de redes económicas, es decir al cambio que se está mencionando sobre la red misma. Mientras tanto, las proximidades geográficas constituyen una fuente de influencia hacia el impulso de incremento de los DaiMs en las redes de innovación. Esto se debe a que ciertas empresas se ven beneficiadas o perjudicadas directamente debido a la distancia física entre ellas; movilidad de empleados, así como la infraestructura para retenerlos en una localidad dada con facilidad de movimiento e incrementar el ahorro. En conclusión, podemos ver que las redes urbanas poseen algunas estructuras urbanas lógico-materiales; algunas aglutinantes como los GaiMs y otras conductoras como los DaiMs.
 
@@ -165,7 +165,7 @@ Es evidente que en la civilización contemporánea la gran mayoría de factores 
 
 \endgroup
 
-![La entropía diferencial de Shannon permite diferenciar una zona de orden diferente entre muestras geométricas biológicas y aleatorias, incluso haciendo variaciones estadísticas consistentes tales como las categorías de una distribución (bin 0.1 a bin 0.5, [@Torres2013] @fig-6).](images/cap6libro32026imgF-01.png){#fig-6}
+![La entropía diferencial de Shannon permite diferenciar una zona de orden diferente entre muestras geométricas biológicas y aleatorias, incluso haciendo variaciones estadísticas consistentes tales como las categorías de una distribución (bin 0.1 a bin 0.5, @Torres2013 @fig-6).](assets/imagenes/cap6libro32026imgF.png){#fig-6}
 
 
 
@@ -185,25 +185,25 @@ De acuerdo a lo planteado, las ecuaciones expuestas son útiles para transformar
 
 Las fotografías de la izquierda tienen una distribución estadística particular si consideramos la frecuencia de valores de longitud de onda en todos los pixeles. Los valores de longitud de onda en el eje de las x se mantienen incrementando de acuerdo a los valores del espectro natural visible (@fig-7).
 
-![Frecuencia de valores de longitud de onda en el espectro visible para diferentes tipos de escenas fotográficas.](images/cap6libro32026imgG.png){#fig-7}
+![Frecuencia de valores de longitud de onda en el espectro visible para diferentes tipos de escenas fotográficas.](assets/imagenes/cap6libro32026imgG.png){#fig-7}
 
 La entropía de Shannon para cada una de las fotografías que se exponen se encuentra al pie de la figura. La fotografía de un paisaje repleto de plantas en el verde que se observa tiene una entropía de Shannon de 5 el cual consideramos como estado de bienestar. La figura con menor saturación visual es la del extremo superior derecho con un valor de 3.0811. En esta imagen es posible entender que los paisajes más apacibles tienen valores o bien mínimos o cercanos al 5 de la fotografía con mayor saturación de plantas. En contraste, los paisajes con mayor entropía visual corresponden a mayor entropía de Shannon. La entropía visual puede corresponder a un paisaje natural o no (@fig-8).
 
-![Muestra fotográfica y sus correspondientes valores de entropía de Shannon.](images/cap6libro32026imgH.jpg){#fig-8}
+![Muestra fotográfica y sus correspondientes valores de entropía de Shannon.](assets/imagenes/cap6libro32026imgH.jpg){#fig-8}
 
 Intuitivamente podemos entender que una mayor saturación de colores en el espectro de longitud de onda incrementa la entropía de Shannon o bien la información. Este exceso o moderado valor de heterogeneidad en los colores determina un factor inexorable de la CDV, el bienestar visual. Las fotografías tienen una correspondencia con los valores de las zonas biológicas y aleatorias usando los argumentos matemáticos de @LopezSauceda2022 y la @fig-6.
 
-![Esquema de la metodología descrita en la parte 2 de métodos.](images/cap6libro32026imgI.png){#fig-9}
+![Esquema de la metodología descrita en la parte 2 de métodos.](assets/imagenes/cap6libro32026imgI.png){#fig-9}
 
 ## Resultados y discusión {.unnumbered .unlisted}
 
 El muestreo aleatorio por parte de los fotógrafos o “agentes perceptores capturadores aleatorios de evidencia visual en tiempos particulares” determinó una muestra de 53 fotografías llegando a la conclusión de que se tienen encuentros con paisajes visuales altamente entrópicos [@fig-10]. Estos son intervalos de instantes de “temporalidad delimitada” o “permanencia en espacios únicos inmersivos” medidos por una métrica de entropía visual entre 2 y 6 ***H***. Los resultados por el método de clustering por K-Means [@fig-11] muestran que aunque las fotografías tienen una prevalencia de valores de entropía mayores a 4, se establecen grupos. En la [@fig-8] se puede intuir que el valor de 5 en *H* esta asociado a organizaciones biológicas. Los valores menores a 5, son espacios más ordenados y los mayores a 5 tienen una presencia d mayor variabilidad en la frecuencias de longitudes de onda. Por tanto, se puede asumir que en torno al 5 o menos es un espacio de bienestar inmersivo. En el caso de la Unidad Lerma, las muestras de mayor desorden son más abundantes y son propias de entornos que podrían ser descritas como paisajes de alto bienestar, aunque en términos de desorden tienen valores altos. Continuando con las agrupaciones por K-Means si al algoritmo se le indican 4 grupos detecta un grupo de muy baja entropía **(figura 11; azul)**, dos grupos de entropía media abajo y arriba de 5 **(figura 11; colores amarillo y verde)** y un grupo de alta entropía **(figura 11; color rojo).** Para tener una visualización se muestra la @fig-12.
 
-![Entropía de paisajes visuales. Los datos indican que en términos de un muestreo aleatorio hay pocos paisajes con alto orden o baja entropía. En cuanto a valores debajo de la mayor entropía y arriba de 4 estos aparecen de manera recurrente.](images/cap6libro32026imgJ.jpg){#fig-10}
+![Entropía de paisajes visuales. Los datos indican que en términos de un muestreo aleatorio hay pocos paisajes con alto orden o baja entropía. En cuanto a valores debajo de la mayor entropía y arriba de 4 estos aparecen de manera recurrente.](assets/imagenes/cap6libro32026imgJ.jpg){#fig-10}
 
-![Estadístico de K-Means mostrando 4 grupos de paisajes visuales: En azul, entropía baja y altamente ordenados; en amarillo y verde, entropía media con asociación de alto bienestar; y en rojo altamente entrópicos.](images/cap6libro32026imgK.jpg){#fig-11}
+![Estadístico de K-Means mostrando 4 grupos de paisajes visuales: En azul, entropía baja y altamente ordenados; en amarillo y verde, entropía media con asociación de alto bienestar; y en rojo altamente entrópicos.](assets/imagenes/cap6libro32026imgK.jpg){#fig-11}
 
-![Visualización de los cuatro clusters identificados por el algoritmo de agrupamiento según entropía de Shannon. Las imágenes se organizan por nivel de complejidad visual: azul (muy baja entropía), amarillo (entropía media \<5), verde (entropía media \>5) y rojo (alta entropía). Cada fila muestra ejemplos representativos de espacios universitarios clasificados en cada categoría.](images/cap6libro32026imgL.png){#fig-12}
+![Visualización de los cuatro clusters identificados por el algoritmo de agrupamiento según entropía de Shannon. Las imágenes se organizan por nivel de complejidad visual: azul (muy baja entropía), amarillo (entropía media \<5), verde (entropía media \>5) y rojo (alta entropía). Cada fila muestra ejemplos representativos de espacios universitarios clasificados en cada categoría.](assets/imagenes/cap6libro32026imgL.png){#fig-12}
 
 \newpage
 

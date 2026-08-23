@@ -61,7 +61,7 @@ Por otra parte, estoy totalmente dedicado al Programa de "Arte, Ciencia y Tecnol
 
 \begin{figure}[h!]
   \centering
-  \includegraphics[width=0.85\linewidth]{images/entrevista.JPG}
+  \includegraphics[width=0.85\linewidth]{assets/imagenes/entrevista.JPG}
   \caption{Proyecto coordinado por Eugenio Tiselli \textit{Sauti ya Wakulima}, realizado en Tanzania entre 2011 y 2019}
 \end{figure}
 
