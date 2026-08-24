@@ -6,6 +6,8 @@ project:
   output-dir: _book
   render: 
     - "*.qmd"
+  resources:
+    - "!images/"
 
 #===============================================================================
 # 2. METADATOS EDITORIALES Y DE PUBLICACIÓN
