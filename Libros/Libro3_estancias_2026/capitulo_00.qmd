@@ -21,7 +21,7 @@ type: chapter
 \markboth{El Artesano Intelectual}{}
 
 \begin{flushright}
-\Large Claudia Mosqueda Gómez \footnote{Semblanza.}
+\Large Claudia Mosqueda Gómez \footnote{Doctora en Ciencias Sociales por la UAM Xochimilco y doctora en Filosofía por la Universidad Autónoma de Madrid (España) con mención Cum Laude. Integrante del SNII 2026-2030. Fue jefa del Área en Estudios en Arte, Ciencia y Tecnología [EACT] del Departamento de Artes de 2019 a noviembre de 2023 y ha sido coordinadora de Estudios de la Licenciatura en Arte y Comunicación Digitales en UAM Lerma de noviembre de 2023 a 1 de marzo de 2025. Ha publicado y presentado libros de autor y diversos artículos y ponencias en eventos nacionales e internacionales sobre las prácticas profesionales del Arte y diseño; sobre la formación de los discursos contemporáneos del Arte Digital desde una perspectiva Sociológica, Hermenéutica y Fenomenológica. Algunos de los trabajos publicados son: Inmersión. Aproximaciones desde el cuerpo intermedio-quiasmo (2021) en Realidad de la Virtualidad. Virtualidad de la Realidad, La fantasía perceptiva: una mirada fenomenológica a la experiencia inmersiva (2020) en Espacio inmersividad: “miradas desde la transversalidad filosofía-arte-ciencia-tecnología. México: Juan Pablos Editores y UAM Lerma. Autora del libro Interpelaciones entre el arte, el diseño y la sociedad. (2018) México. UAM Lerma y Editorial Juan Pablos. Actualmente es profesora Investigadora de tiempo completo, adscrita al Departamento de Artes y Humanidades de UAM Lerma y docente de la carrera de Arte y Comunicación Digitales de UAM Lerma.Contacto: \href{mailto:c.mosqueda@correo.ler.uam.mx}{c.mosqueda@correo.ler.uam.mx}.}
 \end{flushright}
 
 ## Introducción {.unnumbered .unlisted}

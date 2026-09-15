@@ -33,20 +33,21 @@ book:
       chapters:
         - capitulo_00.qmd # Artesanías intelectuales - Claudia Mosqueda
         - capitulo_01.qmd # Barbacoa - Omar Miranda e Ignacio López
-        - capitulo_02.qmd # Bienestar urbano - Juan López Sauceda
+        #- capitulo_05.qmd # Estrategias colectivas - Esmeralda Pliego y Emilia Lara Walle
+        #- capitulo_02.qmd # Bienestar urbano - Juan López Sauceda
         #- capitulo_03.qmd No respondió a la convocatoria
-        - capitulo_05.qmd # Estrategias colectivas - Esmeralda Pliego y Emilia Lara Wlle
     - part: INTERSECCIONALIDADES DEL CUERPO, EL CUIDADO Y LA JUSTICIA
       chapters:
         - capitulo_04.qmd # Interseccionalidad en Programas Públicos Municipales - Guillermo Aldair y Ricardo astorga
-        - capitulo_06.qmd # El sistema penitenciario - Daniel Yuliet Peña
-        - capitulo_07.qmd # Perspectiva de género - Dora Luz Morales 
+        - capitulo_06.qmd # El sistema penitenciario - Daniely Yuliet Peña
+        #- capitulo_07.qmd # Perspectiva de género - Dora Luz Morales
+        - reseña.qmd # La sociedad del cuidado - Estela Melgarito
     - part: ENTREVISTA 
       chapters:
         - entrevista.qmd
-    - part: RESEÑA
-      chapters:
-        - reseña.qmd # La sociedad del cuidado - Estela Melgarito
+    #- part: RESEÑA
+      #chapters:
+        #- reseña.qmd # La sociedad del cuidado - Estela Melgarito
     - colofon.qmd
 
 #===============================================================================
