@@ -31,20 +31,20 @@ book:
     - index.qmd
     - part: ECOLOGÍAS, COMPLEJIDAD Y TERRITORIOS
       chapters:
-        - capitulo_00.qmd # Artesanías intelectuales - Claudia Mosqueda
-        - capitulo_01.qmd # Barbacoa - Omar Miranda e Ignacio López
-        #- capitulo_05.qmd # Estrategias colectivas - Esmeralda Pliego y Emilia Lara Walle
-        #- capitulo_02.qmd # Bienestar urbano - Juan López Sauceda
+        #- capitulo_00.qmd # Artesanías intelectuales - Claudia Mosqueda - terminado
+        #- capitulo_01.qmd # Barbacoa - Omar Miranda e Ignacio López - terminado
+        - capitulo_05.qmd # Estrategias colectivas - Esmeralda Pliego y Emilia Lara Walle - falta incorporar agradecimientos
+        #- capitulo_02.qmd # Bienestar urbano - Juan López Sauceda - en espera de respuesta
         #- capitulo_03.qmd No respondió a la convocatoria
-    - part: INTERSECCIONALIDADES DEL CUERPO, EL CUIDADO Y LA JUSTICIA
-      chapters:
-        - capitulo_04.qmd # Interseccionalidad en Programas Públicos Municipales - Guillermo Aldair y Ricardo astorga
-        - capitulo_06.qmd # El sistema penitenciario - Daniely Yuliet Peña
+    #- part: INTERSECCIONALIDADES DEL CUERPO, EL CUIDADO Y LA JUSTICIA
+      #chapters:
+        #- capitulo_04.qmd # Interseccionalidad en Programas Públicos Municipales - Guillermo Aldair y Ricardo Astorga - Terminado
+        #- capitulo_06.qmd # El sistema penitenciario - Daniely Yuliet Peña - Terminado
         #- capitulo_07.qmd # Perspectiva de género - Dora Luz Morales
-        - reseña.qmd # La sociedad del cuidado - Estela Melgarito
-    - part: ENTREVISTA 
-      chapters:
-        - entrevista.qmd
+        #- reseña.qmd # La sociedad del cuidado - Estela Melgarito - Terminado
+    #- part: ENTREVISTA 
+      #chapters:
+        #- entrevista.qmd # Sofia Sienra - Terminado
     #- part: RESEÑA
       #chapters:
         #- reseña.qmd # La sociedad del cuidado - Estela Melgarito
