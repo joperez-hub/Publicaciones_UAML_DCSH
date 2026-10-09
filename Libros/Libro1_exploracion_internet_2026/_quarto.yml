@@ -21,7 +21,7 @@ book:
   publisher: "Universidad Autónoma Metropolitana, Unidad Lerma"
   publisher-place: "Lerma de Villada, Estado de México"
   date: ""                # Sugerencia: Usar "today" para fecha automática de compilación o formato ISO (AAAA-MM-DD).
-  isbn: "978-xxx-xxx-xxx-x"    # Reemplazar con el ISBN asignado por la editorial institucional.
+  isbn: "978-607-28-3794-2"    # Reemplazar con el ISBN asignado por la editorial institucional.
   doi: "10.xxxx/xxxxx"         # Reemplazar si el DOI ya ha sido asignado.
   license: "CC BY-NC-SA 4.0"   # Licencia Creative Commons (Reconocimiento-NoComercial-CompartirIgual).
   chapters:

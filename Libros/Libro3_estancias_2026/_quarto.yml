@@ -23,31 +23,28 @@ book:
   publisher: "Universidad Autónoma Metropolitana, Unidad Lerma"
   publisher-place: "Lerma de Villada, Estado de México"
   date: ""
-  isbn: "978-xxx-xxx-xxx-x"
+  isbn: "978-607-28-3792-8"
   doi: "10.xxxx/xxxxx"
   license: "CC BY-NC-SA 4.0"
   
   chapters:
-    - index.qmd
+    - index.qmd # Yo - Por terminar
+    - capitulo_00.qmd # Artesanías intelectuales - Claudia Mosqueda - terminado
     - part: ECOLOGÍAS, COMPLEJIDAD Y TERRITORIOS
       chapters:
-        #- capitulo_00.qmd # Artesanías intelectuales - Claudia Mosqueda - terminado
-        #- capitulo_01.qmd # Barbacoa - Omar Miranda e Ignacio López - terminado
-        - capitulo_05.qmd # Estrategias colectivas - Esmeralda Pliego y Emilia Lara Walle - falta incorporar agradecimientos
-        #- capitulo_02.qmd # Bienestar urbano - Juan López Sauceda - en espera de respuesta
+        - capitulo_01.qmd # Barbacoa - Omar Miranda e Ignacio López - Terminado
+        - capitulo_05.qmd # Estrategias colectivas - Esmeralda Pliego y Emilia Lara Walle - Terminado
+        - capitulo_02.qmd # Bienestar urbano - Juan López Sauceda - en espera de respuesta
         #- capitulo_03.qmd No respondió a la convocatoria
-    #- part: INTERSECCIONALIDADES DEL CUERPO, EL CUIDADO Y LA JUSTICIA
-      #chapters:
-        #- capitulo_04.qmd # Interseccionalidad en Programas Públicos Municipales - Guillermo Aldair y Ricardo Astorga - Terminado
-        #- capitulo_06.qmd # El sistema penitenciario - Daniely Yuliet Peña - Terminado
-        #- capitulo_07.qmd # Perspectiva de género - Dora Luz Morales
-        #- reseña.qmd # La sociedad del cuidado - Estela Melgarito - Terminado
-    #- part: ENTREVISTA 
-      #chapters:
-        #- entrevista.qmd # Sofia Sienra - Terminado
-    #- part: RESEÑA
-      #chapters:
-        #- reseña.qmd # La sociedad del cuidado - Estela Melgarito
+    - part: INTERSECCIONALIDADES DEL CUERPO, EL CUIDADO Y LA JUSTICIA
+      chapters:
+        - capitulo_04.qmd # Interseccionalidad en Programas Públicos Municipales - Guillermo Aldair y Ricardo Astorga - Terminado
+        - capitulo_06.qmd # El sistema penitenciario - Daniely Yuliet Peña - Terminado
+        - capitulo_07.qmd # Perspectiva de género - Dora Luz Morales - En espera de Vo,Bo. y Semblanza
+        - reseña.qmd # La sociedad del cuidado - Estela Melgarito - Terminado
+    - part: ENTREVISTA 
+      chapters:
+        - entrevista.qmd # Sofia Sienra - Terminado
     - colofon.qmd
 
 #===============================================================================
@@ -59,7 +56,7 @@ format:
     pdf-engine: xelatex
     lang: es
     documentclass: scrbook
-    papersize: "a4"
+    papersize: "letter"
     fontsize: 11pt
     geometry: "left=3cm,right=3cm,top=3cm,bottom=4cm"
     cite-method: biblatex

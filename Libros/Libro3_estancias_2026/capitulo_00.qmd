@@ -26,7 +26,7 @@ type: chapter
 
 ## Introducción {.unnumbered .unlisted}
 
-El propósito que aquí me planteo es hablar sobre la investigación, dar sentido y elevar este noble trabajo como un proceso vivo, activo, como un proceso biográfico de vidas que aspiren al artesanado. Investigar nos activa para combatir o renunciar a las cortapisas o sujeciones de la investigación credencialista y meritocrática. Todas y todos hacemos nuestros pinitos en la investigación y justo este interés es el que nos atraviesa, que nos une y que nos hace ser.
+\noindent El propósito que aquí me planteo es hablar sobre la investigación, dar sentido y elevar este noble trabajo como un proceso vivo, activo, como un proceso biográfico de vidas que aspiren al artesanado. Investigar nos activa para combatir o renunciar a las cortapisas o sujeciones de la investigación credencialista y meritocrática. Todas y todos hacemos nuestros pinitos en la investigación y justo este interés es el que nos atraviesa, que nos une y que nos hace ser.
 
 Quizá merece la pena hacer un impasse para preguntarnos cómo superar o enfrentarnos a la prosa y poses académicas. Responder a ello nos sitúa en nuestra mismidad. Investigar es un trabajo que remunera al pensamiento y retribuye al conocimiento y es que el trabajo de investigación siempre es autobiográfico, porque ello no se separa de nuestras vidas, no se desprende antagónicamente de nosotros, por el contrario toca la realidad, la roza, la transforma, la comprender y luego vuelve a nosotros en forma de otras preguntas, en momentos donde somos diferentes y capaces de reformularse. Somos y fluimos como el río de Eraclito, no somos las y los mismos, como la investigación es tampoco nunca la misma. Incesante proceso transformativo.
 
@@ -34,7 +34,7 @@ De la misma manera, Wright @Mills1983 diría que trabajo y vida son las dos cara
 
 ## El trabajo intelectual como artesanía  {.unnumbered .unlisted}
 
-La palabra artesano o artesana no se entiende aquí en el sentido común, no se trata de definir a una persona que tiene un oficio manual, sino hacer una mimesis de esta forma de trabajo por el modo y maestría de hacer las cosas y hacerlas con el riguroso desarrollo de su habilidad, como el cuidado en la aplicación de esas habilidades, con la pasión de quien ama el detalle.
+\noindent La palabra artesano o artesana no se entiende aquí en el sentido común, no se trata de definir a una persona que tiene un oficio manual, sino hacer una mimesis de esta forma de trabajo por el modo y maestría de hacer las cosas y hacerlas con el riguroso desarrollo de su habilidad, como el cuidado en la aplicación de esas habilidades, con la pasión de quien ama el detalle.
 
 Hanna @Arent2009, Wright @Mills1983 o Richard @Sennett2009 asumen que trabajar en pensar al mundo, a la realidad, preguntarnos sobre él y aún más explicarlo mientras nos forjamos a nosotras y nosotros mismos es ser un artesano intelectual. La categoría de artesano, particularmente dice Richard @Sennett2009, representa en cada una y uno de nosotros el deseo de hacer algo bien, concretamente y sin ninguna otra finalidad.
 
@@ -42,7 +42,7 @@ El trabajo intelectual es la elección de una carrera o del trabajo de investiga
 
 ## Los artesanos cuidan de sí  {.unnumbered .unlisted}
 
-Hanna @Arent2009 apunta en su bello texto ***La condición humana*** que hay que poner especial interés en cómo hacemos o producimos las cosas, pues cuando no comprendemos lo que hacemos y producir de filo sin reparar en nuestra propia práctica nos condenarnos a la autodestrucción o autolesionarnos.
+\noindent Hanna @Arent2009 apunta en su bello texto ***La condición humana*** que hay que poner especial interés en cómo hacemos o producimos las cosas, pues cuando no comprendemos lo que hacemos y producir de filo sin reparar en nuestra propia práctica nos condenarnos a la autodestrucción o autolesionarnos.
 
 Y es que el trabajo del artesanado ha de ser para sí. Y ser para sí es ejecutar una tarea para toda la vida, que atiende a un cuidado de sí. El artesano-investigador ha de cuidar de sí mismo porque la actividad creadora que ejerce y transita le conduce a ser consciente de la permanente reflexión de su actitud productora y creadora.
 
@@ -54,7 +54,7 @@ Este artesano intelectual ha de renovarse siempre así mismo mediante la perpetu
 
 ## Ser creándose-investigando siendo  {.unnumbered .unlisted}
 
-Los y las investigadores-artesanos son Dédalos o Leonardos, ingenian conceptos, construyen soluciones, diseñan conocimientos, crean artefactos sensibles y conceptuales, son capaces de transitar por diversos campos de conocimientos, herramientas, ideas, realidades, materiales. Perfil sensible y científico que dispone de un saber y de un saber-hacer extraordinarios y tiene además el tipo de inteligencia, de creatividad que se requiere para llevar a cabo una investigación ejemplar.
+\noindent Los y las investigadores-artesanos son Dédalos o Leonardos, ingenian conceptos, construyen soluciones, diseñan conocimientos, crean artefactos sensibles y conceptuales, son capaces de transitar por diversos campos de conocimientos, herramientas, ideas, realidades, materiales. Perfil sensible y científico que dispone de un saber y de un saber-hacer extraordinarios y tiene además el tipo de inteligencia, de creatividad que se requiere para llevar a cabo una investigación ejemplar.
 
 La investigación como artesanía propone también estimular la imaginación. La imaginación no responde sólo al impulso onírico o heurístico, no es un pensamiento que llega con la fugacidad del sueño lúcido. Esta ya está ahí en un estado de anidación, se presenta sin infancia, sin pasado, parece siempre actual, pues se presenta y no avisa, llega mientras trabajamos. Picasso decía: cuando la inspiración llegue me encuentre trabajando. David Lynch decía que una idea es un pensamiento. Un pensamiento que abarca más de lo que crees cuando se nos ocurre y entonces nos enamoramos.
 
@@ -76,7 +76,7 @@ Para estimular la imaginación en la investigación, podríamos empezar haciénd
 
 ## El artesanado ejemplar {.unnumbered .unlisted}
 
-Estas ideas no intentan ser un corolario ideológico o una palabrería que se tire por la borda, tampoco intentan trazar un deber ser, la intención es dirigir el trabajo del artesanado a crear investigaciones ejemplares. El ejemplar no es perfecto, único, acabado o cerrado. La ejemplaridad de una investigación no es un término arrogante o vanidoso del que se pueda presumir. Lo ejemplar se alcanza con el trabajo mismo. Foucault decía que *trabajar significa emprender el camino para pensar algo diferente de lo que hasta entonces se pensaba*.
+\noindent Estas ideas no intentan ser un corolario ideológico o una palabrería que se tire por la borda, tampoco intentan trazar un deber ser, la intención es dirigir el trabajo del artesanado a crear investigaciones ejemplares. El ejemplar no es perfecto, único, acabado o cerrado. La ejemplaridad de una investigación no es un término arrogante o vanidoso del que se pueda presumir. Lo ejemplar se alcanza con el trabajo mismo. Foucault decía que *trabajar significa emprender el camino para pensar algo diferente de lo que hasta entonces se pensaba*.
 
 Existe una noble intención en desentrañar los buenos procesos de investigación porque posibilitan una lectura crítica y analítica del propio problema de investigación. Aproximan a las generaciones de investigadores a la reflexión y diálogo con su objeto pensado desde el otro-proceso. Hay un proceso de ida y vuelta de lo joven (incipiente) frente a lo maduro (ejemplar) provocado por el movimiento dinámico y progresivo del pensamiento.
 

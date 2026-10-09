@@ -21,7 +21,7 @@ type: chapter
 \markboth{El sistema penitenciario del Estado de México frente al sistema de justicia penal}{}
 
 \begin{flushright}
-\Large Daniely Yuliet Peña Miranda \footnote{ Contacto: \href{mailto:d.yuliet.pm@gmail.com}{d.yuliet.pm@gmail.com}}
+\Large Daniely Yuliet Peña Miranda \footnote{ Licenciada en Políticas Públicas por la Universidad Autónoma Metropolitana Unidad Lerma, maestra en Ciencias Administrativas por la misma Casa de Estudios Unidad Iztapalapa y actualmente cursa el último trimestre de la Licenciatura en Derecho en la UAM- Azcapotzalco. \\ Beneficiaria del Programa Investigadoras e Investigadores COMECYT en las convocatorias 2024 y 2025 con proyectos enfocados en el estudio del sistema penitenciario desde una visión institucional. Tiene experiencia en el servicio público y en el ámbito académico.Contacto: \href{mailto:d.yuliet.pm@gmail.com}{d.yuliet.pm@gmail.com}}
 \end{flushright}
 
 ## Introducción {.unnumbered .unlisted}
