@@ -57,7 +57,7 @@ En investigaciones realizadas en contextos de degradación medioambiental, la no
 
 El municipio de Lerma es relevante en el estudio de Cuencas, debido a que la Cuenca Lerma-Chapala-Santiago es la más extensa en la República Mexicana [@SugiuraYamamoto2016] (Sugiura *et al.*, 2016) ya que cuenta con 53, 592 kilómetros cuadrados entre los estados de Guanajuato, Michoacán, Jalisco, Querétaro y México.
 
-![Ubicación de la zona lacustre en el municipio de Lerma](assets/imagenes/cap5libro32026img1.jpg)
+![Ubicación de la zona lacustre en el municipio de Lerma](assets/imagenes/cap2libro32026img1.jpg)
 
 Esta gran cuenca nace en el Valle de Toluca, teniendo como eje al río Lerma, que inicia en Almoloya del Río y que atraviesa los municipios del Estado de México como la Cuenca Alta del río Lerma que se divide en tres cursos: Curso Alto del río Lerma, el cual incluye 22 municipios;[^cap5_3] Curso Medio del río Lerma, con 9 municipios[^cap5_4]; y el Curso Bajo del río Lerma con tres municipios: Acambay, El Oro y Temascalcingo.
 
@@ -72,9 +72,9 @@ El municipio de Lerma posee espacios urbanos, de transición y de periferia. Se 
 \vspace{0.5cm}
 
 ::: {#fig-infraestructura layout="[[36, 64]]"}
-![](assets/imagenes/cap5libro32026img2_1.png)
+![](assets/imagenes/cap2libro32026img2_1.png)
 
-![](assets/imagenes/cap5libro32026img2_2.jpg)
+![](assets/imagenes/cap2libro32026img2_2.jpg)
 
 Infraestructuras hídricas y de movilidad en Lerma. Fuente: Colección personal Pliego-Alvarado, 2024.
 :::
@@ -94,9 +94,9 @@ El Sistema Lerma es un proyecto hidráulico que comenzó a realizarse en 1942 y 
 \vspace{0.5cm}
 
 ::: {#fig-infraestructura layout="[[44.5, 55.5]]"}
-![](assets/imagenes/cap5libro32026img3_1.jpg)
+![](assets/imagenes/cap2libro32026img3_1.jpg)
 
-![](assets/imagenes/cap5libro32026img3_2.jpg)
+![](assets/imagenes/cap2libro32026img3_2.jpg)
 
 Pozo de extracción y paisaje en Lerma. Fuente: Colección personal Pliego-Alvarado, 2024.
 :::

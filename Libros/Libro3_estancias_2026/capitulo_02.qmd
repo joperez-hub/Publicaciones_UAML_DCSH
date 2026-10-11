@@ -76,7 +76,7 @@ Además, estas redes urbanas pueden generar redes de ciudades generando así met
 \vspace{0.1cm}
 
 :::{#fig-5 fig-cap="De izquierda a derecha, cambios en el tiempo en redes económicas y de innovación en diferentes ciudades en China. Modificado de @Tang2022a." fig-loation="H!"}
-![](assets/imagenes/cap6libro32026imgE.jpg){width=100%}
+![](assets/imagenes/cap3libro32026img5.jpg){width=100%}
 :::
 
 \vspace{0.1cm}
@@ -146,6 +146,7 @@ La metodología, así como los conceptos clave del uso de los emanadores han sid
 
 :::{#fig-6 fig-cap="Emanadores" fig-loation="H!"}
 ![](assets/imagenes/cap3libro32026img6.png){width=100%}
+:::
 
 Las fuentes de información física en tales emanadores son; la información visual, espacial, económica y de densidad, las cuales tienen una emisión constante de información hacia la sociedad como inputs. Estos inputs impactan a los receptores inmersos (sociedad, ecosistemas, sensores, etc.) y a sí mismos. Todo lo anterior aun cuando no haya una intención de intercambio o flujo de información. Es decir, aun cuando hay emanadores de información física hacia la comunidad perceptora estos han sido casi irreconocibles, o al menos típicamente no son reconocidos como entidades dentro del sistema input-output que corresponde a los sistemas complejos urbanos. La naturaleza de estos emanadores es similar a la de las formas de la materia, su presencia es evidente, incluso descriptible, pero se torna tan cotidiana que eventualmente deja de ser perceptible, aunque su impacto es definitivo y constante para establecer la CDV. Además, está información, siendo un elemento intangible pero físico del sistema socioecológico tiene niveles de orden y desorden que definen la calidad y la cantidad de esta. Estos niveles se pueden cuantificar con la entropía informacional de los sistemas físicos en cuestión, una vez que se tengan detectadas las frecuencias de las amplitudes de onda del sonido, los niveles de heterogeneidad del espectro de longitud de onda de los paisajes, incluso niveles de desigualdad económica, por ejemplo. Estas cuantificaciones se pueden traducir en distribuciones de frecuencia y clasificar a los diferentes emanadores dependiendo de la cercanía que tengan estas distribuciones con la información emanada de sistemas biológicos usando  entropía diferencial (@eq-1):
 

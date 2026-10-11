@@ -58,7 +58,7 @@ format:
     documentclass: scrbook
     papersize: "letter"
     fontsize: 11pt
-    geometry: "left=3cm,right=3cm,top=3cm,bottom=4cm"
+    geometry: "left=3cm,right=3cm,top=3cm,bottom=3cm"
     cite-method: biblatex
     bibliography: Libro.bib
     biblatexoptions: 
